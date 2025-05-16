@@ -8,4 +8,4 @@ This folder contains the official statutes of the Institute for Structural Integ
 
 - **English (EN)**  
   [Statute – PDF](./EN%20-%20Forma%20-%20e.%20V.%20Statue.pdf)
-  [Statute – DOCX](./EN%20-%20Forma%20-%20e.%20V.%20Statute.docx)
+  [Statute – DOCX](./EN%20-%20Forma%20-%20e.%20V.%20Statue.docx)
