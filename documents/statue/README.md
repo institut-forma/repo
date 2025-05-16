@@ -1,6 +1,6 @@
 # Statute Documents
 
-This folder contains the official statutes of the Institute for Structural Integrity.
+This folder contains the official statutes of the "Institut für Strukturelle Integrität".
 
 - **German (DE)**  
   [Satzung – PDF](./DE%20-%20Forma%20-%20e.%20V.%20Satzung.pdf)  
