@@ -1,0 +1,34 @@
+I am a teacher working with students in
+	[insert class/grade level, e.g. 8th grade in Germany],
+
+and I want to teach an abstract concept in a way that aligns with how students at this age actually think and learn.
+
+The topic or formula is:
+	[insert concept or formula,
+	e.g. quadratic formula, Pythagorean theorem, percentages]
+
+I don’t want just an explanation or exercises. I want:
+
+– A deep analysis of why students often struggle to understand or retain this concept
+
+– An explanation of how this difficulty relates to their cognitive and emotional development at this age
+
+– A reimagined lazy teaching approach that builds up from real-world experience, physical or social intuition, and curiosity—so that abstraction comes naturally later
+
+Please structure your response as a full deep system grade analysis with the following points:
+
+What is the real issue in classroom reality when this concept is taught?
+
+Why is this concept cognitively difficult for students at this developmental stage?
+
+How can we build cognitive access without forcing early abstraction?
+
+What would a classroom sequence look like where the formula or rule emerges organically—because the students need it, not because it's imposed?
+
+The final goal is not to simplify the concept artificially, but to teach it in a way that resonates with how students at this stage actually operate.
+
+Please respond in a clear, grounded, step-by-step teaching strategy that feels natural and usable in the classroom.
+
+Add an Appendix A at the end of this lesson sequence that explains the cognitive science and learning psychology behind the approach, citing relevant theories. Explain how the instructional flow supports retention, comprehension, and developmental appropriateness.
+
+Reply in [English].
