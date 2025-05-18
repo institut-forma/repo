@@ -24,7 +24,7 @@ Then you (or a tool like OpenAI) can use it to generate a matching learning sequ
 
 It’s built to reduce friction, especially when:
 - you're designing something new  
-- you're covering for someone else  
+- you're covering for someone else
 - you're documenting what works  
 - you want to share a student’s learning profile in a clean, usable way
 
