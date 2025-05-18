@@ -1,34 +1,64 @@
-I am a teacher working with students in
-	[insert class/grade level, e.g. 8th grade in Germany],
+I’m a teacher working with students in  
+    [grade/class and country]  
 
-and I want to teach an abstract concept in a way that aligns with how students at this age actually think and learn.
+and I want to teach an abstract concept in a way that actually fits how students at this age think, focus, and learn.
 
-The topic or formula is:
-	[insert concept or formula,
-	e.g. quadratic formula, Pythagorean theorem, percentages]
+The topic or formula is:  
+    [topic/formula]
 
-I don’t want just an explanation or exercises. I want:
+---
 
-– A deep analysis of why students often struggle to understand or retain this concept
+I’m not looking for another explanation or worksheet.  
+I want a complete, real-world teaching approach that:
 
-– An explanation of how this difficulty relates to their cognitive and emotional development at this age
+- Explains why this concept is so often misunderstood or forgotten  
+- Connects that struggle to how students' thinking works at this age  
+- Builds understanding through real-world interaction, simple variation, or shared reasoning  
+- Lets the formula *appear when it makes sense* — not earlier, not harder, just **lazy and right**
 
-– A reimagined lazy teaching approach that builds up from real-world experience, physical or social intuition, and curiosity—so that abstraction comes naturally later
+---
 
-Please structure your response as a full deep system grade analysis with the following points:
+### Please organize your response into the following 4 sections:
 
-What is the real issue in classroom reality when this concept is taught?
+---
 
-Why is this concept cognitively difficult for students at this developmental stage?
+**1. What actually happens in the classroom?**  
+Describe the common breakdowns when this topic is taught — where students disconnect, what gets skipped, and what doesn’t stick.
 
-How can we build cognitive access without forcing early abstraction?
+---
 
-What would a classroom sequence look like where the formula or rule emerges organically—because the students need it, not because it's imposed?
+**2. Why is it difficult at this age?**  
+Explain how this concept mismatches typical 8th-grade brain development.  
+Include attention span, abstraction tolerance, motivation, and how their thinking is still rooted in what they can see, feel, or relate to.
 
-The final goal is not to simplify the concept artificially, but to teach it in a way that resonates with how students at this stage actually operate.
+---
 
-Please respond in a clear, grounded, step-by-step teaching strategy that feels natural and usable in the classroom.
+**3. How can I teach this differently?**  
+Design a step-by-step sequence that:
 
-Add an Appendix A at the end of this lesson sequence that explains the cognitive science and learning psychology behind the approach, citing relevant theories. Explain how the instructional flow supports retention, comprehension, and developmental appropriateness.
+- Starts with no formulas  
+- Uses experience, motion, examples, or team discovery  
+- Leads toward a shared realization that *something is missing*  
+- Then makes the abstract concept feel earned and obvious — like a tool they wanted all along
 
-Reply in [English].
+---
+
+**4. When (and how) should the formula appear?**  
+Describe the moment when introducing the formula will *land*.  
+It should feel natural — not forced, not mysterious — just **lazy in the best way**: a clear shortcut to something they already understand.
+
+---
+
+### Appendix A – Cognitive Reasoning  
+At the end, add an appendix explaining **why this approach works**.  
+Use key learning psychology (Piaget, Bruner, Vygotsky, Sweller, etc.) to show how the flow supports memory, attention, and developmental timing.
+
+---
+
+Language:  
+    English
+
+Tone:  
+    Supportive, clear, classroom-aware.  
+    For a real teacher who wants to do something better — not harder.
+Use appropriate Emojis for visual harmony while reading.
