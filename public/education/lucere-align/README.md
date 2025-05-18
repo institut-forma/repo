@@ -50,6 +50,6 @@ You can reuse the prompt with different students or ideas.
 
 ## Where to start
 
-See [`lucere-align-prompt.txt`](./lucere-align-prompt.txt)[^1]
+To use manually or in OpenAI: [`lucere-align-prompt.txt`](./lucere-align-prompt.txt)[^1]
 
 [^1]: Institut für Strukturelle Integrität – version lucere-align-17-05-2025-00 – (CC BY-SA 4.0)
