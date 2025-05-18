@@ -4,6 +4,10 @@ Example Cognitive concepts:
 - [More / Less](./lucere%20align%20-%20More_Less.pdf)
 - [Before / After](./lucere%20align%20-%20More_Less.pdf)
 - [If / Then](./lucere%20align%20-%20If_Then.pdf)
+- [Same / Different](./lucere%20align%20-%20Same_Different.pdf)
+- [Turn / Wait](./lucere%20align%20-%20Turn_Wait.pdf)
+- [Big / Small](./lucere%20align%20-%20Big_Small.pdf)
+- [Empty / Full](./lucere%20align%20-%20Empty_Full.pdf)
 
 ---
 
