@@ -1,3 +1,10 @@
+[lucere-align-prompt](./lucere-align-prompt.txt)
+
+Example Cognitive concepts:
+- [More / Less](./lucere%20align%20-%20More_Less.pdf)
+
+---
+
 # Lucere Align
 *A simple tool for planning and sharing individualized learning sequences.*
 
@@ -6,7 +13,7 @@
 ## What it is
 
 Lucere Align is a structured prompt format.
-You fill it out with how a specific student learns best.  
+You fill it out with how a specific student learns most comfortable with.
 Then you (or a tool like OpenAI) can use it to generate a matching learning sequence — step by step, without guessing.
 
 It’s built to reduce friction, especially when:
