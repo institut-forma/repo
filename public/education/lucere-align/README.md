@@ -1,6 +1,6 @@
 [lucere-align-prompt](./lucere-align-prompt.txt) [^1]
 
-Cognitive concepts aligned with a students learning shape:
+Cognitive concepts aligned with a students learning shape examples:
 - [More / Less](./lucere%20align%20-%20More_Less.pdf)
 - [Before / After](./lucere%20align%20-%20More_Less.pdf)
 - [If / Then](./lucere%20align%20-%20If_Then.pdf)
