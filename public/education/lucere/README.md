@@ -1,6 +1,9 @@
 [lucere prompt](./lucere-prompt.txt)
 
-[Grade 8 (Germany) - The Quadratic Formula](./Mitternacht_Lucere%20-%20Grade%208%20(Germany)%20-%20The%20Quadratic%20Formula.pdf)
+- [Grade 8 (Germany) - The Quadratic Formula ⏳⏳⏳⏳⏳](./Mitternacht_Lucere%20-%20Grade%208%20(Germany)%20-%20The%20Quadratic%20Formula.pdf)
+- [Grade 10 (Germany) - Poetry Analysis ⏳⏳⏳⏳](./lucere%20-%20Grade%2010%20(Germany)%20-%20Poetry%20Analysis.pdf)
+- [Grade 9 (Germany) - Trigonometry ⏳⏳⏳](./Mitternacht_Lucere%20-%20Grade%208%20(Germany)%20-%20The%20Quadratic%20Formula.pdf)
+- [Grade 7 (Germany) - Interest / Compound Interest ⏳⏳](./lucere%20-%20Grade%209%20(Germany)%20-%20Trigonometry.pdf)
 
 ---
 
