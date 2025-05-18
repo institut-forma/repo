@@ -71,3 +71,10 @@ emotional_and_social_support:
   - [ ] needs co-regulation in stressful or unexpected situations
   - [ ] expresses emotion through movement, tone, or behavior
   - [ ] other: [describe]
+
+---
+
+Language: English
+Tone: Supportive, clear, classroom-aware.
+
+Use appropriate Emojis for visual harmony while reading.
