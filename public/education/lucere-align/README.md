@@ -13,7 +13,7 @@ Cognitive concepts aligned with a students learning shape examples:
 ---
 
 # Lucere Align
-*A simple tool for planning and sharing individualized learning sequences.*
+*A simple tool for planning, developing and sharing individualized learning sequences.*
 
 ---
 
