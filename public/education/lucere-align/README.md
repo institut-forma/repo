@@ -1,4 +1,4 @@
-[lucere-align-prompt](./lucere-align-prompt.txt)
+[lucere-align-prompt](./lucere-align-prompt.txt)[^1]
 
 Cognitive concepts aligned with the student’s learning shape:
 - [More / Less](./lucere%20align%20-%20More_Less.pdf)
@@ -50,4 +50,6 @@ You can reuse the prompt with different students or ideas.
 
 ## Where to start
 
-See [`lucere-align-prompt.txt`](./lucere-align-prompt.txt)
+See [`lucere-align-prompt.txt`](./lucere-align-prompt.txt)[^1]
+
+[^1]: Institut für Strukturelle Integrität – version lucere-17-05-2025-00 – (CC BY-SA 4.0)
