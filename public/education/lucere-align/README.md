@@ -22,7 +22,7 @@ It’s built to reduce friction, especially when:
 - Supporting students who need adapted pacing, expression, or sensory input  
 - Avoiding trial-and-error when someone new steps in  
 - Translating how a student learns into usable planning terms  
-- Making your planning lighter when energy is low
+- Making your workload lighter when energy is low
 
 ---
 
