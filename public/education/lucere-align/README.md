@@ -52,4 +52,4 @@ You can reuse the prompt with different students or ideas.
 
 See [`lucere-align-prompt.txt`](./lucere-align-prompt.txt)[^1]
 
-[^1]: Institut für Strukturelle Integrität – version lucere-17-05-2025-00 – (CC BY-SA 4.0)
+[^1]: Institut für Strukturelle Integrität – version lucere-align-17-05-2025-00 – (CC BY-SA 4.0)
