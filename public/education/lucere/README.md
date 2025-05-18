@@ -10,9 +10,9 @@ Lucere is a cognitive-scaffolding framework for transforming abstract curricular
 
 It is built for educators, instructional designers, and AI-based teaching systems seeking to reconstruct abstraction from observable action — not from premature symbolic instruction.
 
-Lucere does not introduce formulas, rules, or models through repetition or front-loaded explanation. Instead, it begins with variation, sensory interaction, and contextual reasoning. Concepts emerge only when the learner’s structure is ready.
+It does not introduce formulas, rules, or models through repetition or front-loaded explanation. Instead, it begins with variation, sensory interaction, and contextual reasoning. Concepts emerge only when the learner’s structure is ready.
 
-Lucere operates as a prompt interface: a generative mechanism that rebuilds any abstract topic into its cognitively minimal form, using age-appropriate pacing, structural clarity, and guided emergence.
+It operates as a prompt interface: a generative mechanism that rebuilds any abstract topic into its cognitively minimal form, using age-appropriate pacing, structural clarity, and guided emergence.
 
 It is not a method.  
 It is a timing layer.
