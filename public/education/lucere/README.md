@@ -1,4 +1,4 @@
-[lucere prompt](./lucere-prompt.txt)
+[lucere prompt](./lucere-prompt.txt) [^1]
 
 - [Grade 8 (Germany) - The Quadratic Formula ⏳⏳⏳⏳⏳](./Mitternacht_Lucere%20-%20Grade%208%20(Germany)%20-%20The%20Quadratic%20Formula.pdf)
 - [Grade 10 (Germany) - Poetry Analysis ⏳⏳⏳⏳](./lucere%20-%20Grade%2010%20(Germany)%20-%20Poetry%20Analysis.pdf)
