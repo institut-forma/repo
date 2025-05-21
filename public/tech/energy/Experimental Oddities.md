@@ -1,1 +1,1 @@
-Trollface Reactor - Structured Entropy Amplification at Ambient Conditions // against better judgement, the name stays -E
+Trollface Reactor - Structured Entropy Amplification at Ambient Conditions // against better judgement, the name can stay -E
