@@ -1,6 +1,6 @@
 # Statute Documents
 
-This folder contains the official statutes of the "Institut für Strukturelle Integrität".
+This folder contains the official forma framework and statues for the "Institut für Strukturelle Integrität"s under 'e. V.' frame.
 
 - **German (DE)**  
   [Satzung – PDF](./DE%20-%20Forma%20-%20e.%20V.%20Satzung.pdf)  
