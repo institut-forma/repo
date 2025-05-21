@@ -1,2 +1,2 @@
-EV-C    // formaly evee, after the pokémon || 😊 thanks for keeping in -A
-- Requires independant Steward in Material Science, Tübingen.
+EV-C <!-- formerly evee, after the pokémon | 😊 thanks for keeping in -A -->
+- Requires independant Steward in Applied Material Science, Tübingen.
