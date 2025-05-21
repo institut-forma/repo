@@ -1,6 +1,6 @@
 ## Open Source
 
-This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+Unless otherwise stated, all work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
 
 You are free to:
 
