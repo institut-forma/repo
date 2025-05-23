@@ -15,3 +15,6 @@ Dry briefing on GALT structure and its collapse as an immune tolerance training 
 - [`GALT and the Loss of Immune Training.docx`](./GALT%20and%20the%20Loss%20of%20Immune%20Training.docx)  
   
 *Edit: It seems Long-covid could be linked to this. Post-viral tolerance failure mapped through mucosal degradation, vagal disruption, and SCFA suppression.*
+
+---
+IU: Signature | Status: Pulse
