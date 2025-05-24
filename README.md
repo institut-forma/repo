@@ -20,3 +20,10 @@ It defines our operational logic, ethical scope, and system design principles.
 
 We apply a transparent **Impact Unit (IU)** model to evaluate real-world effect.  
 This measures **observable Impact — not financial growth —** and anchors our work to verifiable outcomes.
+
+---
+
+[Open Collective][^1] · [LinkedIn][^2]
+
+[^1]: https://opencollective.com/forma  
+[^2]: https://www.linkedin.com/in/institut-forma/
