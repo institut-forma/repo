@@ -9,5 +9,3 @@ This folder contains the official forma framework and statues for the "Institut 
 - **English (EN)**  
   [Statute – PDF](./EN%20-%20Forma%20-%20e.%20V.%20Statue.pdf)  
   [Statute – DOCX](./EN%20-%20Forma%20-%20e.%20V.%20Statue.docx)
-
-<!-- The right man in the wrong place can make all the difference in the world -->
