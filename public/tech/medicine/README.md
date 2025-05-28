@@ -1,6 +1,8 @@
-# Co-Aegis <!-- wish we would of stayed with pac-man ._. -L -->
+# Co-Aegis
 
 **Co-Aegis** is a modular biosafety chassis for targeted tumour lysis and passive failure exposure, designed to operate only in pathologically hypoxic environments. It enables self-limiting germination, programmable payload execution, and non-inflammatory clearance, all under layered architectural containment.
+
+All documentation is released as a modular open-source scaffold for adaptation, not as a pre-approved clinical intervention.
 
 ---
 
