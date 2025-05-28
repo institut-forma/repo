@@ -7,6 +7,7 @@ These include frameworks such as:
 - [**lucere**](public/education/lucere) and [**lucere align**](public/education/lucere-align) — a prompt-driven interface for aligning abstract curriculum into cognitively resonant learning sequences.  
 - [**Coherent Drift**](public/cognitive-social-systems) — on the recursive collapse of human identity systems.  
 - [**GALT and the Loss of Immune Training**](public/health) — dry briefing on GALT structure and its collapse as an immune tolerance training system.
+- [**Co-Aegis**](public/tech/medicine)  — a modular biosafety chassis for targeted tumour lysis and passive failure exposure.
 
 Our work is **open-source** and designed to be held with minimal strain.
 <!-- Freedom of movement applies. -->
