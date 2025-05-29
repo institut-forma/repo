@@ -9,7 +9,7 @@ These include frameworks such as:
 - [**Co-Aegis**](public/tech/medicine)  — a modular biosafety chassis for targeted tumour lysis and passive failure exposure.
 
 Our work is **open-source** and designed to be held with minimal strain.
-<!-- Freedom of movement applies. -->
+
 ---
 
 **Self-Governance**
@@ -24,5 +24,5 @@ This measures **observable Impact — not financial growth —** and anchors our
 
 [Open Collective][^1] · [LinkedIn][^2]
 
-[^1]: https://opencollective.com/forma  
-[^2]: https://www.linkedin.com/in/institut-forma/
+[^1]: https://opencollective.com/forma
+[^2]: https://www.linkedin.com/company/institut-forma
