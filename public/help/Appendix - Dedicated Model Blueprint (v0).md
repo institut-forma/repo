@@ -38,8 +38,3 @@ Detect structural coherence, signal degradation, manipulation patterns, and synt
 ### 🔐 Design Principle:
 **Judges form, not content.**  
 Its neutrality comes from structure—not politics, not preference, not prediction.
-
----
-<!-- lmao E, why u gotta be so u dude -->
-> Want to build it?  
-> We're not stopping you. 
