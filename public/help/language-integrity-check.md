@@ -55,3 +55,12 @@ Now fact-check the key factual claims made in the text.
 List any statements that appear false, unverifiable, or misleading, and explain briefly why.
 
 Use current public data. Cite sources if available.
+```
+---
+## 🧭 Looking Ahead
+
+A dedicated language model should be trained specifically for **structural coherence analysis**.  
+This would improve reliability, remove general-purpose model bias, and create a trusted standard for detecting manipulation, misinformation, or synthetic drift.
+
+Until then, this protocol offers a practical first layer.
+
