@@ -33,9 +33,6 @@ Use any capable **large language model (LLM)** with strong reasoning and text an
 
 1. Paste or upload your document
 2. Append the following prompt:
-## 🧪 Copy-paste prompt
-
-Paste this at the end of any text you'd like to analyze:
 
 ```txt
 ### Step 1 – Coherence Check:
