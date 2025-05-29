@@ -13,11 +13,11 @@ These tools are designed for use by:
 
 ## 📂 Contents
 
-- [`language-integrity-check.md`](./public/help/language-integrity-check.md)  
+- [`language-integrity-check.md`](./language-integrity-check.md)  
   A step-by-step guide for checking the structural coherence and optional factual accuracy of any document using publicly available LLMs (e.g., OpenAI GPT-4o).  
   → Use this to verify whether text holds together internally—regardless of its source or topic.
 
-- [`Appendix – Dedicated Model Blueprint (v0).md`](./public/help/Appendix%20-%20Dedicated%20Model%20Blueprint%20(v0).md)  
+- [`Appendix – Dedicated Model Blueprint (v0).md`](./Appendix%20-%20Dedicated%20Model%20Blueprint%20(v0).md)  
   A theoretical outline for a specialized AI model (“SIGNAL”) trained solely to assess coherence, contradiction, and manipulation in text.  
   → Included for future development reference.
 
