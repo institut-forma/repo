@@ -1,6 +1,6 @@
 ## Appendix: Dedicated Model Blueprint (v0)
 
-🧠 **Codename:** SIGNAL
+🧠 SIGNAL
 
 A theoretical LLM designed **not to generate**, but to **evaluate**.
 
