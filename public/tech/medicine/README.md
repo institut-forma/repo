@@ -26,5 +26,3 @@ All documentation is released as a modular open-source scaffold for adaptation, 
 
 - [Appendix D – Adaptive Memory Gate (Optional System Layer).pdf](./Appendix%20D_%20Adaptive%20Memory%20Gate%20(Optional%20System%20Layer).pdf)  
   Optional decay-based gate that temporarily adjusts system sensitivity in response to recent fault-state history. Adds bounded short-term memory to delay misfires without introducing adaptation drift.
-
-<!-- I spy with my little eye, a busy little bee 💛 https://discord.gg/ExZYVnj2 | -A -->
