@@ -1,6 +1,6 @@
 # Cognitive & Social Systems
 
-This folder collects work focused on systemic human identity, cognitive recursion, and the structural collapse of meaning across psychological and societal layers.
+This folder collects exploratory work on internal coherence, identity processing, and cognitive recursion—particularly as they relate to systemic fragmentation, integration, and relational mapping across psychological and social layers.
 
 ---
 
