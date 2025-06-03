@@ -30,14 +30,6 @@ A Synthergy Engine operates as a second-order cybernetic system, emphasizing sel
 - **Educational Frameworks**: Developing curricula that adapt to learners' needs.
 - **Healthcare Systems**: Designing patient-centered approaches that respond to feedback.
 
-## Getting Started
-
-To integrate a Synthergy Engine into your project:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/synthergy-engine.git
-
 ## Repository Structure
 
 - `core/`: Contains the fundamental modules of the Synthergy Engine.
