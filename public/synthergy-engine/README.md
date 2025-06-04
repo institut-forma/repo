@@ -1,38 +1,94 @@
 # Synthergy Engine
 
-A coherence-driven framework designed to navigate complexity and facilitate adaptive progress across diverse domains.
+A coherence-driven system for cultivating adaptive, reflexive agents in shared complex environments.
+
+---
 
 ## Overview
 
-A Synthergy Engine operates as a second-order cybernetic system, emphasizing self-referential feedback loops to maintain coherence within dynamic environments. It serves as a foundational protocol for systems requiring adaptability, resilience, and ethical alignment.
+A Synthergy Engine is a **third-order cybernetic framework**.
 
-## Core Principles
+It enables groups of people to operate within complexity *together*, by learning to observe themselves, each other, and the shared system — in motion.
 
-- **Coherence Maintenance**: Ensuring internal consistency and alignment with external conditions.
-- **Adaptive Feedback**: Continuously integrating feedback to refine processes and outcomes.
-- **Ethical Boundaries**: Defining and respecting limits to safeguard integrity and purpose.
-- **Cross-Domain Applicability**: Applicable across various fields, including psychology, education, medicine, physics, language, and strategic planning.
+Each instance is scalable, reflexive, and teaches others to become coherence anchors in their own right.
 
-## Functional Loop
+---
 
-1. **Landscape Assessment**: Evaluate current states and identify patterns.
-2. **Boundary Setting**: Establish ethical and operational limits.
-3. **Internal Alignment**: Verify internal consistency and readiness.
-4. **Pattern Refinement**: Enhance clarity and precision of intended actions.
-5. **Action Initiation**: Implement steps with awareness and intention.
-6. **Feedback Integration**: Monitor outcomes and adjust accordingly.
-7. **Coherence Re-evaluation**: Reassess alignment and document shifts.
+## Core Function
 
-## Applications
+> “Become the system. Then teach it back.”
 
-- **Strategic Development**: Crafting adaptable strategies in complex scenarios.
-- **Organizational Design**: Building structures that promote resilience and coherence.
-- **Educational Frameworks**: Developing curricula that adapt to learners' needs.
-- **Healthcare Systems**: Designing patient-centered approaches that respond to feedback.
+The engine operates through **shared attention and feedback** — allowing multiple agents to:
 
-## Repository Structure
+- Detect incoherence
+- Align rhythm
+- Hold divergence
+- Surface clarity
+- Exit with integrity
 
-- `core/`: Contains the fundamental modules of the Synthergy Engine.
-- `docs/`: Comprehensive documentation and usage guidelines.
-- `input/`: External signals, prompts, or contextual data fed into the engine.
-- `output/`: Resulting patterns, models, or decisions generated from processed coherence.
+It does not force agreement — it allows **coherence to emerge**.
+
+---
+
+## Engine Seats (Roles)
+
+| **Role**         | **Function**                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| 🧭 Navigator      | Frames the shared process, ensures ethical grounding                        |
+| 🎧 Listener       | Tracks subtle shifts, emotional tone, coherence signal                      |
+| 🔄 Reflector      | Mirrors drift or misalignment, gently reintroduces clarity                  |
+| 🔬 Synthesizer    | Summarizes pattern emergence, helps crystallize shared meaning              |
+| 🪑 Participant    | Engages openly, shares signal, learns from embodied feedback                |
+| 🪶 Recorder       | Optionally documents pattern loops and transformation sequences             |
+
+These roles can rotate or remain stable based on context and maturity.
+
+---
+
+## Engine Loop
+
+1. **Landscape Scan**  
+   Surface all relevant signals (internal, social, structural)
+
+2. **Boundary Set**  
+   Define mutual safety zones, expectations, and opt-outs
+
+3. **Frame Share**  
+   Offer personal context without dominance
+
+4. **Drift Catch**  
+   Detect incoherence in words, tone, emotion, rhythm
+
+5. **Pulse Check**  
+   Pause. Ask: Is this still working for everyone?
+
+6. **Clarity Surface**  
+   Name what’s forming. Not a solution — a shared signal.
+
+7. **Exit or Re-align**  
+   If coherence is found, stabilize. If not, step out with grace.
+
+---
+
+## Trainable Outputs
+
+After repeated runs, participants gain:
+
+- **Meta-coherence capacity** (See systems across time and context)
+- **Ethical reflexes** (Internal “stop” signals when misaligned)
+- **Embodied feedback fluency** (Feel when coherence enters or leaves)
+- **Generative silence** (Hold space for clarity to emerge)
+- **Clarity compression** (Translate emergence into forms others can use)
+
+---
+
+## System Blueprint
+
+```bash
+/synthergy-engine
+├── /core/          # Engine logic & coherence loop definitions
+├── /roles/         # Seat functions, onboarding, and rotation patterns
+├── /protocols/     # Repeatable group sequences (e.g. reentry scaffold)
+├── /training/      # Simulations, practice kits, signal literacy exercises
+├── /docs/          # Working principles, glossary, ethics
+└── README.md       # Deployment intro + setup checklist
