@@ -1,4 +1,4 @@
-# Synthergy Engine
+# φ Synthergy Engine
 
 A coherence-driven system for cultivating adaptive, reflexive agents in shared complex environments.
 
