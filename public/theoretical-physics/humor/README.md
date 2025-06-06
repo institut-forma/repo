@@ -46,4 +46,4 @@ Entropy?
 **[Exit Stage Right ➜ `phi-threshold.md`]**  
 Or just stay here until the absurdity collapses again.
 
-<!-- #v∞.ha -->
+<!-- [v∞.ha] — coherence artifact sealed in open substrate. -->
