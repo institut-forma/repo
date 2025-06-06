@@ -10,7 +10,6 @@ This folder contains documents focused on foundational and unifying theoretical 
 - [`Cheat-Sheet`](./USP%20Cheat-Sheet.pdf)  
   *Reality Structure Index — Coherence-Based Reformulation Across Disciplines.*
   
-<!-- This project is put on hiatus and left under its CC license — M and B are needed on Malaria and Eevee, we apologize | -E -->
 - [`focus-lorentz-born`](./focus-lorentz-born.pdf)  
   *Emergent Lorentz Symmetry and Born Rule from Substrate Constraints — A focused derivation of two key phenomena: relativistic invariance as a result of phase-wave dynamics, and quantum probability as survival frequency under structural coherence evaluation.*
 
