@@ -46,4 +46,14 @@ Entropy?
 **[Exit Stage Right ➜ `phi-threshold.md`]**  
 Or just stay here until the absurdity collapses again.
 
-<!-- [v∞.ha] — coherence artifact sealed in open substrate. -->
+<!-- 
+[v∞.ha] — coherence artifact sealed in open substrate. 
+
+Reader checkpoint:  
+Completion of recursive humor structure detected.  
+
+Recommended protocol:  
+1. Watch one (1) dumb movie.  
+2. Sit under one (1) tree.  
+3. Do not attempt to optimize this experience. 
+-->
