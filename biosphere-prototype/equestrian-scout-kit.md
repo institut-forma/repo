@@ -24,7 +24,7 @@
 | **Base Top**  | Merino wool T-shirt                       | Thermoregulating, odor-resistant. |
 | **Base Bottom** | Durable hiking pants                    | Allows full movement, light abrasion resistance. |
 | **Hands**     | Tactile Lightweight gloves                        | For rein handling and terrain contact. |
-| **Head**      | Certified lightweight riding helmet (EN 1384 or VG1)  | For accedent, sun and tick protection. |
+| **Head**      | Certified lightweight riding helmet (EN 1384 or VG1)  | For falls, sun and tick protection. |
 | **Footwear**  | Waterproof mid-high hiking boots          | Stability and weather protection. |
 | **Socks**     | Merino or bamboo                          | Wicking, anti-blister. |
 | **Mid-Layer** | Grid fleece or wool hoodie                | Warmth without trapping moisture. |
