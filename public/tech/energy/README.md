@@ -1,1 +1,1 @@
-EV-C <!-- formerly evee, after the pokémon | 😊 thanks for keeping in -A -->
+[EV-C](./ev-c.md) 
