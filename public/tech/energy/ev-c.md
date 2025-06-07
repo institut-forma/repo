@@ -1,4 +1,4 @@
-# EV-C – Open Carbon Toolkit  
+# EV-C – Open Carbon Toolkit <!-- formerly evee, after the pokémon | 😊 thanks for keeping in -A -->
 _Atmospheric Carbon-to-Material Fabrication System (Lab Scale)_
 
 **Version**: ev-c-03-03-2025-2b  
