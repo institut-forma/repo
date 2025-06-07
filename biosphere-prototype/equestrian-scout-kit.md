@@ -37,7 +37,7 @@
 |---------------------------------|-------------|
 | **Offline-capable Smartphone**  | With preloaded topographic maps; airplane mode to save battery. |
 | **Power Bank (≥10,000 mAh)**    | Compact, shock-resistant; for phone and emergency devices. |
-| **Notebook (weatherproof)**     | Synthetic paper or tear-resistant; for field notes. |
+| **Notebook (weatherproof)**     | Synthetic bio-degradable paper or tear-resistant; for field notes. |
 | **All-weather Pen or Pencil**   | Writes on wet or textured surfaces. |
 | **Compass**                     | Reliable analog backup to GPS. |
 | **Foldable Printed Map**        | Key scouting areas and orientation markers; waterproofed if possible. |
