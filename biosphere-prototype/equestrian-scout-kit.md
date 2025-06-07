@@ -43,11 +43,14 @@
 | **Foldable Printed Map**        | Key scouting areas and orientation markers; waterproofed if possible. |
 | **Water Bottle (1–3.5 L)** | Flexible BPA-free or steel; fits side pouches. |
 | **Portable Water Filter**       | Straw or pump-type; ensures hydration in unknown terrain. |
-| **Energy-Dense Food**           | E.g., dried fruit, nuts, hard cheese, or oat bars. |
+| **Energy-Dense Food**           | E.g., dried meats and fruit, nuts, hard cheese, or oat bars. |
+| **Training Treats** | For reinforcement, cue shaping, and trust-building during rest intervals. |
 | **Minimal First Aid Kit**       | Lightweight set: antiseptic, bandage, antihistamines, blister care. |
 | **Compact Sunscreen (SPF 30+)** | Sweat-resistant; safe for long exposure. |
 | **Bug/Tick Repellent (horse-safe)** | Spray or balm; natural or DEET-free to avoid scent disruption. |
 
+> **Note:**
+> When direct access to water is blocked, a foldable waterproof bag or scoop can be packed, to carry drinking water from a nearby source.
 
 ---
 
