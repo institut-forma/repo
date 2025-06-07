@@ -1,4 +1,4 @@
-# Equestrian Scout Kit – Field Deployment (Spring-Fall)
+# Equestrian Scout Kit (Spring-Fall)
 
 > **Note:**  
 > Designed for efficient human–horse field operations in mixed terrain. All components prioritize physiological coherence, long-wear comfort, and safety without surplus. The system is intended for multi-hour scouting in temperate mosaic landscapes of grassland and forest, with 10–15 minute grazing pauses every two hours.
