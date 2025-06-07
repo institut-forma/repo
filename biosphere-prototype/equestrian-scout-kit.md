@@ -7,50 +7,50 @@
 
 ## Equestrian Gear
 
-| Item                              | Description |
-|-----------------------------------|-------------|
-| **Side-pull Bitless Bridle**      | Gentle, non-invasive control; face-shaped for comfort; can stay on during forage or breaks. |
-| **Wool-Felt Bareback Pad (Latex Core)** | Breathable; molds to back; maintains terrain feedback for the rider. |
-| **Trail Riding Breastplate**      | 3-point, padded; stabilizes the pad and provides support on inclines or uneven ground. |
-| **Emergency Thermal Blanket**     | Compact; used for horse during cold rest phases or temperature drops. |
+| Item                              | Description | Est. Cost (EUR) |
+|-----------------------------------|-------------|-------|
+| **Side-pull Bitless Bridle**      | Gentle, non-invasive control; face-shaped for comfort; can stay on during forage or breaks. | 60–120 |
+| **Wool-Felt Bareback Pad (Latex Core)** | Breathable; molds to back; maintains terrain feedback for the rider. | 120–180 |
+| **Trail Riding Breastplate**      | 3-point, padded; stabilizes the pad and provides support on inclines or uneven ground. | 70–100 |
+| **Emergency Thermal Blanket**     | Compact; used for horse during cold rest phases or temperature drops. | 25–40 |
 
 ---
 
 ## Rider Gear
 
-| Body Area     | Gear Item                                 | Notes |
-|---------------|-------------------------------------------|-------|
-| **Eyes**      | UV-rated sunglasses                       | Reduces eye strain, must be shatterproof |
-| **Base Top**  | Merino wool T-shirt                       | Thermoregulating, odor-resistant. |
-| **Base Bottom** | Durable hiking pants                    | Allows full movement, light abrasion resistance. |
-| **Hands**     | Tactile Lightweight gloves                        | For rein handling and terrain contact. |
-| **Head**      | Certified lightweight riding helmet (EN 1384 or VG1)  | For falls, sun and tick protection. |
-| **Footwear**  | Waterproof mid-high hiking boots          | Stability and weather protection. |
-| **Socks**     | Merino or bamboo                          | Wicking, anti-blister. |
-| **Mid-Layer** | Grid fleece or wool hoodie                | Warmth without trapping moisture. |
-| **Outer-Layer** | Ultralight waterproof poncho or jacket  | Lightweight rain and sun shield with ventilation; doubles as UV protection in exposed terrain. |
-| **Misc** | Lightweight 18–25 L field backpack | Slim, high-riding pack with stable fit; holds personal gear and essentials without restricting movement. |
+| Body Area     | Gear Item                                 | Notes | Est. Cost (EUR) |
+|---------------|-------------------------------------------|-------|-------|
+| **Eyes**      | UV-rated sunglasses                       | Reduces eye strain, must be shatterproof | 25–50 |
+| **Base Top**  | Merino wool T-shirt                       | Thermoregulating, odor-resistant. | 35–60 |
+| **Base Bottom** | Durable hiking pants                    | Allows full movement, light abrasion resistance. | 50–90 |
+| **Hands**     | Tactile Lightweight gloves                        | For rein handling and terrain contact. | 15–30 |
+| **Head**      | Certified lightweight riding helmet (EN 1384 or VG1)  | For falls, sun and tick protection. | 50–100 |
+| **Footwear**  | Waterproof mid-high hiking boots          | Stability and weather protection. | 90–140 |
+| **Socks**     | Merino or bamboo                          | Wicking, anti-blister. | 20–30 |
+| **Mid-Layer** | Grid fleece or wool hoodie                | Warmth without trapping moisture. | 40–80 |
+| **Outer-Layer** | Ultralight waterproof poncho or jacket  | Lightweight rain and sun shield with ventilation; doubles as UV protection in exposed terrain. | 60–120 |
+| **Misc** | Lightweight 18–25 L field backpack | Slim, high-riding pack with stable fit; holds personal gear and essentials without restricting movement. | 40–80 |
 
 ### Backpack Contents
 
-| Item                            | Description |
-|---------------------------------|-------------|
-| **Offline-capable Smartphone**  | With preloaded topographic maps; airplane mode to save battery. |
-| **Power Bank (≥10,000 mAh)**    | Compact, shock-resistant; for phone and emergency devices. |
-| **Notebook (weatherproof)**     | Synthetic bio-degradable paper or tear-resistant; for field notes. |
-| **All-weather Pen or Pencil**   | Writes on wet or textured surfaces. |
-| **Compass**                     | Reliable analog backup to GPS. |
-| **Foldable Printed Map**        | Key scouting areas and orientation markers; waterproofed if possible. |
-| **Water Bottle (1–3.5 L)** | Flexible BPA-free or steel; fits side pouches. |
-| **Portable Water Filter**       | Straw or pump-type; ensures hydration in unknown terrain. |
-| **Energy-Dense Food**           | E.g., dried meats and fruit, nuts, hard cheese, or oat bars. |
-| **Training Treats** | For reinforcement, cue shaping, and trust-building during rest intervals. |
-| **Minimal First Aid Kit**       | Lightweight set: antiseptic, bandage, antihistamines, blister care. |
-| **Compact Sunscreen (SPF 30+)** | Sweat-resistant; safe for long exposure. |
-| **Bug/Tick Repellent (horse-safe)** | Spray or balm; natural or DEET-free to avoid scent disruption. |
+| Item                            | Description | Est. Cost (EUR) |
+|---------------------------------|-------------|-------|
+| **Offline-capable Smartphone**  | With preloaded topographic maps; airplane mode to save battery.             | — |
+| **Power Bank (≥10,000 mAh)**    | Compact, shock-resistant; for phone and emergency devices.                  | 25–40 |
+| **Notebook (weatherproof)**       | Synthetic bio-degradable paper or tear-resistant; for field notes.        | 8–15 |
+| **All-weather Pen or Pencil**     | Writes on wet or textured surfaces.                                       | 5–10 |
+| **Compass**                       | Reliable analog backup to GPS.                                            | 10–20 |
+| **Foldable Printed Map**          | Key scouting areas and orientation markers; waterproofed if possible.     | 5–10 |
+| **Water Bottle (1–3.5 L)**        | Flexible BPA-free or steel; fits side pouches.                            | 10–25 |
+| **Portable Water Filter**         | Straw or pump-type; ensures hydration in unknown terrain.                 | 20–40 |
+| **Energy-Dense Food**             | E.g., dried meats and fruit, nuts, hard cheese, or oat bars.              | 5–10 (per day) |
+| **Training Treats**               | For reinforcement, cue shaping, and trust-building during rest intervals. | 10–15 |
+| **Minimal First Aid Kit**         | Lightweight set: antiseptic, bandage, antihistamines, blister care.       | 15–30 |
+| **Compact Sunscreen (SPF 30+)**   | Sweat-resistant; safe for long exposure.                                  | 5–12 |
+| **Bug/Tick Repellent (horse-safe)** | Spray or balm; natural or DEET-free to avoid scent disruption.          | 8–15 |
 
 > **Note:**
-> When direct access to water is blocked, a foldable waterproof bag or scoop can be packed, to carry drinking water from a nearby source.
+> When direct access to water is blocked, a foldable waterproof bag or scoop should be packed, for transporting drinking water from a nearby source. (10–25€)
 
 ---
 
