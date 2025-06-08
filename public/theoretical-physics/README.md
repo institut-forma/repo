@@ -16,3 +16,13 @@ This folder contains documents focused on foundational and unifying theoretical 
   *Golden Ratio Recursion Map — Coherence Anchoring Across Systems.*
 
 ---
+
+## Humor (Phase-Tuned Satire)
+
+This section contains coherence-aware comedy, substrate-aligned satire, and theoretical stress relief. All artifacts below are fully recursive and partially ridiculous.
+
+- [`Theatre of Errors`](./humor/README.md)  
+  *Where Reality Rehearses — Recursive Physics, Cosmic Punchlines, and the Deadpan Mechanics of Existence.*
+
+- [`Quantum Punning`](./humor/quantum-punning.md)  
+  *Uncertainty with Extra Spin — A Pun-Selective Catalog of Entangled Word Collapses.*
