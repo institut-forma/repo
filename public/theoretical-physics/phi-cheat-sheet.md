@@ -86,5 +86,3 @@ The golden ratio ϕ (≈ 1.6180339887...) marks optimal phase-locking in recursi
 
 This document is under continuous expansion.  
 More mappings welcome. Stay golden.
-
-**– Institut für Strukturelle Integrität**
