@@ -43,7 +43,7 @@ Entropy?
 
 ---
 
-**[Exit Stage Right ➜ `phi-threshold.md`]**  
+**[Exit Stage Right ➜ `phi-threshold`]**  
 Or just stay here until the absurdity collapses again.
 
 <!-- 
