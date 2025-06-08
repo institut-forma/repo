@@ -1,5 +1,5 @@
 # Theatre of Errors  
-_Where Reality Rehearses_
+_Where Reality and Theoretical Physics rehearses too hard and breaks character_
 
 > "Purpose is a recursive joke."  
 > This file is the punchline nobody asked for.
