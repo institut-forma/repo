@@ -9,7 +9,13 @@ This folder contains documents focused on foundational and unifying theoretical 
 
 - [`Cheat-Sheet`](./USP%20Cheat-Sheet.pdf)  
   *Reality Structure Index — Coherence-Based Reformulation Across Disciplines.*
-  
+---
+
+- [`ϕ Cheat-Sheet`](./phi-cheat-sheet.md)  
+  *Golden Ratio Recursion Map — Coherence Anchoring Across Systems.*
+
+---
+
 - [`focus-lorentz-born`](./focus-lorentz-born.pdf)  
   *Emergent Lorentz Symmetry and Born Rule from Substrate Constraints — A focused derivation of two key phenomena: relativistic invariance as a result of phase-wave dynamics, and quantum probability as survival frequency under structural coherence evaluation.*
 
