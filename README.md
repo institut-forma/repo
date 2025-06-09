@@ -1,4 +1,5 @@
 *We develop systems that support coherence and maintain integrity.*
+> Prototyping Phi-Tuned Coherence Across Scales.
 
 These include frameworks such as:
 
@@ -8,7 +9,7 @@ These include frameworks such as:
 - [**GALT and the Loss of Immune Training**](public/health) — dry briefing on GALT structure and its collapse as an immune tolerance training system.
 - [**Co-Aegis**](public/tech/medicine)  — a modular biosafety chassis for targeted tumour lysis and passive failure exposure.
 
-Our work is open-source and designed to support others with minimal strain.
+Our work is open-source and designed to support others with *minimal strain*.
 
 ---
 
