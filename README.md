@@ -17,7 +17,7 @@ Our work is open-source and designed to support others with minimal strain.
 The Institute operates under its own **forma framework**, available in both German and English.  
 It defines our operational logic, ethical scope, and system design principles.
 
-We apply a transparent **Impact Unit (IU)** model to evaluate real-world effect.  
+We apply a transparent **Impact Unit (IU)** model to evaluate real-world change.  
 This measures **observable Impact — not financial growth —** and anchors our work to verifiable outcomes.
 
 ---
