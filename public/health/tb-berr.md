@@ -1,4 +1,4 @@
-*Evidence-Informed Support Strategy for Tuberculosis Management (CC BY-SA 4.0)**
+*Evidence-Informed Support Strategy for Tuberculosis Management (CC BY-SA 4.0)*
 
 ---
 
