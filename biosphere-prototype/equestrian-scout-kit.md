@@ -47,7 +47,7 @@
 | **Training Treats**               | For reinforcement, cue shaping, and trust-building during rest intervals. | 10–15 |
 | **Minimal First Aid Kit**         | Lightweight set: antiseptic, bandage, antihistamines, blister care.       | 15–30 |
 | **Compact Sunscreen (SPF 30+)**   | Sweat-resistant; safe for long exposure.                                  | 5–12 |
-| **Bug/Tick Repellent (horse-safe)** | Spray or balm; natural or DEET-free to avoid scent disruption.          | 8–15 |
+| **Bug/Tick Repellent (horse-safe)** | Spray or balm; natural or DEET-free to avoid scent disruption. *(or: lemongrass+cedarwood+geranium)*          | 8–15 |
 
 > **Note:**
 > When direct access to water is blocked, a foldable waterproof bag or scoop should be packed, for transporting drinking water from a nearby source. (10–25€)
