@@ -108,5 +108,3 @@ Can be activated by:
 ## 7. NOTE
 
 > “If TB is a disease of environmental permission, then coherence is its disassembly.”
-
-TB doesn’t need to be defeated loudly. It can be removed **quietly, systemically, and without permission.**
