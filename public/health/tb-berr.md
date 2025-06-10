@@ -30,7 +30,7 @@ This protocol works best when deployed **in parallel with prescribed antibiotic 
 ### MODULE 1: **BREATHE**  
 **Goal:** Reduce granuloma hypoxia and destabilize TB latency mechanisms
 
-- **How:** Use low-flow oxygen concentrator (1–2 L/min) for 30 min/day *(aromatised ✨?)*
+- **How:** Use low-flow oxygen concentrator (1–2 L/min) for 30 min/day *(aromatised ✨?)* <!-- optional, but nice -->
 - **Why it matters:** Low oxygen supports TB dormancy (DosR regulon). Reoxygenation reactivates TB for immune clearance (Rustad et al., 2008)  
 - **Safety note:** Use pre-set units. Avoid high-pressure tanks. Pair with basic antioxidant intake (Chan et al., 2021)  
 
