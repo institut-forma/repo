@@ -21,6 +21,6 @@ Each document is written to be understandable, implementable, and useful across 
 ---
 
 - [`TB - B,E,R,R`](./tb-berr.md)  
-  *An oxygen-based terrain disruption protocol for tuberculosis. Designed to quietly dismantle TB’s environmental coherence through breathing rhythm, micronutrients, immune entrainment, and recovery alignment. Field-ready, non-invasive, and adaptable to low-resource contexts.*
+  *An oxygen-based terrain disruption protocol for tuberculosis. Designed to quietly dismantle TB’s environmental coherence through breathing rhythm, micronutrients, immune entrainment, and recovery alignment.*
 
 > _"Breathe, Eat, Rest, Repeat" — A quiet protocol for persistent pathologies._
