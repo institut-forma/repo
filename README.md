@@ -1,5 +1,5 @@
 *We develop systems that support coherence and maintain integrity.*
-> Prototyping Phi-Tuned Coherence Across Scales.
+> Prototyping Coherence Across Scales.
 
 These include frameworks such as:
 
