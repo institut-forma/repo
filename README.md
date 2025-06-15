@@ -1,30 +1,40 @@
-*We develop systems that support coherence and maintain integrity.*
-> Prototyping Coherence Across Scales.
+# Institut für Koherenzforschung e. V.  
+*Institute for Coherence Research*
 
-These include frameworks such as:
+We support coherence in systems — social, civic, legal, structural —  
+by building tools and models that reduce unnecessary strain.
 
-- [**forma**](documents/statue) — a legal and operational framework for public-impact organizations.
-- [**lucere**](public/education/lucere) and [**lucere align**](public/education/lucere-align) — a prompt-driven interface for aligning abstract curriculum into cognitively resonant learning sequences.  
-- [**Coherent Drift**](public/cognitive-social-systems) — on the recursive collapse of human identity systems.  
-- [**GALT and the Loss of Immune Training**](public/health) — dry briefing on GALT structure and its collapse as an immune tolerance training system.
-- [**Co-Aegis**](public/tech/medicine) — a modular biosafety chassis for targeted tumour lysis and passive failure exposure.
-- [**B,E,R,R**](./public/health/tb-berr.md) — an oxygen-based terrain disruption protocol for tuberculosis.
-
-Our work is open-source and designed to support others with *minimal strain*.
+We focus on what helps people, organizations, and environments hold their shape  
+without needing to push or perform.
 
 ---
 
-**Self-Governance**
+### Frameworks and Models
 
-The Institute operates under its own **forma framework**, available in both German and English.  
-It defines our operational logic, ethical scope, and system design principles.
-
-We apply a transparent **Impact Unit (IU)** model to evaluate real-world change.  
-This measures **observable Impact — not financial growth —** and anchors our work to verifiable outcomes.
+- [**forma**](documents/statue) — legal & operational base for public-impact orgs  
+- [**lucere**](public/education/lucere) — phase-aligned learning design tools  
+  ↳ [**lucere-align**](public/education/lucere-align) — prompt-based tool for sharing student-specific learning patterns
+- [**Coherent Drift**](public/cognitive-social-systems) — identity field modeling under systemic strain  
+- [**GALT**](public/health) — immune tolerance structure brief  
+- [**Co-Aegis**](public/tech/medicine) — modular biosafety framework  
+- [**B.E.R.R.**](public/health) — low-threshold TB disruption protocol 
+- [**φ Synthergy Engine**](public/synthergy-engine) — group coherence process design  
+- [**Return Scaffold**](public/return-scaffold) — low-barrier civic reentry shelter model  
+- [**Language Integrity Check**](public/help/language-integrity-check.md) — structural coherence + signal analysis in text
 
 ---
 
+### Approach
+
+The institute is self-governed using the [forma](documents/statue) framework.  
+We prioritize usable results, ethical structure, and minimal friction.
+
+All materials here are **open-source** [**(CC BY-SA 4.0)**](LICENSE.md).
+
+---
+
+**Contact**  
 [Open Collective][^1] · [LinkedIn][^2]
 
-[^1]: https://opencollective.com/forma-institut/
+[^1]: https://opencollective.com/forma-institut/  
 [^2]: https://www.linkedin.com/company/forma-institut/
