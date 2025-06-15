@@ -23,6 +23,19 @@ Developed to align with UNESCO-MAB criteria:
 
 ---
 
+### Biome Threads
+
+This prototype applies to multiple biome types experiencing civic + ecological stress.
+
+The first testbed operates within a:
+
+- [`Temperate Uplands (Karst–Mosaic)`](./temperate-uplands-karst/README.md)  
+  A terrain of rolling uplands, stone forest fragments, cold pastures, stable seasons, high edge density,
+  used both for ecological protection and light training zones.  
+  Example regions: Swabian Alb (DE), parts of Pennsylvania (US), northern Serbia (RS).
+
+---
+
 ### Applications
 
 This prototype supports:
