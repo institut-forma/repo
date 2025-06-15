@@ -1,7 +1,7 @@
 # Biome Thread: Temperate Uplands (Karst Mosaic)
 
 This file documents the biome structure currently supporting our fieldwork.  
-The template applies to [temperate upland karst biomes](./notes/biome-type.md) with forest–pasture mosaics and layered land-use memory.
+The template applies to [temperate upland karst biomes](./notes/temperate-upland-karst-biome.pdf) with forest–pasture mosaics and layered land-use memory.
 
 ---
 
