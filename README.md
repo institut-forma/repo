@@ -12,7 +12,7 @@ without needing to push or perform.
 ### Frameworks and Models
 
 - [**forma**](documents/statue) — legal & operational base for public-impact orgs  
-- [**lucere**](public/education/lucere) — phase-aligned learning design tools  
+- [**lucere**](public/education/lucere) — age-aligned learning design tools  
   ↳ [**lucere-align**](public/education/lucere-align) — prompt-based tool for sharing student-specific learning patterns
 - [**Coherent Drift**](public/cognitive-social-systems) — identity field modeling under systemic strain  
 - [**GALT**](public/health) — immune tolerance structure brief  
