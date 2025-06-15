@@ -27,7 +27,7 @@ The template applies to [temperate upland karst biomes](./notes/temperate-upland
 - [Tick activity](./notes/tick-mapping.md) during spring + early summer  
 - Dry-crack trail zones in summer: [ankle/hoof injury](./notes/terrain-footing.md) risk  
 - [Interference zones](./notes/soundscape.md): echo pockets, reception gaps  
-- [Poisonous flora](./notes/plant-toxicity.md) in unmanaged zones
+- [Poisonous flora](./notes/plant-toxicity.pdf) in unmanaged zones
 
 ---
 
