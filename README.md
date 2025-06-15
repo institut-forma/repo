@@ -26,5 +26,5 @@ This measures **observable Impact — not financial growth —** and anchors our
 
 [Open Collective][^1] · [LinkedIn][^2]
 
-[^1]: https://opencollective.com/forma
-[^2]: https://www.linkedin.com/company/institut-forma
+[^1]: https://opencollective.com/forma-institut/
+[^2]: https://www.linkedin.com/company/forma-institut/
