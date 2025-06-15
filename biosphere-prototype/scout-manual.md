@@ -1,97 +1,115 @@
 # Scout Manual – Biosphere Boundary Survey
 
-Field guide for mounted or ground-based scouts surveying land within a biosphere zone.
-
-**Primary objective:**  
-Identify and document *phase boundaries* between terrain, lifeforms, and system layers  
-→ without imposing artificial structure or stress.
+This is a practical field guide for scouts working on foot or horseback within a biosphere zone.  
+The focus is on identifying meaningful transitions between terrain, living systems, and memory traces —  
+without adding pressure to the environment by observing it.
 
 ---
 
 ## Observation Categories
 
-### Terrain Feature  
-- **Observe:** Elevation change, slope angle, surface stability, erosion signs  
-- **Why it matters:** Influences water flow, structural risk, and movement design  
-- **Document:** GPS + photo (wide and angled), sketch contour if needed  
-- **Mobile Tip:** Geotagged video sweep + voice annotations = 90% coverage
+### Terrain Features
+
+Look for slope angles, elevation changes, loose rock, and erosion signs.  
+These reveal where water moves, where weight holds, and which spots may not support infrastructure later on.
+
+When possible, sketch contours, take angled photos, and mark GPS at transition points.  
+Slower video sweeps with short spoken notes can help when sketching isn’t possible.
 
 ---
 
-### Soil & Ground  
-- **Observe:** Texture, compaction, water retention, depth via root pull  
-- **Why it matters:** Determines growth viability, mount safety, construction base  
-- **Document:** Sample image, hand-drawn texture note, disturbance type  
-- **Mobile Tip:** Note consistency across zones; log shifts as a pattern
+### Soil & Ground
+
+Soil behavior changes fast across short distances — note changes in texture, firmness, or water retention.  
+You can press a stick or your boot to feel compaction, or use shallow digging to test root presence.
+
+Photograph exposed sections or disturbances, and write short notes on soil type and moisture.
 
 ---
 
-### Water Sources  
-- **Observe:** Springs, flow channels, pooled damp zones, dry beds  
-- **Why it matters:** Habitat continuity, human use potential, climate insight  
-- **Document:** Sequence photos (inlet → flow → outlet); clarity + sound if running  
-- **Mobile Tip:** Narrate flow direction, time of day, last weather event
+### Water Sources
+
+Watch for springs, seepage, seasonal runoffs, or dry channels that still leave signs.  
+The presence or absence of insects often says more than the water itself.
+
+If a spring looks blocked or dried, gently digging a few centimeters nearby may reveal flow.  
+Record photos or videos following the flow path, and mention recent weather if relevant.
 
 ---
 
-### Flora Zones  
-- **Observe:** Tree types, patch transitions, fruit remnant rows, grass diversity  
-- **Why it matters:** Reveals soil, sunlight patterning, former use, edge zones  
-- **Document:** Layered photos (canopy → midline → undergrowth); mark dominant species  
-- **Mobile Tip:** Confirm IDs if known; note if unrecognizable for later review
+### Flora Zones
+
+Scan for shifts in tree types, mid-height brush, or field-edge growth patterns.  
+Old orchards or grazing plots often show up through tree spacing or fruit remnants.
+
+Wide shots show zone transitions, while closer images capture species or leaf/bark traits.  
+Use plant ID tools or flag unknown species for follow-up later.
 
 ---
 
-### Fauna Markers  
-- **Observe:** Tracks, scat, feather/fur remains, nests, dens, sightings  
-- **Why it matters:** Indicates territory, feeding lines, species interaction  
-- **Document:** Close-up photo + print width/length; timestamp and location  
-- **Mobile Tip:** Include context: trail proximity, freshness, behavior trace
+### Fauna Markers
+
+Scouting includes noticing where animals have already moved: scat, tracks, fur tufts, nest signs.  
+The freshness of signs helps estimate frequency of use.
+
+Photograph tracks with a reference object (pen, boot), and note location and context.  
+Simple voice notes like “fox scat, forest path, east-facing, dry” are often enough.
 
 ---
 
-### Human Traces  
-- **Observe:** Old trails, fence remnants, structures, dumped items  
-- **Why it matters:** Signals history of use, access tension, potential shared zones  
-- **Document:** Wide + detail shots, condition notes, access path origin if visible  
-- **Mobile Tip:** Mark use-type ("passive", "active", "abandoned") + GPS
+### Human Traces
+
+Look for trail forms, fencing, ruins, dumped materials, or recent cut lines.  
+These point to active, abandoned, or informal use zones.
+
+Try to document both wide context and the detail — it helps with identifying age and function.  
+Sort by type (e.g. "old trail", "abandoned orchard wall") to reduce later sorting overhead.
 
 ---
 
-### Wind & Airflow  
-- **Observe:** Direction, speed, transitions, warmth/cold shifts  
-- **Why it matters:** Affects shelter placement, scent lines, fire drift, temperature zones  
-- **Document:** Draw arrow on map or photo overlay, include conditions  
-- **Mobile Tip:** Note layered movement (e.g., “cold downhill draft, warm upper shelf”)
+### Wind & Airflow
+
+You can usually feel airflow changes before you see them.  
+Pay attention to how it shifts between open land, slope edges, or tree cover.
+
+Recording wind direction with a compass or overlaid map helps later interpretation.  
+Short clips showing leaf movement or speaking notes into the wind are quick and useful.
 
 ---
 
-### Soundscape  
-- **Observe:** Species calls, mechanical noise, echo, background silence  
-- **Why it matters:** Indicates balance/disruption, flow state, or hidden stress  
-- **Document:** 30–60s audio file + timestamp, weather, terrain type  
-- **Mobile Tip:** Speak one tag word at beginning (“forest edge,” “insect lull”) for sorting
+### Soundscape
+
+Quiet listening tells you a lot about ecosystem stability.  
+Record natural sound when possible — birds, insects, wind, silence, machine hums.
+
+Include time of day and weather.  
+A spoken note like “edge path, morning, distant echo from south” is enough for most clips.
 
 ---
 
-### Anomaly Zones  
-- **Observe:** Sudden silence, absence of expected life, overgrowth, weird stillness  
-- **Why it matters:** May signal ecological fracture, human contamination, or unknown drift  
-- **Document:** Describe what changed and *how fast*; contrast with nearby norm  
-- **Mobile Tip:** Keep tone neutral — don’t interpret too early
+### Anomaly Zones
+
+Sometimes the most useful thing you’ll find is *what doesn’t fit*.  
+Strangely silent areas, odd clusters of a single species, or sudden texture changes can signal system drift.
+
+Describe what changed and how quickly.  
+Revisiting the spot later helps you figure out if it was a shift or just a moment.
 
 ---
 
-## Field Data Handling
+## Handling Field Data
 
-- Sort data by *location cluster* or *category type*  
-- Use consistent filenames: `YYYY-MM-DD_[zone]_[type]`  
-- Prioritize **signal clarity over detail** — don’t overload with noise  
-- If possible: compile daily scout dump → clean into structured archive within 24h
+- Sort your images, audio, and notes by either location cluster or observation type  
+- Use consistent filenames: `DD-MM-YYYY_[zone]_[type]_[#]`  
+- Prioritize clear, interpretable records — too much detail can create confusion later  
+- If possible, review and tag your day’s data within 24h while your memory is still fresh
 
 ---
 
-## Guiding Principle
+## Field Orientation
 
-> Scout to **remember**, not to claim.  
-> Let coherence emerge from attention, not intention.
+> Scout to **notice**, not to prove.  
+> Let what’s coherent reveal itself by how it holds, not how it looks.
+
+There’s no pressure to collect everything.  
+Just be steady. The patterns show up when you let them.
