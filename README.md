@@ -26,7 +26,7 @@ without needing to push or perform.
 
 ### Approach
 
-The institute is self-governed using the [forma (e. V.)](documents/statue) framework.  
+The institute is self-governed using the [forma](documents/statue) framework.  
 We prioritize usable results, ethical structure, and minimal friction.
 
 All materials here are **open-source** [**(CC BY-SA 4.0)**](LICENSE.md).
