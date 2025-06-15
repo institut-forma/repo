@@ -20,7 +20,7 @@ without needing to push or perform.
 - [**B.E.R.R.**](public/health) — low-threshold TB disruption protocol 
 - [**φ Synthergy Engine**](public/synthergy-engine) — group coherence process design  
 - [**Return Scaffold**](public/return-scaffold) — low-barrier civic reentry shelter model  
-- [**Language Integrity Check**](public/help/language-integrity-check.md) — structural coherence + signal analysis in text
+- [**Language Integrity Check**](public/help) — structural coherence + signal analysis in text
 
 ---
 
