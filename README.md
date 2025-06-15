@@ -33,8 +33,6 @@ All materials here are **open-source** [**(CC BY-SA 4.0)**](LICENSE.md).
 
 ---
 
-**Contact**  
-[Open Collective][^1] · [LinkedIn][^2]
-
-[^1]: https://opencollective.com/forma-institut/  
-[^2]: https://www.linkedin.com/company/forma-institut/
+*Contact*  
+*https://opencollective.com/forma-institut/*  
+*https://www.linkedin.com/company/forma-institut/*
