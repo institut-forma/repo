@@ -85,7 +85,7 @@ Optional future layer: [equine reintroduction](./notes/rewild-equine.md) to rest
 | [Seasonal Rhythm](./notes/seasonal-flow.md) | 4-phase stable |
 | [Noise Profile](./notes/soundscape.md)   | Low-interruptive |
 | [Human Tension](./notes/trace-memory.md) | Trace visible, no current rupture |
-| [Species Cohesion](./notes/fauna-signals.md) | Edge-biased, mid-tier strong |
+| [Species Cohesion](./notes/fauna-signals.pdf) | Edge-biased, mid-tier strong |
 | [Civic Fit](./notes/civic-roles.md)       | High |
 
 ---
@@ -94,7 +94,6 @@ Optional future layer: [equine reintroduction](./notes/rewild-equine.md) to rest
 
 - [Scout Manual](biosphere-prototype/scout-manual.md)  
 - [Equestrian Scout Kit](biosphere-prototype/equestrian-scout-kit.md)  
-- [Main Biosphere Prototype](biosphere-prototype)
 
 ---
 
