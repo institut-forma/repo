@@ -74,7 +74,7 @@ Draft breeds like the [Schwarzwälder Kaltblut](./notes/equine-interface.md) are
 They are stable, low-compaction, and align with forest–pasture rhythms.  
 Used for civic mobility, quiet field access, and multispecies integration.
 
-Optional future layer: [semi-wild reintroduction](./notes/rewild-equine.md) in unmanaged pastures, to support passive landscape maintenance and re-cohering disrupted zones.
+Optional future layer: [equine reintroduction](./notes/rewild-equine.md) to restore biome rhythm, suppress overgrowth cycles, and anchor long-term terrain coherence through passive herd dispersal.
 
 ---
 
