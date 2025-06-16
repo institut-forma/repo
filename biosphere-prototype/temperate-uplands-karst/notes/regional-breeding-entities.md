@@ -1,4 +1,4 @@
-### 🔁 Regional Breeding Entities – Partners in Terrain-Centered Stewardship
+### 🔁 Regional Breeding Entities
 
 | Stewardship Entity                  | Location             | Ecological Function                                         |
 |------------------------------------|----------------------|-------------------------------------------------------------|
@@ -7,3 +7,4 @@
 | **Pferdezucht Sagrestano**         | Heiligenberg         | Performance lines; corridor-breeder along southern Alb edge |
 | **Zuchtgemeinschaft Müller/Escher**| Oberrot              | Preservation of D-line; potential kinetic buffer vector     |
 | **Pferdezucht Christian Ott**      | Schluchsee-Blasiwald | Moritz/Vogtsberg line; suitable for outer ring activation   |
+| **Schwarzwälder Kaltblutzucht Blattert** | Dillendorf | Small-range genetic resilience node |
