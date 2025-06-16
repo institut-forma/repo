@@ -48,6 +48,20 @@ The right horse isn’t just transport — it’s a stabilizer, scout, and field
 
 ---
 
+## Reading the Horse
+
+Horses are active participants in terrain sensing. Their reactions often register changes before a human scout can detect them.
+
+- **Ears**: Rapid flick, steady lock, or swiveling indicates attention to a sound anomaly  
+- **Breathing & Breath Pauses**: Abrupt breath holds or snorts can signal scent shifts, predator trace, or microclimate change  
+- **Head Toss or Pull**: May indicate tension in the ground, dense scent field, or discomfort near trace zones  
+- **Refusal or Path Change**: A horse turning off a “clear” path may sense voids, tension zones, or ecological thresholds  
+- **Gait Micro-Stalls**: Tiny pauses in rhythm often flag footing change, echo field shift, or underbrush density  
+
+🜂 Scout rule: **Trust the horse first** — they’re part of the system, not a vehicle in it.
+
+---
+
 ## Ecological Considerations
 
 - **Feeding**: Let graze in non-sensitive zones only; avoid flower-rich pasture  
