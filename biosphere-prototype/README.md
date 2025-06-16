@@ -21,6 +21,11 @@ Developed to align with UNESCO-MAB criteria:
   Field gear logic for mounted operations. Modular for seasonal use.  
   Designed to integrate with civic youth work, trail mapping, or rural monitoring programs.
 
+- [`Passive Terrain Literacy Kit`](./passive-literacy-kit.md)  
+  Modular scout methods for public terrain interaction.  
+  Includes moss indicators, bird cluster mapping, ant trail reading, and trace memory logic.  
+  Works in urban fringe, rural edge, and education settings. Zero infrastructure needed.
+  
 ---
 
 ### Biome Threads
