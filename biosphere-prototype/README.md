@@ -113,6 +113,18 @@ You can read more here → [`Guardian Kernel`](biosphere-prototype/guardian-kern
 
 ---
 
+## 🏛️ Civic Core  
+
+Behind the tools and terrain logic, this prototype runs on a shared civic skeleton:  
+a soft framework that defines how we handle fairness, identity, rhythm, roles, and trust.
+
+It’s not a legal document — it’s a civic structure:  
+updateable, reflective, and grounded in real-world coherence.
+
+Available here → [`civic-core.md`](biosphere-prototype/civic-core.md)
+
+---
+
 ## 🌱 Broader Context  
 What’s here is simple.  
 But the intention runs deeper:  
