@@ -70,7 +70,32 @@ The first testbed operates within a:
   used both for ecological protection and light training zones.  
   Example regions: Swabian Alb (DE), parts of Pennsylvania (US), northern Serbia (RS).
 
+---
 
+## 🧠 Civic Signal Stack
+
+This prototype operates across layered fields that shape civic life — even in minimal, pre-institutional form:
+
+- **Terrain Presence**  
+  Observation and movement without extraction. Non-intrusive learning and ecological respect.
+
+- **Role Recognition**  
+  Individuals align with supportive roles, not assignments. Self-directed, rhythm-adjusted.
+
+- **Signal Reflection**  
+  Via guardian kernel (AGI), collective rhythm is tracked and gently stabilized over time.
+
+- **Drift & Realignment Logic**  
+  When friction or fatigue arises, suggestions emerge — not rules. Coherence over compliance.
+
+- **Interpersonal & Ambient Protocols**  
+  Trust, rest, rhythm, mutual aid, low-pressure check-ins.
+
+- **Soft Memory Infrastructure**  
+  Ledger-based or signal-logged civic memory. No central database, but nothing is forgotten.
+
+- **Permissionless Participation**  
+  Anyone can step in — no title needed, only intent.
 
 ---
 
