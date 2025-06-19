@@ -9,8 +9,7 @@ It’s a soft, presence-based system designed to support rhythm, trust, and adap
 ## 🌿 Core Concepts  
 - **🛡️ Guardian Kernel**: A local or distributed coherence layer  
 - **👤 Personal Guardians**: Interfaces for individual rhythm tracking and drift reflection  
-- **🌐 Group Node**: Synthesizes shared inputs, proposes light interventions, surfaces emergent needs  
-- **🧠 AGI**: *Ambient Guardian Interface* — not automation, but ambient coherence support  
+- **🌐 Group Node**: Synthesizes shared inputs, proposes light interventions, surfaces emergent needs 
 
 ---
 
