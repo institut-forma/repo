@@ -59,6 +59,24 @@ Can be implemented by:
   
 ---
 
+### 🧱 Layers
+
+This prototype is structured across eight civic layers — each representing a fundamental domain of livable systems.  
+These folders hold modular logic, rhythms, and tools that help support life with minimal strain:
+
+- [`nourishment/`](./nourishment) — food, water, metabolic health  
+- [`shelter/`](./shelter) — habitat, rest space 
+- [`connection/`](./connection) — social rhythms, relational trust, shared downtime  
+- [`learning/`](./learning) — knowledge transfer, skill-sharing, signal expansion  
+- [`identity/`](./identity) — roles, recognition, cultural integrity  
+- [`contribution/`](./contribution) — labor flow, gifting, value reflection  
+- [`repair/`](./repair) — fairness, conflict, drift recovery  
+- [`rhythm/`](./rhythm) — timekeeping, seasonal shifts, pacing
+
+Each is independent but interconnected. 
+
+---
+
 ### Biome Threads
 
 This prototype applies to multiple biome types experiencing civic + ecological stress.
