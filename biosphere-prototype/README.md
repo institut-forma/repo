@@ -109,7 +109,7 @@ our version is civic-anchored, memory-capable, and human-steered.
 It doesn’t automate tasks — it helps people stay coherent.  
 Roles emerge. Tasks align. And communities can breathe.
 
-→ [`Guardian Kernel`](biosphere-prototype/guardian-kernel)  
+→ [`Guardian Kernel`](./guardian-kernel)  
 
 ---
 
@@ -121,7 +121,7 @@ a soft framework that defines how we handle fairness, identity, rhythm, roles, a
 It’s not a legal document — it’s a civic structure:  
 updateable, reflective, and grounded in real-world coherence.
 
-→ [`civic-core.md`](biosphere-prototype/civic-core.md)
+→ [`civic-core.md`](./civic-core.md)
 
 ---
 
