@@ -1,17 +1,17 @@
 # Biosphere Prototype  
-Tools for Civic Terrain Observation and Low-Strain Deployment
+**Civic Tools for Terrain Presence and Low-Strain Coordination**  
 
-This folder contains field-ready models designed to support land-compatible,  
-civically anchored activity within biosphere zones and mosaic environments.
+This project offers field-tested models for biosphere-compatible civic presence.  
+All modules are designed to function with zero infrastructure, full reversibility, and local rhythm.
 
-Developed to align with UNESCO-MAB criteria:  
+Aligned with UNESCO-MAB principles:
 - Participation without disruption  
 - Observation without extraction  
-- Action without added strain
+- Action without added strain  
 
 ---
 
-### Contents
+### Modules
 
 - [`Scout Manual`](./scout-manual.md)  
   Terrain-adapted guide for identifying ecological phase boundaries, flora/fauna zones,  
@@ -72,16 +72,24 @@ Can be implemented by:
 
 ---
 
-### Broader Context
+## 🌀 Guardian Kernel (AGI – Ambient Guardian Interface)  
 
-These tools are part of a wider civic prototype effort —  
-one grounded in the idea that systems can hold people better,  
-without force, noise, or constant negotiation.
+This project is supported by a soft, optional signal layer called the **guardian kernel** —  
+a presence-aware coherence system designed to mirror rhythm, surface drift, and suggest gentle realignments.  
 
+Inspired by the emerging conversation around “AI agents,”  
+our version is civic-anchored, memory-capable, and human-steered.  
+It doesn’t automate tasks — it helps people stay coherent.  
+Roles emerge. Tasks align. And communities can breathe.
+
+You can read more here → [link to kernel doc or subfolder]
+
+---
+
+## 🌱 Broader Context  
 What’s here is simple.  
-But the intention reaches further:  
+But the intention runs deeper:  
 to support ways of living that feel less extractive, less brittle —  
 and more coherent by design.
 
-If these tools fit into that hope — even a little —  
-we’re ready to adapt and grow them with care.
+If these tools fit into that hope — we’re ready to adapt and grow them with care.
