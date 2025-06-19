@@ -64,6 +64,23 @@ We value presence over compliance, rhythm over force.
 
 ---
 
+## 📚 Boundaries & Conflict
+
+Civic incoherence often begins at the boundary layer —  
+where needs, roles, or identities are distorted, overwritten, or never reflected.
+
+This prototype recognizes:
+
+- Prejudice isn’t always hatred — it’s often a boundary formed from distorted input.  
+- Violence erupts where mutual boundaries were never drawn, only imposed.  
+- Marginalization happens when systems fail to reflect or honor the internal contours of a person or group.  
+- Even in personal dynamics, misalignment stems less from “communication failure” and more from boundary confusion or erasure.
+
+We treat **boundary literacy** as foundational to civic health.  
+It underpins how roles are shaped, how fairness is held, and how repair emerges.
+
+---
+
 ## 🛠️ This Document
 
 - Living format: this file may evolve  
