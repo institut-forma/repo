@@ -1,4 +1,4 @@
-# Biosphere Prototype  
+# 🗺️ Biosphere Prototype  
 **Civic Tools for Terrain Presence and Low-Strain Coordination**  
 
 This project offers field-tested models for biosphere-compatible civic presence.  
