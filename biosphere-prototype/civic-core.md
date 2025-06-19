@@ -21,7 +21,7 @@ Everything here is updateable. Nothing is final.
    Companionship and cultural rhythm shape coherent civic identity.
 
 4. **Inner Sovereignty**  
-   Each person holds a private inner world and a chosen external self.
+   Each person holds the dignity to a private inner world and a chosen external self.
 
 5. **Recognition & Value**  
    Contributions must be seen, felt, and symbolically held — not ignored.
