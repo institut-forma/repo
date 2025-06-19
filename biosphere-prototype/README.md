@@ -79,7 +79,7 @@ Each is independent but interconnected.
 
 ### Biome Threads
 
-This prototype applies to multiple biome types experiencing civic + ecological stress.
+This research applies to multiple biome types experiencing civic + ecological stress.
 
 The first testbed operates within a:
 
