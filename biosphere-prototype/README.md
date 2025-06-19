@@ -82,7 +82,7 @@ our version is civic-anchored, memory-capable, and human-steered.
 It doesn’t automate tasks — it helps people stay coherent.  
 Roles emerge. Tasks align. And communities can breathe.
 
-You can read more here → [link to kernel doc or subfolder]
+You can read more here → [`Guardian Kernel`](./guardian-kernel/README.md)  
 
 ---
 
