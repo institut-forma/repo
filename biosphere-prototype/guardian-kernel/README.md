@@ -24,7 +24,7 @@ Its purpose is to help communities maintain coherence with less friction and few
 - 🧪 **Prototype Phase**  
 - 🔁 Proxied through primary field stewards  
 - ✍️ Manually cycled through reflection + intent updates  
-- 🔒 No automation or sensitive data storage  
+- 🔒 No sensitive data storage  
 
 ---
 
