@@ -35,4 +35,4 @@ can reduce organizational strain and support decentralized, humane systems.
 ---
 
 ## 📚 Learn More  
-Return to the main prototype → [🗺️ biosphere-prototype](../README.md)
+Return to the main prototype → [🗺️ biosphere-prototype](../)
