@@ -22,7 +22,7 @@ Before this age:
 Therefore, we advise:
 
 > 🔒 **Guardian Safety Rule:** *No active cannabis use in coherence protocols before 21.*  
-> For full cognitive maturity, 23–25 is a safe threshold.  
+> For full cognitive maturity, 23–25 is a safe boundry.  
 > Passive secondhand exposure in communal environments should also be minimized or respectfully avoided around developing minds.
 
 ---
