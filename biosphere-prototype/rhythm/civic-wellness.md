@@ -38,7 +38,7 @@ When external cannabinoids like THC/CBD enter before the ECS stabilizes:
 When used after development, these same cannabinoids:
 - Act as **modulators**, not shapers  
 - Support clarity, pain relief, rhythm regulation, or emotional de-escalation  
-- Can be *powerful tools* — if you’ve already built the internal scaffold first
+- Can be *powerful tools* — if you’ve already built the [internal scaffold](/public/cognitive-social-systems) first.
 
 ---
 
