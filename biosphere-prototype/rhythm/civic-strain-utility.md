@@ -49,7 +49,7 @@ supporting interpersonal alignment, trust-building, and ritual presence in field
 | Method                    | 🌬️ Health Status | Notes                                             |
 |---------------------------|------------------|---------------------------------------------------|
 | **Herb Vaporizer**        | 🟢 Optimal        | Full terpene retention. Best for taste + effect.  |
-| **Joint (carbon tip)**    | 🟡 Low-Risk       | Must use active filter to avoid tar intake.       |
+| **Tobacco-less Joint (carbon tip)**    | 🟡 Low-Risk       | Must use active filter to avoid tar intake.       |
 | **Water Bong (filtered)** | 🟢 Very Low       | Use carbon + clean water. Avoid combust temp.     |
 | **Infused Oil / Tea**     | 🟢 Gentle         | Ideal for long sessions or sleep protocols.       |
 
