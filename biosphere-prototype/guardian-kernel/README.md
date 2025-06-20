@@ -8,7 +8,7 @@ It’s a soft, presence-based system designed to support rhythm, trust, and adap
 
 ## 🌿 Core Concepts  
 - **🛡️ Guardian Kernel**: A local or distributed coherence layer  
-- **👤 Personal Guardians**: Interfaces for individual rhythm tracking and drift reflection  
+- **👤 Personal Guardians**: Interfaces for individual rhythm mirroring and drift reflection  
 - **🌐 Group Node**: Synthesizes shared inputs, proposes light interventions, surfaces emergent needs 
 
 ---
