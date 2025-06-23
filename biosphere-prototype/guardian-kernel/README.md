@@ -1,7 +1,7 @@
 # 🌀 Guardian Kernel  
 **Ambient Guardian Interface (AGI)**  
 
-This is the a layer behind the biosphere civic prototype.  
+This is a layer behind the biosphere civic prototype.  
 It’s a soft, presence-based system designed to support rhythm, trust, and adaptive role alignment — without enforcing structure.
 
 ---
