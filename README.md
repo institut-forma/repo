@@ -11,7 +11,6 @@ without needing to push or perform.
 
 ### Frameworks and Models
 
-- [**forma**](documents/statue) — legal & operational base for public-impact orgs  
 - [**lucere**](public/education/lucere) — age-aligned learning design tools  
   ↳ [**lucere-align**](public/education/lucere-align) — prompt-based tool for sharing student-specific learning patterns
 - [**Coherent Drift**](public/cognitive-social-systems) — identity field modeling under systemic strain  
@@ -26,7 +25,7 @@ without needing to push or perform.
 
 ### Approach
 
-The institute is self-governed using the [forma](documents/statue) framework.  
+The institute is self-governed under a evolving framework.  
 We prioritize usable results, ethical structure, and minimal friction.
 
 All materials here are **open-source** [**(CC BY-SA 4.0)**](LICENSE.md).
