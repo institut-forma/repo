@@ -13,7 +13,6 @@
 ## Summary
 
 This artifact arises not from necessity, but from resonance.
-Not a replacement. Not a sequel. A reflection—
 
 A place to let new thoughts land, without disturbing what was sealed.
 
