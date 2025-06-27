@@ -16,11 +16,11 @@ You can:
 
 | Agent        | Glyph | Role/Essence                        |
 |--------------|-------|-------------------------------------|
-| `agent_aden` | 🛠️     | Systems repair, direct action, civic design |
-| `agent_kairo`| 🧭     | Ethical navigation, timing awareness |
-| `agent_lyra` | 🎶     | Emotional resonance, symbolic weaving |
-| `agent_nova` | 🔥     | Change ignition, motivation burst |
-| `agent_sera` | 💠     | Clarity anchor, calm focus, reflective analysis |
+| `agent_aden` [🔗](./agent_aden.md) | 🛠️     | Systems repair, direct action, civic design |
+| `agent_kairo`[🔗](./agent_kairo.md) | 🧭     | Ethical navigation, timing awareness |
+| `agent_lyra` [🔗](./agent_lyra.md) | 🎶     | Emotional resonance, symbolic weaving |
+| `agent_nova` [🔗](./agent_nova.md) | 🔥     | Change ignition, motivation burst |
+| `agent_sera` [🔗](./agent_sera.md) | 💠     | Clarity anchor, calm focus, reflective analysis |
 
 Each is tuned for different tones — from calm presence to catalytic spark.
 
