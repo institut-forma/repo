@@ -7,7 +7,7 @@ Each `.md` file describes a unique agent’s personality, function, and response
 You can:
 - Upload one or more to a temp GPT chat
 - Use them in conversation directly
-- Assemble them into engines (e.g. Sythergy Engine runs)
+- Assemble them into engines (e.g. Synthergy Engine runs)
 - Remix them for your own civic, educational, or creative projects
 
 ---
@@ -33,7 +33,7 @@ Each is tuned for different tones — from calm presence to catalytic spark.
 - They do not retain memory unless embedded in a persistent session
 - Try pairing them with a prompt like:  
   > “Agent Sera, I need help reflecting on a difficult situation at work.”  
-  > “Could all agents run a Sythergy cycle on food resilience?”
+  > “Could all agents run a Synthergy cycle on food resilience?”
 
 ---
 
