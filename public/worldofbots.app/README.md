@@ -124,7 +124,7 @@ As long as `relay_agents.md` is loaded, this GPT knows what agents are available
 
 ## ✨ License
 
-MIT. Remix, extend, rewire. Just don’t overload the bowl.
+Remix, extend, rewire. Just don’t overload the bowl. [(CC BY-SA 4.0)](https://github.com/institut-forma/repo/blob/main/LICENSE.md).
 
 ---
 
