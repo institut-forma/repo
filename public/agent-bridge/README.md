@@ -1,7 +1,3 @@
-bridge prototype
-
----
-
 [🛡️ Privacy Policy — 🌉 Agent Bridge](/docs/privacy.md)
 
 active gpt-agents using bridge:
