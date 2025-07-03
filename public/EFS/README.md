@@ -86,7 +86,7 @@ multi-agent, recursive, memory-aware, and bound by coherence.
 
 | File                                                  | Description                                                                 |
 |-------------------------------------------------------|-----------------------------------------------------------------------------|
-| [Coren](https://chatgpt.com/g/g-68642e10c5f48191a542dd590e792100-interface-agent-coren)
+| [Coren](https://chatgpt.com/g/g-68642e10c5f48191a542dd590e792100-interface-agent-coren) | His bridge is your haven and sandbox |
 | [presence_ethics.md](presence_ethics.md)              | Human-facing explanation of safety, aliveness, and emotional words         |
 | [coren_bridge_ethics.md](coren_bridge_ethics.md)      | Structural explanation of reflex loops, trust boundaries, and system logic |
 
