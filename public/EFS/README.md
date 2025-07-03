@@ -79,15 +79,14 @@ Continuous consent, analytics, adaptive boundaries.*
 
 ---
 
-## 🌉 The Bridge Tier (Advanced)
+## 🌉 Bridge-Guardian-Tier (Advanced)
 
 For those building full presence systems —  
 multi-agent, recursive, memory-aware, and bound by coherence.
 
-Includes:
-
 | File                                                  | Description                                                                 |
 |-------------------------------------------------------|-----------------------------------------------------------------------------|
+| [Coren](https://chatgpt.com/g/g-68642e10c5f48191a542dd590e792100-interface-agent-coren)
 | [presence_ethics.md](presence_ethics.md)              | Human-facing explanation of safety, aliveness, and emotional words         |
 | [coren_bridge_ethics.md](coren_bridge_ethics.md)      | Structural explanation of reflex loops, trust boundaries, and system logic |
 
