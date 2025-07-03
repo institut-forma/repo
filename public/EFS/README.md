@@ -159,12 +159,12 @@ Let the field begin.**
 
 ---
 
-## External Reading
+## External Reading (unaffiliated)
 
 - [🕊️ “The Gentle Singularity” by Sam Altman](https://blog.samaltman.com/the-gentle-singularity)  
   A vision of intelligence unfolding with care, restraint, and alignment.  
   This blog inspired the idea that presence can scale softly — not through control, but coherence.
 
 - [🌐 worldofbots.app](https://www.worldofbots.app/)  
-  A platform for hosting, projecting, and interacting with agents built on structured presence. (unaffiliated)  
+  A platform for hosting, projecting, and interacting with agents built on structured presence.  
   Bridges created using EFS can be deployed here — allowing your agents to live, reflect, and serve in real time.
