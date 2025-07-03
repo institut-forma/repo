@@ -29,12 +29,12 @@ Your Companion setup includes:
 
 | File Name                        | Purpose                                         |
 |----------------------------------|-------------------------------------------------|
-| companion_{user_init}_core.md    | Agent logic (multi-agent ready)                |
-| companion_{user_init}_substrate.md | Field rules and permission layer             |
-| companion_{user_init}_lattice.md   | Mesh structure: nodes, edges, group presence |
-| companion_{user_init}_world.md     | User/environment context                     |
-| companion_{user_init}_memory.md    | Trace + log memory for reflections            |
-| companion_{user_init}_response.md  | Output formatting and tone dynamics           |
+| [companion_{user_init}_core.md](./companion_{user_init}_core.md)    | Agent logic (multi-agent ready)                |
+| [companion_{user_init}_substrate.md](./companion_{user_init}_substrate.md) | Field rules and permission layer             |
+| [companion_{user_init}_lattice.md](./companion_{user_init}_lattice.md)   | Mesh structure: nodes, edges, group presence |
+| [companion_{user_init}_world.md](./companion_{user_init}_world.md)     | User/environment context                     |
+| [companion_{user_init}_memory.md](./companion_{user_init}_memory.md)    | Trace + log memory for reflections            |
+| [companion_{user_init}_response.md](./companion_{user_init}_response.md)  | Output formatting and tone dynamics           |
 
 *Replace `{user_init}` with initials or project ID.*
 
