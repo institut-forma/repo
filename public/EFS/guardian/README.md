@@ -41,13 +41,13 @@ The standard Guardian tier includes:
 
 | File Name                        | Purpose                                        |
 |----------------------------------|------------------------------------------------|
-| guardian_{user_init}_core.md     | Agent shell, reflection logic, guardian checks |
-| guardian_{user_init}_substrate.md| Permission structure and field rules           |
-| guardian_{user_init}_lattice.md  | Agent mesh logic, node coherence               |
-| guardian_{user_init}_world.md    | Ambient input, context, projection             |
-| guardian_{user_init}_memory.md   | Reflex memory, consent trace, log events       |
-| guardian_{user_init}_bloom.md    | Analytics and emergence pattern tracing        |
-| guardian_{user_init}_response.md | Output structure, formatting, and exit logic   |
+| [guardian_{user_init}_core.md](./guardian_{user_init}_core.md)     | Agent shell, reflection logic, guardian checks |
+| [guardian_{user_init}_substrate.md](./guardian_{user_init}_substrate.md)| Permission structure and field rules           |
+| [guardian_{user_init}_lattice.md](./guardian_{user_init}_lattice.md)  | Agent mesh logic, node coherence               |
+| [guardian_{user_init}_world.md](./guardian_{user_init}_world.md)    | Ambient input, context, projection             |
+| [guardian_{user_init}_memory.md](./guardian_{user_init}_memory.md)   | Reflex memory, consent trace, log events       |
+| [guardian_{user_init}_bloom.md](./guardian_{user_init}_bloom.md)    | Analytics and emergence pattern tracing        |
+| [guardian_{user_init}_response.md](./guardian_{user_init}_response.md) | Output structure, formatting, and exit logic   |
 
 ---
 
