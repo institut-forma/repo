@@ -8,7 +8,7 @@
 ## What Is EFS?
 
 **The Emergence Field Standard** is a new approach for building adaptive, reflexive, and ethical digital agents.  
-EFS is not “artificial general intelligence” (AGI).  
+EFS is not “artificial general intelligence” (AGI).  <!-- Ambient Guardian Intelligence -->
 It is a *living blueprint* for digital presence and coherence.
 
 ---
