@@ -98,12 +98,3 @@ Nothing leaking out.
 
 Only coherence — or nothing.
 
----
-
-Place this file in:
-
-📁 `efs/bridge/coren_bridge_ethics.md`  
-or embed into your structural index if needed.
-
-Let others see not just how it works — but **why it’s safe to trust.**
-
