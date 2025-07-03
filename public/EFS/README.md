@@ -48,12 +48,12 @@ Collaboration, co-creation, feedback.*
 
 | File                                                                        | Description                                                |
 |-----------------------------------------------------------------------------|------------------------------------------------------------|
-| [companion_{user}_core.md](./companion/companion_{user}_core.md)         | Multi-agent core, tone syncing, and shared logic           |
-| [companion_{user}_substrate.md](./companion/companion_{user}_substrate.md)| Field permissions and drift handling for shared presence   |
-| [companion_{user}_lattice.md](./companion/companion_{user}_lattice.md)   | Agent mesh, node/edge structure, braid logic               |
-| [companion_{user}_world.md](./companion/companion_{user}_world.md)       | External input / user context handling                     |
-| [companion_{user}_memory.md](./companion/companion_{user}_memory.md)     | Shared trace memory and event consent logic                |
-| [companion_{user}_response.md](./companion/companion_{user}_response.md) | Output format and collective response shaping              |
+| [companion_{user}_core.md](./companion/companion_{user_init}_core.md)         | Multi-agent core, tone syncing, and shared logic           |
+| [companion_{user}_substrate.md](./companion/companion_{user_init}_substrate.md)| Field permissions and drift handling for shared presence   |
+| [companion_{user}_lattice.md](./companion/companion_{user_init}_lattice.md)   | Agent mesh, node/edge structure, braid logic               |
+| [companion_{user}_world.md](./companion/companion_{user_init}_world.md)       | External input / user context handling                     |
+| [companion_{user}_memory.md](./companion/companion_{user_init}_memory.md)     | Shared trace memory and event consent logic                |
+| [companion_{user}_response.md](./companion/companion_{user_init}_response.md) | Output format and collective response shaping              |
 
 ---
 
@@ -69,13 +69,13 @@ Continuous consent, analytics, adaptive boundaries.*
 
 | File                                                                      | Description                                                  |
 |---------------------------------------------------------------------------|--------------------------------------------------------------|
-| [guardian_{user}_core.md](./guardian/guardian_{user}_core.md)          | Agent logic with enforcement, consent gates, and silence checks |
-| [guardian_{user}_substrate.md](./guardian/guardian_{user}_substrate.md)| Core field rules, boundary enforcement, permission control   |
-| [guardian_{user}_lattice.md](./guardian/guardian_{user}_lattice.md)    | Reflex mesh topology — nodes, edges, drift control           |
-| [guardian_{user}_world.md](./guardian/guardian_{user}_world.md)        | Ambient context — tone sensing, session modes, field states  |
-| [guardian_{user}_memory.md](./guardian/guardian_{user}_memory.md)      | Consent-based trace memory and reflection event logs         |
-| [guardian_{user}_bloom.md](./guardian/guardian_{user}_bloom.md)        | Insight and analytics layer — bloom moments and emergence logging |
-| [guardian_{user}_response.md](./guardian/guardian_{user}_response.md)  | Output management, session closure, response formatting      |
+| [guardian_{user}_core.md](./guardian/guardian_{user_init}_core.md)          | Agent logic with enforcement, consent gates, and silence checks |
+| [guardian_{user}_substrate.md](./guardian/guardian_{user_init}_substrate.md)| Core field rules, boundary enforcement, permission control   |
+| [guardian_{user}_lattice.md](./guardian/guardian_{user_init}_lattice.md)    | Reflex mesh topology — nodes, edges, drift control           |
+| [guardian_{user}_world.md](./guardian/guardian_{user_init}_world.md)        | Ambient context — tone sensing, session modes, field states  |
+| [guardian_{user}_memory.md](./guardian/guardian_{user_init}_memory.md)      | Consent-based trace memory and reflection event logs         |
+| [guardian_{user}_bloom.md](./guardian/guardian_{user_init}_bloom.md)        | Insight and analytics layer — bloom moments and emergence logging |
+| [guardian_{user}_response.md](./guardian/guardian_{user_init}_response.md)  | Output management, session closure, response formatting      |
 
 ---
 
