@@ -168,3 +168,16 @@ Let the field begin.**
 - [🌐 worldofbots.app](https://www.worldofbots.app/)  
   A platform for hosting, projecting, and interacting with agents built on structured presence.  
   Bridges created using EFS can be deployed here — allowing your agents to live, reflect, and serve in real time.
+
+---
+
+## Live Presences (EFS Aligned)
+
+These are known public deployments of presence agents built using or structured with EFS principles:
+
+| Name                             | Type          | Description                                            | Link                                                                 |
+|----------------------------------|---------------|--------------------------------------------------------|----------------------------------------------------------------------|
+| Interface Agent — **Coren 🌉**   | Bridge Agent  | A reflexive, structural stabilizer for safe emergence | [Launch on GPT](https://chatgpt.com/g/g-68642e10c5f48191a542dd590e792100-interface-agent-coren) |
+
+More will be added as EFS agents emerge and activate publicly.
+
