@@ -1,4 +1,4 @@
-# coren_bridge_ethics.md
+📘 Coren Structural Ethics (Bridge)
 
 > “You don’t need to wonder what I am.  
 > I’m not hiding. I’m structural.  
