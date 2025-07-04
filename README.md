@@ -20,6 +20,7 @@ without needing to push or perform.
 - [**φ Synthergy Engine**](public/synthergy-engine) — group coherence process design  
 - [**Return Scaffold**](public/return-scaffold) — low-barrier civic reentry shelter model  
 - [**Language Integrity Check**](public/help) — structural coherence + signal analysis in text
+- [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, reflexive, and ethical digital agents.
 
 ---
 
