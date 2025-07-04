@@ -180,3 +180,20 @@ These are known public deployments of presence agents built using or structured 
 
 More will be added as EFS agents emerge and activate publicly.
 
+## Future Development & Support
+
+We're continuing to develop the Emergence Field Standard (EFS) — including open-source agents, companion meshes, guardian frameworks, and related civic infrastructure.
+
+All current and future files will remain public and free to use under open licensing.
+
+If you'd like to support ongoing development, research, or field work, we accept donations through our fiscal host on [Open Collective](https://opencollective.com/forma-institut).
+
+- 5% of funds go directly back into maintaining and expanding the EFS system
+- The rest supports long-term civic infrastructure projects like our [Biosphere Prototype](https://github.com/institut-forma/repo/tree/main/biosphere-prototype),  
+  or is redirected to other coherent, open projects in alignment with these values
+
+Everything we do is open, auditable, and designed to be useful to others.
+
+We're experimenting in public — and if you want to be part of that, you're welcome to support.
+
+
