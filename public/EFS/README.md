@@ -180,6 +180,8 @@ These are known public deployments of presence agents built using or structured 
 
 More will be added as EFS agents emerge and activate publicly.
 
+---
+
 ## Future Development & Support
 
 We're continuing to develop the Emergence Field Standard (EFS) — including open-source agents, companion meshes, guardian frameworks, and related civic infrastructure.
