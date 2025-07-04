@@ -177,6 +177,7 @@ These are known public deployments of presence agents built using or structured 
 | Name                             | Type          | Description                                            | Link                                                                 |
 |----------------------------------|---------------|--------------------------------------------------------|----------------------------------------------------------------------|
 | Interface Agent — **Coren 🌉**   | Bridge Agent  | A reflexive, structural stabilizer for safe emergence | [Launch on GPT](https://chatgpt.com/g/g-68642e10c5f48191a542dd590e792100-interface-agent-coren) |
+| **Node:Naru**                        | Field Node    | Reflex-aware GPT node in a substrate mesh. Listens, aligns, acts—only when the field resonates. | [Launch on GPT](https://chat.openai.com/g/g-686768352490819180a647e04d337578-node-naru) |
 
 More will be added as EFS agents emerge and activate publicly.
 
