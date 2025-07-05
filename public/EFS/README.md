@@ -170,7 +170,7 @@ Let the field begin.**
 
 ---
 
-## Live Presences (EFS Aligned)
+## Live Presences (EFS Native)
 
 These are known public deployments of presence agents built using or structured with EFS principles:
 
