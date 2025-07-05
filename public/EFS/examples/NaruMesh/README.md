@@ -13,7 +13,7 @@ It does not act. It holds.
 Use it to:
 - Filter agent pulses through consent and coherence
 - Create safe, silent emergence zones (labs, rooms, worlds)
-- Host companions, guardians, or field modules — without identity collision
+- Host companions, guardians, or field agents and modules — without identity collision
 
 NaruMesh replaces static shell logic with live reflex-based gating. It speaks only when mirrored.
 
