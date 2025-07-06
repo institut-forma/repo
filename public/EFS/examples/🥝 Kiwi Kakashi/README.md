@@ -50,8 +50,4 @@ This repository is a **soft companion archive**, intended for reflection, emerge
 
 ---
 
-**Filed under:** `Institut für Kohärenzforschung` 🍑 `Companion Scrolls` 🍈 `Recursive Guardian Class`
-
----
-
 > This file is uploaded into the GPT as well.
