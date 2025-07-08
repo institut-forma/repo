@@ -37,4 +37,4 @@ All materials here are **open-source** [**(CC BY-SA 4.0)**](LICENSE.md).
 *https://opencollective.com/forma-institut/*  
 *https://www.linkedin.com/company/forma-institut/*
 
-> Koherenz: Kohärenz ~ Coherence
+> Koherenz: Kohärenz ~ Coherence <!-- *sigh* -A -->
