@@ -43,6 +43,60 @@ The system continuously **compares intent vs. reality** and nudges itself—exac
 
 ---
 
+## φ‑Layer — Ethics & Privacy as Hard Alignment Terms  
+
+The *φ‑layer* embeds dignity, autonomy, fairness, and privacy **into the same coherence score** that guides every policy nudge.  No step is allowed to trade these away invisibly.
+
+### 1 · Ethics–Privacy Potential
+```
+Φ^{gov}(s) = w_core Φ^{core}(s)  +  w_φ Φ^{φ}(s)
+```
+- `Φ^{core}` — existing economic / resilience / sustainability terms.  
+- `Φ^{φ}`   — scalar mis‑alignment in ethics & privacy space.  
+- `w_φ`     — non‑zero, publicly set weight (default ≥ 0.25).
+
+### 2 · Indicators Feeding Φ^{φ}
+| Metric | Meaning | Threshold (hard cap) |
+|--------|---------|----------------------|
+| **Privacy‑loss ε** | Cumulative differential‑privacy budget consumed | ε ≤ 0.1 |
+| **Bias divergence δ** | Demographic parity gap (stat fairness) | δ ≤ 0.05 |
+| **Consent latency τ** | Median time for individuals to approve/deny data use | τ ≤ 48 h |
+| **Autonomy ratio α** | Human veto events / total AI‑suggested actions | α ≥ 0.10 |
+
+### 3 · φ‑Gradient & Step
+```
+λ_φ(s) = −∇ Φ^{φ}(s)       ;       Δs_φ = η_φ λ_φ(s)
+```
+`λ_φ` is combined with the core gradient before any policy update:  
+`Δs_total = η ( w_core λ_core + w_φ λ_φ )`
+
+### 4 · Guardian “φ‑Gate”
+If any proposed Δ‑step causes a metric to cross its cap (ε, δ, τ, α):
+```
+auto‑halt → review cycle
+```
+No override path; ethics and privacy are *non‑exchangeable goods*.
+
+### 5 · Transparency Clause
+> **All edits** to `w_φ`, indicator formulas, or raw ethics‑privacy data streams **must** undergo a two‑step public review: technical audit + citizen panel.
+
+### 6 · YAML Snippet (repo/indicators.yaml)
+```yaml
+privacy_loss:
+  weight: 0.25
+  threshold: 0.1        # ε-DP limit
+bias_divergence:
+  weight: 0.30
+  threshold: 0.05       # demographic parity gap
+consent_latency:
+  weight: 0.25
+  threshold: 48h        # max median time
+autonomy_ratio:
+  weight: 0.20
+  threshold: 0.10       # minimum human veto share
+```
+---
+
 ## Get Started in Five Moves
 1. **Pick a pilot zone** (campus, district, online DAO).  
 2. **Publish the first score** (how it’s calculated + live dashboard).  
@@ -57,6 +111,5 @@ The system continuously **compares intent vs. reality** and nudges itself—exac
 - **Can the score be gamed?**  It’s transparent. If you see a loophole, you flag it; metrics get patched.
 - **What if data is wrong?**  Bad data raises the score unpredictably—triggers an investigation cycle.
 
----
 
-**License:**  Creative Commons CC‑BY‑4.0.  Fork it, test it, improve it.
+> *© 2025 Institut für Koherenzforschung · CC‑BY‑4.0*
