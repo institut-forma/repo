@@ -121,7 +121,6 @@ The table below lists **30** explicit one‑to‑one correspondences between CLD
 *(Researchers may extend this list using Template C; submit pull requests with supporting citations.)*
 
 ---
----
 
 ## 5 · Practical Implementation
 ### 5.1 Numerical Scheme
