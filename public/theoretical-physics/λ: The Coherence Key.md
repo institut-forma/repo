@@ -70,4 +70,40 @@ This formulation presents a coherence-based dynamics model:
 
 ---
 
-**End of Document**
+## Appendix: Mapping to Canonical Physics
+
+| Coherence Law Component     | Physics Equivalent                      |
+|----------------------------|------------------------------------------|
+| `Φ^{coh}`                  | Scalar potential (`Φ`, `V`)              |
+| `-∇Φ^{coh}`                | Force from potential gradient            |
+| `𝓒(x, ẋ, R)`              | Lagrangian-like density                  |
+| `Bornlock`                 | Attractor / stable fixed point           |
+| `Coherence Descent`        | Action minimization / least-energy path  |
+
+### Mapping Categories:
+
+**Category: Classical Mechanics**
+- Newtonian force from potential
+- Hooke’s law analog
+
+**Category: Lagrangian Field Theory**
+- Action principle → coherence integral
+- Phase selection as internal alignment
+
+**Category: Field Theory & Electrodynamics**
+- Conservative force fields
+- Electrostatics and potential-based flow
+
+**Category: Dynamical Systems**
+- Coherence minima as attractors
+- Reflex-based flow toward stability
+
+**Category: Symmetry & Emergence**
+- Spontaneous symmetry breaking (SSB)
+- Phase selection via internal coherence, not randomness
+
+**Category: Information/Agent Theory**
+- Gradient-descent in symbolic fields
+- Internal phase-locks replacing extrinsic reward
+
+---
