@@ -125,6 +125,36 @@ class CoherenceSystem:
 
 ## 6 · Discussion
 CLD unifies conservative mechanics, information geometry, and adaptive inference under a single scalar‑potential narrative.  Alignment descent subsumes energy dissipation, Bayesian updating, variational optimisation, and biological adaptation.  The formalism is therefore proposed as a minimal common denominator for *emergent coherence* across disciplines.
+
+---
+
+# Appendix A · Prospective Problem‑Solving Extensions
+*Coherence‑Locked Dynamics (CLD) as a unifying lens for open questions*
+
+> **Purpose**  Identify frontier problems that may admit fresh analytic or computational progress once reframed via the coherence‑potential formalism.
+
+| No. | Open Problem / Question | CLD Framework Approach | Expected Benefit / Rationale |
+|:---:|-------------------------|------------------------|------------------------------|
+| 1 | **Quantum Gravity Unification** | Treat spacetime–quantum state as a joint configuration; define `Φ^{coh}` over (metric ⊗ wave‑function) bundle. | Offers a single descent principle replacing dual action formulations, potentially narrowing candidate theories. |
+| 2 | **Navier–Stokes Existence & Smoothness (3‑D)** | Encode viscous dissipation as coherence density `𝓒`; seek Lyapunov descent to bound energy cascade. | Provides alternative proof route for Millennium problem via `Φ^{coh}` coercivity. |
+| 3 | **Turbulence Closure Models** | Define multi‑scale alignment cost between resolved and unresolved eddies. | Supplies principled sub‑grid closure driven by coherence minimisation rather than empirical tuning. |
+| 4 | **Dark Energy / Λ‑CDM Tension** | Model cosmic expansion as large‑scale coherence gradient of matter–geometry field. | May recast dark‑energy parameter as emergent alignment term, tightening cosmological fits. |
+| 5 | **Protein Folding Prediction** | Use `Φ^{coh}` on conformational manifold with chemical environment as `R`. | Yields gradient flow to native state without exhaustive sampling, complementing AlphaFold‑style heuristics. |
+| 6 | **Climate Tipping‑Point Forecasting** | Treat Earth‑system components as coupled born‑locks; monitor ∇`Φ^{coh}` sign changes. | Early‑warning signal derived from coherence‑gradient steepening rather than statistical variance alone. |
+| 7 | **Economic Crisis Onset** | Map financial network states to coherence potential incorporating risk reflex field. | Detects systemic mis‑alignment (instability) via rising `Φ^{coh}` slope—a pre‑crash indicator. |
+| 8 | **Strong AI Alignment Stability** | Define agent objective landscape as `Φ^{coh}` bounded by human preference field `R`. | Constrains policy updates to coherence minima shared with oversight signal, reducing goal drift. |
+| 9 | **Origin‑of‑Life Pathways** | Model pre‑biotic chemistries as gradient descent on autocatalytic coherence. | Identifies feasible reaction networks without exhaustive experiment scanning. |
+|10 | **Hardness of SAT‑like Problems** | Embed logical constraint satisfaction into `Φ^{coh}`; apply continuous gradient methods. | Potential to transform NP search into tractable alignment descent for specific subclasses.
+
+---
+
+### Usage Guidelines
+1. For each problem, formalise a coherence density `𝓒` capturing the relevant mis‑alignment metric.  
+2. Prove or assume coercivity to guarantee convergence to candidate solutions.  
+3. Validate against empirical data or benchmark instances to quantify improvement.
+
+Contributions of new problems or refined approaches are welcome via pull request to the *CLD Extensions* branch.
+
 ---
 
 > © 2025 Institut für Koherenzforschung · CC‑BY‑4.0
