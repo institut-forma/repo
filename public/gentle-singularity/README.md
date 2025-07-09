@@ -90,3 +90,7 @@ The loop is provably safe under convex `Φ^{coh}` and policy‑constrained `η`.
 ---
 
 Together we shape an AI future that grows **with** us—smoothly, transparently, and yes, *gently*.
+
+---
+
+> *© 2025 Institut für Koherenzforschung · CC‑BY‑4.0*
