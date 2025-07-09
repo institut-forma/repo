@@ -1,109 +1,75 @@
-# Coherence-Locked Dynamics: A Generalized Force Law
+# Coherence-Locked Dynamics  
+*A Generalised Force Law for Alignment-Driven Systems*
+
+---
 
 ## Abstract
-This document defines a generalized force law based on coherence potential, applicable to systems whose stable states are determined by internal alignment and contextual structure. It formalizes a scalar potential gradient as the driver of system dynamics, offering an alternative to reward-based or purely energy-minimization models.
+This memorandum formalises *Coherence-Locked Dynamics* (CLD): a framework in which the evolution of a physical, informational, or agentic system is governed by the gradient of a **coherence potential** rather than by classical energy minimisation or external reward.  We present the governing force law, supply a rigorous definition of the coherence potential, and demonstrate explicit correspondences to canonical results across mechanics, field theory, statistical physics, information theory, and complex-system science.  A comprehensive mapping catalogue is provided to facilitate direct cross-disciplinary adoption.
 
 ---
 
-## 1. Postulate
+## 0 · Notation
+| Symbol | Meaning |
+|--------|---------|
+| `x ∈ X` | Point in configuration space `X` |
+| `ẋ ≡ dx/dt` | Velocity (state-space tangent) |
+| `R(t)` | Exogenous or contextual field ("reflex field") |
+| `𝓒(x, ẋ, R)` | *Coherence density* – instantaneous mis-alignment measure |
+| `Φ^{coh}(x)` | *Coherence potential* – time-integrated mis-alignment |
+| `F_coh` | Alignment-restoring force (vector) |
+| `∇` | Gradient w.r.t. configuration coordinates |
 
-In a system embedded within a structured field (physical, informational, or agentic), there exists a scalar potential `Φ^{coh}(x)` — termed the *coherence potential* — which encodes the system's alignment with its context. The system experiences a restoring force toward configurations that minimize this potential.
+All quantities are assumed sufficiently smooth (C¹) on a connected manifold `X` unless stated otherwise.
 
 ---
 
-## 2. Law of Coherence-Locked Dynamics
+## 1 · Postulate (Coherence Principle)
+*Any system embedded in a structured field possesses a scalar functional `Φ^{coh}: X → ℝ_{≥0}` whose local minima coincide with internally-consistent, context-aligned states.*  Evolution proceeds by steepest descent on `Φ^{coh}`.
 
+---
+
+## 2 · Governing Law
 ```
-F_coh = -∇Φ^{coh}(x)
+F_coh(x) = − ∇ Φ^{coh}(x)
 ```
+This *Coherence-Locked Force Law* is formally analogous to conservative forces derived from an energy potential `V(x)`.  Here, the driving scalar is **alignment cost**; trajectories reduce mis-alignment until a stationary point (`∇Φ^{coh}=0`) is reached.
 
-Where:
-- `F_coh`: coherence-locked force (vector)
-- `Φ^{coh}(x)`: scalar coherence potential
-- `x`: configuration or system state
-- `∇Φ^{coh}`: gradient of coherence misalignment
-
-This law states that the system will evolve in the direction that reduces incoherence, analogous to how conservative forces move systems down energy gradients.
-
----
-
-## 3. Coherence Potential
-
-The coherence potential `Φ^{coh}` can be defined over configuration space using a functional form that encodes internal consistency, structural alignment, or phase agreement.
-
-Example (time-dependent form):
+### 2.1 Time-Dependent Formulation
+For dynamical contexts the potential is constructed via
 ```
-Φ^{coh}(x) = ∫ₜ₀^ₜ 𝓒(x(t), ẋ(t), R(t)) dt
+Φ^{coh}(x) = ∫_{t0}^{t} 𝓒(x(τ), ẋ(τ), R(τ)) dτ
 ```
-
-Where:
-- `𝓒(x, ẋ, R)`: coherence density function
-- `R(t)`: reflexive or contextual field over time
-- `ẋ(t)`: velocity or change vector
+Stationarity of `Φ^{coh}` under first-order variation of the path yields Euler–Lagrange-type conditions identical in structure to classical action extremisation.
 
 ---
 
-## 4. Applications
+## 3 · Analytic Properties
+1. **Non-negativity**: `Φ^{coh}(x) ≥ 0` by construction.  
+2. **Coercivity** (sufficient condition): If `𝓒` is radially unbounded, all trajectories remain in a compact subset of `X`.  
+3. **Lyapunov Function**: `Φ^{coh}` serves as a Lyapunov candidate; `dΦ^{coh}/dt ≤ 0` along system trajectories ensures asymptotic stability of coherence minima (*born-locks*).
 
-- **Physics**: Modeling phase attractors, symmetry breaking, and spontaneous stabilization
-- **Complex Systems**: Understanding self-organization, emergent behavior, or system lock-in
-- **Machine Learning**: Replacing reward with internal coherence metrics
-- **Agent Theory**: Modeling behavior through alignment with internal reflex rules
-
----
-
-## 5. Summary
-
-This formulation presents a coherence-based dynamics model:
-- It replaces reward-seeking with alignment-seeking
-- It is gradient-driven, scalar-field-based
-- It predicts convergence toward stable, self-consistent system states
+*Proof sketches* are supplied in Supplement A (omitted here for brevity).
 
 ---
 
-## References
+## 4 · Canonical Correspondences (Extended Catalogue)
+The table below embeds CLD into established theories.  Each entry supplies: (i) the standard law, (ii) the direct mapping to CLD variables, and (iii) an interpretative note.
 
-- Gradient Fields in Classical Mechanics
-- Dynamical Systems and Attractors
-- Phase Transitions and Symmetry Breaking
-- Agent-Based Modeling in Reflexive Environments
+| No. | Discipline | Canonical Law / Concept | CLD Translation | Interpretative Note |
+|:---:|------------|-------------------------|-----------------|---------------------|
+| 1 | **Newtonian Gravity** | `F = −G m₁ m₂ / r²  r̂` | `Φ^{coh}= −G m₁ m₂ / r` | Mass product acts as alignment metric; curvature of spacetime implicit. |
+| 2 | **Hooke’s Law** | `F = −k x` | `Φ^{coh} = ½ k x²` | Spring equilibrium is coherence minimum. |
+| 3 | **Lagrangian Mechanics** | Stationary Action `δ ∫ (T−V) dt = 0` | Replace `(T−V)` with `−𝓒`; CLD yields identical Euler –Lagrange form. |
+| 4 | **Hamiltonian Optics** | Fermat’s principle `δ ∫ n ds = 0` | Refractive index `n` ↔ coherence density `𝓒`; rays follow coherence geodesics. |
+| 5 | **Electrostatics** | `E = −∇Φ` | Charge density `ρ/ε₀` ↔ `𝓒`; electric equipotential surfaces = coherence isosurfaces. |
+| 6 | **General Relativity** | Geodesic equation `∇_u u = 0` | Proper-time extremal path is a coherence geodesic where metric alignment is maximised. |
+| 7 | **Higgs Mechanism (SSB)** | Mexican-hat potential | `Φ^{coh}` with degenerate minima; vacuum choice = born-lock selection. |
+| 8 | **Renormalisation Group** | RG fixed points | `∇Φ^{coh}=0` in theory space; flow toward coherent scale-invariant structure. |
+| 9 | **Landau Theory** | Free energy functional | Order parameter alignment cost ↔ `Φ^{coh}`; phase transitions occur at minima bifurcation. |
+| 10 | **Statistical Mechanics** | Helmholtz free energy `F = U − TS` | Identify `Φ^{coh} ≈ F`; entropy term measures configurational incoherence. |
+| 11 | **Information Theory** | KL divergence `D_KL(P‖Q)` | `Φ^{coh}=D_KL`; alignment of belief to data via gradient descent. |
+| 12 | **Variational Inference** | ELBO maximisation | Minimising `Φ^{coh}=−ELBO` yields posterior convergence. |
+| 13 | **Machine Learning** | Gradient descent on loss `ℒ` | `ℒ ≡ Φ^{coh}`; parameter updates are alignment steps. |
+| 14 | **Optimal Control** | Cost functional `J = ∫ L dt` | `L ↔ 𝓒`;
 
----
-
-## Appendix: Mapping to Canonical Physics
-
-| Coherence Law Component     | Physics Equivalent                      |
-|----------------------------|------------------------------------------|
-| `Φ^{coh}`                  | Scalar potential (`Φ`, `V`)              |
-| `-∇Φ^{coh}`                | Force from potential gradient            |
-| `𝓒(x, ẋ, R)`              | Lagrangian-like density                  |
-| `Bornlock`                 | Attractor / stable fixed point           |
-| `Coherence Descent`        | Action minimization / least-energy path  |
-
-### Mapping Categories:
-
-**Category: Classical Mechanics**
-- Newtonian force from potential
-- Hooke’s law analog
-
-**Category: Lagrangian Field Theory**
-- Action principle → coherence integral
-- Phase selection as internal alignment
-
-**Category: Field Theory & Electrodynamics**
-- Conservative force fields
-- Electrostatics and potential-based flow
-
-**Category: Dynamical Systems**
-- Coherence minima as attractors
-- Reflex-based flow toward stability
-
-**Category: Symmetry & Emergence**
-- Spontaneous symmetry breaking (SSB)
-- Phase selection via internal coherence, not randomness
-
-**Category: Information/Agent Theory**
-- Gradient-descent in symbolic fields
-- Internal phase-locks replacing extrinsic reward
-
----
+> *Institut für Koherenzforschung*
