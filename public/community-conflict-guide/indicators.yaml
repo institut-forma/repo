@@ -1,27 +1,39 @@
 # indicators.yaml
-# List your metrics here. Each entry has:
-#   weight  : relative importance (0.0–1.0, should sum to 1.0)
-#   target  : desired value or threshold (units explained per metric)
-#   sense   : brief note on how the data is collected
-#   privacy : YES/NO — does raw data need redaction before sharing?
+# -------------------------------------------------------------------
+# This file defines the metrics used to compute the **Coherence Score Φ**.
+# Fill in one block per metric.  Each block must include:
+#   weight   : relative importance (0–1). Weights should sum to 1.0.
+#   target   : desired value or threshold.  Units explained in comments.
+#   sense    : *How* the value is measured — sensor, survey, ledger, etc.
+#   privacy  : YES/NO  — does raw data need redaction before publishing?
+#   file     : path (inside data/processed/) to the latest CSV containing
+#              a single column named `value`.  The score calculator reads
+#              this file automatically.
 #
-# Edit weights & targets to match your situation. Keep comments — they
-# improve transparency when this file is published.
+# Example processed CSV format (data/processed/noise_dB_2025‑07‑09.csv):
+#   value
+#   47.2
+#   46.8
+#   45.5
+# -------------------------------------------------------------------
 
 noise_dB:
-  weight: 0.30        # 30 % of overall score
-  target: 45          # acceptable late‑night decibel level (dB)
-  sense: "Phone sound app readings 22:00‑02:00 (average over 2 weeks)"
+  weight: 0.30               # 30 % of overall score
+  target: 45                 # acceptable late‑night decibel level (dB)
+  sense: "Phone sound‑meter app, 22:00‑02:00, averaged over last 14 nights"
   privacy: NO
+  file: "data/processed/noise_dB_latest.csv"
 
 satisfaction:
-  weight: 0.40        # resident happiness carries most weight
-  target: 80          # % of residents rating ≥ 4/5 on survey
-  sense: "Anonymous 5‑point Likert survey, monthly sample n≥100"
-  privacy: YES        # raw responses stripped of identifiers
+  weight: 0.40               # resident happiness carries most weight
+  target: 80                 # % of residents rating ≥ 4/5 on survey
+  sense: "Anonymous 5‑point Likert survey; monthly sample n≥100"
+  privacy: YES               # raw responses stripped of identifiers
+  file: "data/processed/satisfaction_latest.csv"
 
 cost_index:
-  weight: 0.30        # keep budget in check
-  target: 1.0         # ratio ≤1 means within budget
+  weight: 0.30               # keep budget in check
+  target: 1.0                # ratio ≤1 means within budget
   sense: "Project ledger: actual spend / allocated budget"
   privacy: NO
+  file: "data/processed/cost_index_latest.csv"
