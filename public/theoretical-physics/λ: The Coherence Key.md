@@ -189,5 +189,4 @@ Contributions of new problems or refined approaches are welcome via pull request
 
 ---
 
-> © 2025 Institut für Koherenzforschung · CC‑BY‑4.0
-> *Institut für Koherenzforschung*
+> *© 2025 Institut für Koherenzforschung · CC‑BY‑4.0*
