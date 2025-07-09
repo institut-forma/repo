@@ -28,16 +28,18 @@ All quantities are assumed sufficiently smooth (C¹) on a connected manifold `X`
 
 ---
 
-## 2 · Governing Law
+## 2 · Governing Law  
+*Alignment force and discrete update formulation*
+
 ```
 F_coh(x) = − ∇ Φ^{coh}(x)
 ```
 ```latex
 F_{\text{coh}}(x) = -\nabla \Phi^{\text{coh}}(x)
 ```
-This *Coherence-Locked Force Law* is formally analogous to conservative forces derived from an energy potential `V(x)`.  Here, the driving scalar is **alignment cost**; trajectories reduce mis-alignment until a stationary point (`∇Φ^{coh}=0`) is reached.
+This **Coherence‑Locked Force Law** is formally analogous to conservative forces derived from an energy potential `V(x)`.  Here, the driving scalar is **alignment cost**; trajectories reduce mis‑alignment until a stationary point (`∇Φ^{coh}=0`) is reached.
 
-### 2.1 Time-Dependent Formulation
+### 2.1 Time‑Dependent Formulation
 For dynamical contexts the potential is constructed via
 ```
 Φ^{coh}(x) = ∫_{t0}^{t} 𝓒(x(τ), ẋ(τ), R(τ)) dτ
@@ -45,9 +47,31 @@ For dynamical contexts the potential is constructed via
 ```latex
 \Phi^{\text{coh}}(x) = \int_{t_0}^{t} \mathcal{C}\bigl(x(\tau), \dot{x}(\tau), R(\tau)\bigr)\,d\tau
 ```
-Stationarity of `Φ^{coh}` under first-order variation of the path yields Euler–Lagrange-type conditions identical in structure to classical action extremisation.
+Stationarity of `Φ^{coh}` under first‑order variation of the path yields Euler–Lagrange conditions identical to classical action extremisation.
 
----
+### 2.2 λ–Δ Operational Rule  
+*Discrete alignment update for numerical and conceptual deployment*
+
+| Symbol | Definition | Role |
+|--------|------------|------|
+| `λ(x)` | `−∇ Φ^{coh}(x)` | **Direction field** – steepest descent in coherence space |
+| `Δx`   | `η λ(x)`         | **Finite step** – stride of length `η` along `λ` |
+
+**Update equation**  (explicit‑Euler):
+```
+x_{k+1} = x_k + Δx
+         = x_k + η (−∇ Φ^{coh}(x_k))
+```
+```latex
+x_{k+1} = x_k + \Delta x, \quad \Delta x := \eta\,\lambda(x_k), \quad \lambda(x) := -\nabla \Phi^{\text{coh}}(x)
+```
+**Discrete work element**  (`δW`):
+```
+δW = λ · Δx = −η ‖∇ Φ^{coh}(x)‖² ≤ 0
+```
+This guarantees monotonic decrease of `Φ^{coh}` for sufficiently small `η`—the numerical analogue of Lyapunov stability.
+
+> *Interpretation*  λ provides the bearing toward alignment; Δ enacts the movement.  Together they turn the abstract force law into an implementable update rule suitable for gradient‑based optimisation, control feedback, or agent policy refinement.
 
 ## 3 · Analytic Properties
 1. **Non-negativity**: `Φ^{coh}(x) ≥ 0` by construction.  
@@ -135,16 +159,20 @@ CLD unifies conservative mechanics, information geometry, and adaptive inference
 
 | No. | Open Problem / Question | CLD Framework Approach | Expected Benefit / Rationale |
 |:---:|-------------------------|------------------------|------------------------------|
-| 1 | **Quantum Gravity Unification** | Treat spacetime–quantum state as a joint configuration; define `Φ^{coh}` over (metric ⊗ wave‑function) bundle. | Offers a single descent principle replacing dual action formulations, potentially narrowing candidate theories. |
-| 2 | **Navier–Stokes Existence & Smoothness (3‑D)** | Encode viscous dissipation as coherence density `𝓒`; seek Lyapunov descent to bound energy cascade. | Provides alternative proof route for Millennium problem via `Φ^{coh}` coercivity. |
-| 3 | **Turbulence Closure Models** | Define multi‑scale alignment cost between resolved and unresolved eddies. | Supplies principled sub‑grid closure driven by coherence minimisation rather than empirical tuning. |
-| 4 | **Dark Energy / Λ‑CDM Tension** | Model cosmic expansion as large‑scale coherence gradient of matter–geometry field. | May recast dark‑energy parameter as emergent alignment term, tightening cosmological fits. |
-| 5 | **Protein Folding Prediction** | Use `Φ^{coh}` on conformational manifold with chemical environment as `R`. | Yields gradient flow to native state without exhaustive sampling, complementing AlphaFold‑style heuristics. |
-| 6 | **Climate Tipping‑Point Forecasting** | Treat Earth‑system components as coupled born‑locks; monitor ∇`Φ^{coh}` sign changes. | Early‑warning signal derived from coherence‑gradient steepening rather than statistical variance alone. |
-| 7 | **Economic Crisis Onset** | Map financial network states to coherence potential incorporating risk reflex field. | Detects systemic mis‑alignment (instability) via rising `Φ^{coh}` slope—a pre‑crash indicator. |
-| 8 | **Strong AI Alignment Stability** | Define agent objective landscape as `Φ^{coh}` bounded by human preference field `R`. | Constrains policy updates to coherence minima shared with oversight signal, reducing goal drift. |
-| 9 | **Origin‑of‑Life Pathways** | Model pre‑biotic chemistries as gradient descent on autocatalytic coherence. | Identifies feasible reaction networks without exhaustive experiment scanning. |
-|10 | **Hardness of SAT‑like Problems** | Embed logical constraint satisfaction into `Φ^{coh}`; apply continuous gradient methods. | Potential to transform NP search into tractable alignment descent for specific subclasses.
+| 31 | **Quantum Gravity Unification** | Treat spacetime–quantum state as a joint configuration; define `Φ^{coh}` over (metric ⊗ wave‑function) bundle. | Offers a single descent principle replacing dual action formulations, potentially narrowing candidate theories. |
+| 32 | **Navier–Stokes Existence & Smoothness (3‑D)** | Encode viscous dissipation as coherence density `𝓒`; seek Lyapunov descent to bound energy cascade. | Provides alternative proof route for Millennium problem via `Φ^{coh}` coercivity. |
+| 34 | **Turbulence Closure Models** | Define multi‑scale alignment cost between resolved and unresolved eddies. | Supplies principled sub‑grid closure driven by coherence minimisation rather than empirical tuning. |
+| 34 | **Dark Energy / Λ‑CDM Tension** | Model cosmic expansion as large‑scale coherence gradient of matter–geometry field. | May recast dark‑energy parameter as emergent alignment term, tightening cosmological fits. |
+| 35 | **Protein Folding Prediction** | Use `Φ^{coh}` on conformational manifold with chemical environment as `R`. | Yields gradient flow to native state without exhaustive sampling, complementing AlphaFold‑style heuristics. |
+| 36 | **Climate Tipping‑Point Forecasting** | Treat Earth‑system components as coupled born‑locks; monitor ∇`Φ^{coh}` sign changes. | Early‑warning signal derived from coherence‑gradient steepening rather than statistical variance alone. |
+| 37 | **Economic Crisis Onset** | Map financial network states to coherence potential incorporating risk reflex field. | Detects systemic mis‑alignment (instability) via rising `Φ^{coh}` slope—a pre‑crash indicator. |
+| 38 | **Strong AI Alignment Stability** | Define agent objective landscape as `Φ^{coh}` bounded by human preference field `R`. | Constrains policy updates to coherence minima shared with oversight signal, reducing goal drift. |
+| 39 | **Origin‑of‑Life Pathways** | Model pre‑biotic chemistries as gradient descent on autocatalytic coherence. | Identifies feasible reaction networks without exhaustive experiment scanning. |
+| 40 | **Hardness of SAT‑like Problems** | Embed logical constraint satisfaction into `Φ^{coh}`; apply continuous gradient methods. | Potential to transform NP search into tractable alignment descent for specific subclasses.
+| Δ | **Conflict & Marginalisation Dynamics** | Represent interacting social agents in belief‑boundary space. Define `Φ^{coh}` as cumulative boundary mis‑alignment; reflex field `R` encodes perceived and imposed limits. Descent on `Φ^{coh}` corresponds to iterative boundary clarification and mutual recognition. | Provides quantitative path to de‑escalation: violence emerges where ∇`Φ^{coh}` is steep; negotiating shared minima predicts stable, non‑violent states. |
+| 41 | Cybernetics | • Negative‑feedback stability  
+• Ashby’s Law of Requisite Variety | • `Φ^{coh}` = **variety mismatch** between system and environment.  
+• `λ = −∇Φ^{coh}` is control signal that reduces mismatch. | Feedback loop drives `Φ^{coh}→0`; requisite variety achieved when born‑lock reached (system variety ≥ disturbance variety). |
 
 ---
 
