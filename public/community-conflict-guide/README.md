@@ -78,8 +78,8 @@ community‑alignment/
    - Drop one CSV per metric into `data/processed/`, column `value`.
 
 3. **Calculate Φ (Coherence Score)**  
-   - Excel: open `score_sheet.xlsx`, type current values → read **TOTAL Φ**.  
-   - Jupyter: run `score_calculator.ipynb` → Φ printed + logged.
+   - Excel: open [`score_sheet.xlsx`](./score_sheet.xlsx), type current values → read **TOTAL Φ**.  
+   - Jupyter: run [`score_calculator.ipynb`](./score_calculator.ipynb) → Φ printed + logged.
 
 4. **Log result**  
    - Notebook auto-writes to `logs/`.  
