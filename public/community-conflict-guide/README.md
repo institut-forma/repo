@@ -97,3 +97,8 @@ Conflict is often just **invisible numbers** pulling people apart.  When we agre
 ---
 
 > *© 2025 Institut für Koherenzforschung · CC‑BY‑4.0*
+
+> _“Alignment isn’t peace. It’s structure. And when people feel structure they helped shape,  
+> they stop needing to fight to exist.”_  
+> —Asfaerda
+
