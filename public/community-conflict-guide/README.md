@@ -4,7 +4,8 @@
 ---
 
 ## Why This Guide?  
-Conflicts grow when people talk past each other. This playbook offers a **shared scoreboard** and **small, reversible steps** so everyone sees progress together—no mystery, no power grabs.
+Because conflicts emerge when systems misalign—through unmet boundaries, distorted signals, or unmeasured effects.
+This playbook replaces guesswork with a shared scoreboard and reversible steps, so alignment becomes visible, progress is testable, and decisions don’t require force.
 
 ---
 
