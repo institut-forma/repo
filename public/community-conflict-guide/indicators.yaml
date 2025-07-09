@@ -1,0 +1,27 @@
+# indicators.yaml
+# List your metrics here. Each entry has:
+#   weight  : relative importance (0.0–1.0, should sum to 1.0)
+#   target  : desired value or threshold (units explained per metric)
+#   sense   : brief note on how the data is collected
+#   privacy : YES/NO — does raw data need redaction before sharing?
+#
+# Edit weights & targets to match your situation. Keep comments — they
+# improve transparency when this file is published.
+
+noise_dB:
+  weight: 0.30        # 30 % of overall score
+  target: 45          # acceptable late‑night decibel level (dB)
+  sense: "Phone sound app readings 22:00‑02:00 (average over 2 weeks)"
+  privacy: NO
+
+satisfaction:
+  weight: 0.40        # resident happiness carries most weight
+  target: 80          # % of residents rating ≥ 4/5 on survey
+  sense: "Anonymous 5‑point Likert survey, monthly sample n≥100"
+  privacy: YES        # raw responses stripped of identifiers
+
+cost_index:
+  weight: 0.30        # keep budget in check
+  target: 1.0         # ratio ≤1 means within budget
+  sense: "Project ledger: actual spend / allocated budget"
+  privacy: NO
