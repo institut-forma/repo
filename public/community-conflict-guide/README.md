@@ -57,16 +57,49 @@ Everything—indicators, data files, pilot notes—is saved in a **public folder
 
 ---
 
-## Ready‑Made Folder Layout
+## Ready‑Made Starter Pack  
+*Everything you need to pilot the method — including the scoring step promised above*
+
+```text
+community-conflict-guide/
+  README.md              # quick‑start guide (this playbook)
+  indicators.yaml        # pick + weight your metrics; template below
+  score_calculator.ipynb # auto‑computes the Coherence Score (Python / Colab)
+  score_sheet.xlsx       # same calculator in plain Excel
+  data/
+      raw/               # sensor CSVs, survey forms
+      processed/         # cleaned aggregates fed to calculator
+  logs/
+      2025‑07‑09.csv     # timestamped before/after scores + chosen nudges
 ```
-community‑alignment/
-  README.md         # this playbook
-  score_sheet.xlsx  # live calculator
-  indicators.yaml   # weights + thresholds
-  data/             # raw sensor & survey files
-  logs/             # dated before/after scores
-```
-Copy the folder, adjust the indicators, and you’re set.
+
+### How to Calculate the Score
+
+1. **Edit `indicators.yaml`** — list each metric with weight and target value.
+   ```yaml
+   noise_dB:
+     weight: 0.30
+     target: 45          # acceptable late‑night dB
+   satisfaction:
+     weight: 0.40
+     target: 80          # % residents rating ≥ 4/5
+   cost_index:
+     weight: 0.30
+     target: 1.0         # budget multiplier (≤1 means within budget)
+   ```
+
+2. **Drop new readings** into `data/raw/` (sound logs, survey CSV, cost sheet).
+
+3. **Run `score_calculator.ipynb`** (or open `score_sheet.xlsx`).  The tool:
+   - Normalises each indicator to a 0‑1 mismatch: `(current – target) / target`.
+   - Multiplies by its weight.
+   - Sums to give the **Coherence Score Φ** (lower = better).
+
+4. **Log** before/after scores in `logs/`.
+   - Score ↓ → keep the change.
+   - Score ↑ → roll back and rethink.
+
+*No Python?*  Use the Excel sheet — formulas are baked in; just paste your numbers.
 
 ---
 
