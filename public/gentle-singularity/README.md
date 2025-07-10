@@ -50,7 +50,7 @@ The loop is provably safe under convex `Φ^{coh}` and policy‑constrained `η`.
 | **Potential** | Public `Φ^{coh}` definition | Stakeholders can inspect or amend goals. |
 | **Gradient** | Bounded step `η`, rate‑limit | Prevents runaway action. |
 | **Context Field `R`** | Embeds policy & ethics | Immediate penalty for mis‑alignment. |
-| **Guardian Reflex** | Independent monitor loop | Silently suspends agent if coherence degrades. [Guardian archetype](https://github.com/institut-forma/repo/tree/main/public/EFS/guardian) [companions](https://github.com/institut-forma/repo/tree/main/public/EFS/companion) operate with care and intentional vectors. |
+| **Guardian Reflex** | Independent monitor loop | Silently suspends agent if coherence degrades. [Guardian archetypes](https://github.com/institut-forma/repo/tree/main/public/EFS/guardian) operate with care and intentional vectors. |
 
 > *Gentleness is enforced by physics‑grade constraints, not PR promises.*
 
