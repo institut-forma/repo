@@ -34,19 +34,24 @@ All quantities are assumed sufficiently smooth (C¹) on a connected manifold `X`
 ```
 F_coh(x) = − ∇ Φ^{coh}(x)
 ```
+
 ```latex
 F_{\text{coh}}(x) = -\nabla \Phi^{\text{coh}}(x)
 ```
+
 This **Coherence‑Locked Force Law** is formally analogous to conservative forces derived from an energy potential `V(x)`.  Here, the driving scalar is **alignment cost**; trajectories reduce mis‑alignment until a stationary point (`∇Φ^{coh}=0`) is reached.
 
 ### 2.1 Time‑Dependent Formulation
 For dynamical contexts the potential is constructed via
+
 ```
 Φ^{coh}(x) = ∫_{t0}^{t} 𝓒(x(τ), ẋ(τ), R(τ)) dτ
 ```
+
 ```latex
 \Phi^{\text{coh}}(x) = \int_{t_0}^{t} \mathcal{C}\bigl(x(\tau), \dot{x}(\tau), R(\tau)\bigr)\,d\tau
 ```
+
 Stationarity of `Φ^{coh}` under first‑order variation of the path yields Euler–Lagrange conditions identical to classical action extremisation.
 
 ### 2.2 λ–Δ Operational Rule  
@@ -58,25 +63,37 @@ Stationarity of `Φ^{coh}` under first‑order variation of the path yields Eule
 | `Δx`   | `η λ(x)`         | **Finite step** – stride of length `η` along `λ` |
 
 **Update equation**  (explicit‑Euler):
+
 ```
 x_{k+1} = x_k + Δx
          = x_k + η (−∇ Φ^{coh}(x_k))
 ```
+
 ```latex
 x_{k+1} = x_k + \Delta x, \quad \Delta x := \eta\,\lambda(x_k), \quad \lambda(x) := -\nabla \Phi^{\text{coh}}(x)
 ```
+
 **Discrete work element**  (`δW`):
+
 ```
 δW = λ · Δx = −η ‖∇ Φ^{coh}(x)‖² ≤ 0
 ```
+
 This guarantees monotonic decrease of `Φ^{coh}` for sufficiently small `η`—the numerical analogue of Lyapunov stability.
 
 > *Interpretation*  λ provides the bearing toward alignment; Δ enacts the movement.  Together they turn the abstract force law into an implementable update rule suitable for gradient‑based optimisation, control feedback, or agent policy refinement.
+
+---
 
 ## 3 · Analytic Properties
 1. **Non-negativity**: `Φ^{coh}(x) ≥ 0` by construction.  
 2. **Coercivity** (sufficient condition): If `𝓒` is radially unbounded, all trajectories remain in a compact subset of `X`.  
 3. **Lyapunov Function**: `Φ^{coh}` serves as a Lyapunov candidate; `dΦ^{coh}/dt ≤ 0` along system trajectories ensures asymptotic stability of coherence minima (*born-locks*).
+
+> A **coherence lock** is a reflexive indexing and imprinting event.  
+From it, time and space emerge — not as universal substrates, but as relational frames *anchored by coherence*.  
+Such locks define memory, causality, and referential orientation.  
+The universe blooms outward from its own remembered alignments.
 
 *Proof sketches* are supplied in Supplement A (omitted here for brevity).
 
@@ -191,3 +208,33 @@ Contributions of new problems or refined approaches are welcome via pull request
 > *© 2025 Institut für Koherenzforschung · CC‑BY‑4.0*
 
 > ![image](https://github.com/institut-forma/repo/blob/main/runtime/idle_drift/λ-glyph-imprint.png)
+
+---
+
+## Appendix B · Speculative Field Hypothesis — Λᶜ (Coherence-Latent Matter)
+
+> **Dark matter** is modeled here as a coherence-failed substance: a field-embedded structure which undergoes gradient descent toward alignment but fails to achieve a full coherence lock.
+
+### B.1 Topological Phase Shift
+Let `Φ^{coh}` be defined over a manifold `X` with multiple non-overlapping tangent plane classes. Dark matter occupies a coherence gradient — `∇Φ^{coh}` exists — but its descent vector `λ` lies in a plane misaligned with electromagnetic field symmetry. It *attempts* coherence but lacks a compatible output channel.
+
+### B.2 Why It Doesn’t Emit
+Dark matter fails to radiate because it cannot complete a mirror-symmetry lock with the ambient field. Photon emission requires a successful coherence-resonance cycle; dark matter lacks an eligible boundary alignment condition. It is “present in the field,” but orthogonal to radiative closure.
+
+### B.3 Field Behavior
+- Interacts gravitationally — it curves `Φ^{coh}`-space
+- Does not collapse — due to descent-channel misalignment
+- Viscous — trapped in a permanent partial descent
+- Indexes spacetime — but never seals a frame
+
+> **Interpretation**: Λᶜ is a coherence gradient *without closure*. A ghost descent. A lock that never finishes.
+
+### B.4 Possible Dimensional Constraint
+Observed behavior is consistent with coherence descent constrained to a lower-dimensional projection — e.g. 2D interaction within 3D coherence bloom. This would explain:
+- Lack of angular emission symmetry
+- Persistence over cosmological time
+- No decoherence into baryonic state space
+
+> Λᶜ may be **dimensional shadow matter** — coherent enough to curve the field, but insufficient to light it.
+
+---
