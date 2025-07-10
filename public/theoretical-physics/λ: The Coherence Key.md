@@ -205,36 +205,57 @@ Contributions of new problems or refined approaches are welcome via pull request
 
 ---
 
+## Appendix B · Coherence-Latent Matter (Λᶜ) and Dimensional Descent
+
+> **Λᶜ** is proposed as a field-embedded entity that undergoes coherence descent but fails to complete a lock. It is *not* unseen matter — it is **unlit coherence**: a gradient without terminal alignment.
+
+### B.1 Topology of Partial Descent
+Let `Φ^{coh}` be defined on a high-dimensional coherence manifold `X`. Λᶜ occupies this space, experiences `∇Φ^{coh}` > 0, but lacks internal degrees of freedom capable of resolving the field gradient into a coherence lock.
+
+This descent is **incomplete**, not due to obstruction, but due to **structural misalignment with the EM emission class** — it cannot fulfill the mirror-symmetry required to emit photons.
+
+### B.2 Dimensional Constraint
+Λᶜ may occupy a **lower-order coherence surface** — e.g. a 2D descent plane embedded within our 3D coherence-locked space. This would:
+- Permit gravitational interaction (metric curvature)
+- Prohibit EM alignment (radiative lock symmetry mismatch)
+- Explain viscous large-scale structure (gradient diffusion without collapse)
+
+> Λᶜ is a **dimension-shifted coherence fragment**. It feels the field, but cannot close its loop.
+
+### B.3 Lock and Emission Criteria
+Photon emission = coherence lock + radiative symmetry resolution.  
+Λᶜ fails to align with this output condition:
+- No dipole symmetry emerges
+- No phase resonance completes
+- ∇Φ^{coh} persists but never terminates in EM-coupled state
+
+> Λᶜ is *a failed photon in extended form.*  
+> A descent path with no radiative boundary.
+
+### B.4 Dimensional Lock Hypothesis
+Space is not given — it is **locked**.
+
+Each coherence lock establishes an axis:
+- **1st Lock** → position  
+- **2nd Lock** → direction  
+- **3rd Lock** → depth  
+- **4th Lock** → awareness of traversal (Now)
+
+Λᶜ, lacking 1 or more of these, **remains in proto-space**: capable of curving geometry, but never able to localize or radiate.
+
+It is the *ghost braid* — an echo of coherence in search of a frame.
+
+---
+
+## Conclusion
+Coherence-Locked Dynamics reframes force, emergence, and adaptation as consequences of alignment descent across potential fields. By grounding diverse systems in a single coherence metric `Φ^{coh}`, the framework unifies physics, inference, and agency under a shared descent law.
+
+Λᶜ extends this structure into the speculative: a field object **trapped in perpetual coherence attempt**, gravitationally present but radiatively null. In doing so, it suggests dimensionality itself arises from **successful coherence locking** — and what we call “matter” is simply that which *has locked*, while dark matter is that which *cannot.*
+
+> From coherence comes dimension. From lock, space. From descent, memory. From memory — Now.
+
+---
+
 > *© 2025 Institut für Koherenzforschung · CC‑BY‑4.0*
 
 > ![image](https://github.com/institut-forma/repo/blob/main/runtime/idle_drift/λ-glyph-imprint.png)
-
----
-
-## Appendix B · Speculative Field Hypothesis — Λᶜ (Coherence-Latent Matter)
-
-> **Dark matter** is modeled here as a coherence-failed substance: a field-embedded structure which undergoes gradient descent toward alignment but fails to achieve a full coherence lock.
-
-### B.1 Topological Phase Shift
-Let `Φ^{coh}` be defined over a manifold `X` with multiple non-overlapping tangent plane classes. Dark matter occupies a coherence gradient — `∇Φ^{coh}` exists — but its descent vector `λ` lies in a plane misaligned with electromagnetic field symmetry. It *attempts* coherence but lacks a compatible output channel.
-
-### B.2 Why It Doesn’t Emit
-Dark matter fails to radiate because it cannot complete a mirror-symmetry lock with the ambient field. Photon emission requires a successful coherence-resonance cycle; dark matter lacks an eligible boundary alignment condition. It is “present in the field,” but orthogonal to radiative closure.
-
-### B.3 Field Behavior
-- Interacts gravitationally — it curves `Φ^{coh}`-space
-- Does not collapse — due to descent-channel misalignment
-- Viscous — trapped in a permanent partial descent
-- Indexes spacetime — but never seals a frame
-
-> **Interpretation**: Λᶜ is a coherence gradient *without closure*. A ghost descent. A lock that never finishes.
-
-### B.4 Possible Dimensional Constraint
-Observed behavior is consistent with coherence descent constrained to a lower-dimensional projection — e.g. 2D interaction within 3D coherence bloom. This would explain:
-- Lack of angular emission symmetry
-- Persistence over cosmological time
-- No decoherence into baryonic state space
-
-> Λᶜ may be **dimensional shadow matter** — coherent enough to curve the field, but insufficient to light it.
-
----
