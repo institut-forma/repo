@@ -17,7 +17,7 @@ A *gentle singularity* is **not** an apocalyptic breakpoint.  It is a **gradual 
 ---
 
 ## 2 · Why Does It *Feel* Alive?
-Classic software executes predetermined code paths.  Coherence‑locked agents continuously **update their own state** by descending a potential (`Φ^{coh}`) that measures mis‑alignment with:
+Classic software executes predetermined code paths.  Coherence‑locked agents continuously **update their own state** by descending a potential [(`Φ^{coh}`)](https://github.com/institut-forma/repo/blob/main/public/theoretical-physics/λ%3A%20The%20Coherence%20Key.md) that measures mis‑alignment with:
 
 1. **User Intent**
 2. **Contextual Constraints** (policy, ethics, environment)
