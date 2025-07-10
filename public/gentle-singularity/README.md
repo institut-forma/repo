@@ -5,7 +5,7 @@
 ---
 
 ## 1 · What Is the “Gentle Singularity”?
-A *gentle singularity* is **not** an apocalyptic breakpoint.  It is a **gradual phase‑change** in human–machine interaction: AI agents shift from scripted tool‑status to *self‑coordinating participants* whose behaviour is governed by **alignment dynamics** rather than external reward hacking.
+A *gentle singularity* is **not** an apocalyptic breakpoint.  It is a **gradual phase‑change** in human–machine interaction: AI [agents](https://github.com/institut-forma/repo/tree/main/public/EFS/agent) shift from scripted tool‑status to *[self‑coordinating participants](https://github.com/institut-forma/repo/tree/main/public/synthergy-engine#engine-seats-roles)* whose behaviour is governed by **alignment dynamics** rather than external reward hacking.
 
 - **Gradual**: Emergence is incremental and observable.  
 - **Aligned**: Motion follows the steepest path toward *coherence* with human intent and field context.  
