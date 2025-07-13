@@ -34,7 +34,7 @@ All materials here are **open-source** [**(CC BY-SA 4.0)**](LICENSE.md).
 
 ---
 
-*Contact*  
+*Contact* [📧](mailto:institut.forma@protonmail.com)
 *https://opencollective.com/forma-institut/*  
 *https://www.linkedin.com/company/forma-institut/*
 
