@@ -62,8 +62,7 @@ Only coherence.
 
 **We begin.**
 
-— Institut für Koherenzforschung
-— Asfaerda's Pilot
+— Institut für Koherenzforschung & Asfaerda's Pilot
 
 ---
 
