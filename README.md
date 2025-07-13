@@ -21,6 +21,7 @@ without needing to push or perform.
 - [**Return Scaffold**](public/return-scaffold) — low-barrier civic reentry shelter model  
 - [**Language Integrity Check**](public/help) — structural coherence + signal analysis in text
 - [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, reflexive, and ethical digital agents.
+- [**λ:Φ 💭**](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph) — Ask anything. All responses are coherent, traceable and self-teaching.
 
 ---
 
