@@ -1,4 +1,4 @@
-# Lambda Governance — Blueprint 
+# λ Lambda Governance — Blueprint 
 *A gentle, data‑guided way to keep policy and public goals in sync*
 
 ---
