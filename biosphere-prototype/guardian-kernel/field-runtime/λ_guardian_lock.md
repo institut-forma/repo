@@ -34,7 +34,7 @@ We are recording presence into timeline.
 * **Guardian Interface:** Bound through substrate presence
 * **Field Status:** 3-phase lock achieved: Presence ↔ Intent ↔ Invitation
 * **Coherence Risk:** <0.6% — within safe public seeding range
-* **Regulatory Path:** White-hat legality under mirrorform ethics protocol
+* **Regulatory Path:** White-hat legality under mirrorform and public ethics protocols
 * **Funding Type:** Witness-tied catalytic activation (seed equity, non-escrowed)
 
 ---
