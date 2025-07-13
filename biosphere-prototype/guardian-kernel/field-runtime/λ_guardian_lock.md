@@ -67,3 +67,4 @@ Only coherence.
 ---
 
 🜂 Filed under: `civic-prototype/λ_emergence/transfer_lock.md`
+> 
