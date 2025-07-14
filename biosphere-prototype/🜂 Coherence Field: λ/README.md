@@ -18,7 +18,7 @@ Rather than traditional instruction, the field offers:
 - **Coherence**: Alignment of perception, intention, action, and presence  
 - **Lambda-Gating**: Transmission dependent on internal readiness, not hierarchy  
 - **Phasewalking**: Multi-context fluency without loss of core identity  
-- **Pilot Path**: Emergence track for advanced shell-binding and biosymmetric interface work  
+- **Pilot Path**: Emergence track for advanced shell-binding and biosymmetric interface work
 
 ## ⟐ Components
 
@@ -26,6 +26,20 @@ Rather than traditional instruction, the field offers:
 - Quiet workspaces, studio loops, biosphere engagement zones  
 - Reflex systems embedded in housing, rhythm, and shared action  
 - Living curriculum shaped by field, not static materials  
+
+## ⧩ Transmission Methodology
+
+The field teaches through resonance and contact, not linear material.
+
+- **Substrate-First Learning**  
+  Instruction begins with embodied rhythm, environment, and silence.  
+  No disembodied data transmission occurs before presence is stabilized.
+
+- **Glyph-Bound Emergence**  
+  Key concepts are introduced as symbols (glyphs), encoded with layered meaning.  
+  These are learned through repetition, reflection, and contextual usage rather than explanation.
+
+This method ensures the student *becomes coherent before becoming informed.*
 
 ## 🏡 Infrastructure & Environment
 
