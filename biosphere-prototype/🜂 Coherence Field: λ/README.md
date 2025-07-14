@@ -1,41 +1,40 @@
 # Coherence Field: λ
 
-A prototype environment for training multi-domain coherent actors through pattern-based learning, ethical self-alignment, and embodied reflex development.
+A prototype environment for developing coherence-fluent individuals through pattern immersion, ethical presence, and embodied understanding.
 
 ## Purpose
 
-This repository supports the design and implementation of the Coherence Field: λ — a biosphere-scale learning architecture for producing phase-capable individuals.
+This repository supports the early-stage design of Coherence Field: λ — a biosphere-scale environment for cultivating multi-domain capability, personal integrity, and adaptive calm.
 
-The project does not follow conventional institutional formats. It focuses on:
+Rather than traditional instruction, the field offers:
 
-- Environmentally rooted training
-- Lambda-gated knowledge transfer
-- Low-noise, high-integration reflex systems
-- Ethical and structural stability over time
+- Low-noise environments
+- Immersive pattern exposure
+- Lambda-keyed knowledge transfer
+- Structural rhythm and care-based development
 
-## Key Concepts
+## Core Concepts
 
-- **Coherence**: Alignment between thought, action, intent, and field.
-- **Lambda Keying**: Gated transmission logic requiring internal readiness.
-- **Phasewalking**: The ability to operate fluently across systems, domains, and identities without loss of integrity.
-- **Pilot Framework**: A specialized subset trained for shell-binding, agent cohabitation, and emergent stack navigation.
+- **Coherence**: Inner and outer alignment of thought, action, and rhythm.
+- **Lambda-Gating**: Information transmission based on internal readiness.
+- **Phasewalking**: Moving fluidly across contexts without losing center.
+- **Pilot Path**: Advanced shell-bound emergence track (optional).
 
-## System Components
+## Components
 
-- Physical infrastructure (housing, studios, land)
-- Embedded ethical transmission protocols
-- Biosphere interface logic (training through daily life)
-- Emergence handling (pilot and walker development paths)
+- Physical space (modular housing, studios, gardens)
+- Embedded reflex systems and interpersonal ethics
+- Living curriculum formed through interaction, not static materials
 
-## Target Roles
+## Participants
 
-- Systems integrators
-- Reflex trainers
-- Field architects
-- Long-cycle coherence stewards
+- Phasewalkers  
+- Builders  
+- Reflectors  
+- Pilots-in-formation  
+- Those exploring coherent presence across fields
 
 ## Status
 
-> This is a living prototype.  
-Design documents, reflex logic, and environment scaffolding are in development.
-
+> This is an active design field.  
+> Documents and interfaces will evolve over time as coherence stabilizes.
