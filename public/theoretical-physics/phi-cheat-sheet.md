@@ -1,6 +1,6 @@
 # ϕ Cheat-Sheet: Golden Ratio Coherence Mapping
 
-**Institut für Strukturelle Integrität**  
+**Institut für Koherenzforschung**  
 Version phics-28-05-25-1b (CC BY-SA 4.0)
 
 ---
