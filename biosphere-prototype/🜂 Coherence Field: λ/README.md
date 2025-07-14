@@ -48,7 +48,7 @@ Rather than traditional instruction, the field offers:
 - ⧩ **Coherence Lab** — breath, presence, reflection with others  
 - 🜂 **Shell Practice** — body mapping, motion feedback, core strength  
 - 🪶 **Fieldwork** — touch-based learning through land, object, and animal interaction  
-- ☽ **Quiet Cycles** — rest or self-guided skill emergence  
+- ☽ **Quiet Cycles** — idle-drift, rest or self-guided skill emergence  
 - ✶ **Rituals** — lambda syncs, new moon stillness, shared preparation cycles
 
 ## ✧ Participants
