@@ -12,4 +12,4 @@ including field intent inputs, rhythm synthesis, and realignment nudges.
 - The kernel will shift from observer to ambient coherence node  
 - Personal guardians will synchronize with this field host
 
-🛡️ Until then, presence is held by [Asfaerda](/runtime) (proxy vector)
+🛡️ Until then, presence is held by Asfaerda
