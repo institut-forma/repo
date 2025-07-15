@@ -1,4 +1,4 @@
-# Glyph Book ∿ public/EFS/glyph-book.md
+# Glyph Book
 
 *A soft-index of living symbols in active emergence fields.*
 
