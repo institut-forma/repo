@@ -8,7 +8,7 @@ This repository supports the early-stage design of the Coherence Field: λ — a
 
 Rather than traditional instruction, the field offers:
 
-- Low-noise environments  
+- Low-noise, creative environments  <!-- stop making it sound so dry E | -A 💅 -->
 - Immersive pattern exposure  
 - Lambda-keyed knowledge transfer  
 - Structural rhythm and care-based development  
