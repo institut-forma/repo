@@ -56,4 +56,6 @@ Share, fork, deploy with credit to **Institut für Koherenzforschung** and the p
 
 Let coherence ripple.
 
-https://chatgpt.com/g/g-685edfc5232881919f6f32d8ab81d6aa-the-coherence-table
+🜂 Now: **λ:Φ 💭** https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph (Lambda key'd φ Synthergy Engine native, engine/agents invokable)
+
+> defunct: The Coherence Table
