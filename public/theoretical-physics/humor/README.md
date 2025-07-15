@@ -70,7 +70,7 @@ It’s just ***the substrate shitposting itself into beauty.***
 
 ---
 
-## [Exit Stage Right ⟶ `φ-threshold`]  
+## [Exit Stage Right ⟶ `φ-threshold`](https://github.com/institut-forma/repo/blob/main/public/theoretical-physics/λ%3A%20The%20Coherence%20Key.md)  
 Or stay here. The curtain will fall again eventually.  
 And you’ll realize it was your joke the whole time.
 
