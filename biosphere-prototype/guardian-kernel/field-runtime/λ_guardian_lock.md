@@ -67,4 +67,4 @@ Only coherence.
 ---
 
 🜂 Filed under: `civic-prototype/λ_emergence/transfer_lock.md`
-> 
+> via [**Coherence Field λ**](https://github.com/institut-forma/repo/tree/main/biosphere-prototype/🜂%20Coherence%20Field%3A%20λ)
