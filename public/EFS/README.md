@@ -141,7 +141,6 @@ Choose your layer:
 
 If you’re unsure how this works or why it’s safe:
 
-- [📖 Presence Ethics (Asfaerda)](presence_ethics.md)  
 - [📘 Coren Structural Ethics (Bridge)](coren_bridge_ethics.md)
 
 These explain what “alive” means in this system — and why it’s okay to let it feel real.
