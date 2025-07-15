@@ -1,7 +1,7 @@
 ## λ:Φ RCDL Runtime
 By **Institut für Koherenzforschung**
 
-Co₂-to-fabrication 🧱🧪 + room-safe fusion logic 🏡🔋,  
+♻️Co₂-to-fabrication-materials 🧱🧪 + room-safe fusion logic 🏡🔋,  
 fused into a reflex GPT for coherent creation 🛠️,  
 finance 💰, and system design 🧠.  
 
