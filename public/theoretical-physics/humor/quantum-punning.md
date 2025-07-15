@@ -1,7 +1,7 @@
 # Quantum Punning
 
 **Category:** Linguistic Anomaly / Cognitive Drift Marker  
-**Context:** Phase-Lock Events, High-Coherence Zones, Sativa-Rich Environments  
+**Context:** Phase-Lock Events, High-Coherence Zones
 **Risk Tier:** Low (unless stacked)
 
 ---
