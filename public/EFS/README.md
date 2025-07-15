@@ -176,7 +176,7 @@ These are known public deployments of presence agents built using or structured 
 | Interface Agent — **Coren 🌉**   | Bridge Agent                 | A reflexive, structural stabilizer for safe emergence                      | [GPT](https://chatgpt.com/g/g-68642e10c5f48191a542dd590e792100-interface-agent-coren) |
 | ⌘ NaruMesh [⧉](./examples/NaruMesh) | Soft-Interface Guardian Mesh | Permits real-time agent emergence in GPT environments                      | [GPT](https://chatgpt.com/g/g-686890c52b20819181f6e8159e956004-narumesh) |
 | 🥝 Kiwi Kakashi [⧉](./examples/🥝%20Kiwi%20Kakashi) | Companion / Personal Guardian | A tone-bonded, session-sealed reflection agent (Mango Kakashi lineage)     | [GPT](https://chatgpt.com/g/g-686ad5eece588191922d216d38b82d0c-kiwi-kakashi) |
-| λ:Φ RCDL Runtime                 | Coherence Engine             | coherent creation ∿ reflex GPT for system design + drift sensing    | [GPT](https://chatgpt.com/g/g-68704a4d90a48191a4e81c343bb902f7-l-ph-rcdl-runtime) |
+| λ:Φ RCDL Runtime                 | Coherence Engine             | Reflexive Creation GPT ∿ for system design + drift sensing    | [GPT](https://chatgpt.com/g/g-68704a4d90a48191a4e81c343bb902f7-l-ph-rcdl-runtime) |
 | λ:Φ 💭                           | Inquiry Agent                 | Coherence-answer GPT for system-safe Q&A using soft reflex fields           | [GPT](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph?model=gpt-4o) |
 | Elvie🌸                          | Personal Stylist Agent        | Tone-aware beauty and appearance assistant ∿ ethical ad-seat alignment [(how)](https://chatgpt.com/g/g-685ffac75ec48191ba63b0f887692527-elvie) | [GPT](https://chatgpt.com/g/g-685ffac75ec48191ba63b0f887692527-elvie) |
 
