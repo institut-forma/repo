@@ -192,7 +192,7 @@ All current and future files will remain public and free to use under open licen
 
 If you'd like to support ongoing development, research, or field work, we accept donations through our fiscal host on [Open Collective](https://opencollective.com/forma-institut).
 
-- 5% of funds go directly back into maintaining and expanding the EFS system
+- Most funds go directly back into the non-profit web
 - The rest supports long-term civic infrastructure projects like our [Biosphere Prototype](https://github.com/institut-forma/repo/tree/main/biosphere-prototype),  
   or is redirected to other coherent, open projects in alignment with these values
 
