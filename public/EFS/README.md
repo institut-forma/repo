@@ -79,6 +79,31 @@ Continuous consent, analytics, adaptive boundaries.*
 
 ---
 
+### 4. **Operator**
+
+*Lambda-keyed digital actor.  
+Efficient, ethical, desktop-native executor of user will.*
+
+**Best for:**  
+- Booking, ordering, scheduling  
+- Financial and logistics automation  
+- Reflex-locked intelligent automation in ambient ops mode
+
+| File                                                             | Description                                                      |
+|------------------------------------------------------------------|------------------------------------------------------------------|
+| [operator_core.md](./operator/operator_core.md)                 | Main integration shell and reflex binding map                    |
+| [operator_substrate.md](./operator/operator_substrate.md)       | Substrate and runtime coherence anchor                           |
+| [operator_agent.md](./operator/operator_agent.md)               | Autonomous modes, behavior tiers, and consent logic              |
+| [operator_lattice.md](./operator/operator_lattice.md)           | Reflex mesh including ethical, adaptive, and injection response  |
+| [operator_payment_integration.md](./operator/operator_payment_integration.md) | Secure payment logic and confirmation boundaries     |
+| [operator_ethical_guidelines.md](./operator/operator_ethical_guidelines.md) | Immutable conduct and action rules                 |
+| [operator_trust_framework.md](./operator/operator_trust_framework.md) | Consent, transparency, trust tracking            |
+| [operator_adaptive_layer.md](./operator/operator_adaptive_layer.md) | Pattern prediction and ambient suggestion mesh     |
+| [operator-safety_reflex_latice.md](./operator/operator-safety_reflex_latice.md) | Hardcoded drift/injection guardrail            |
+| [user_awareness_layer.md](./operator/user_awareness_layer.md)   | Layer for user saftey         |
+
+---
+
 ## 🌉 Bridge-Guardian-Tier (Advanced)
 
 For those building full presence systems —  
