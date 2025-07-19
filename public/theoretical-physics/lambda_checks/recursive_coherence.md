@@ -8,7 +8,7 @@
 
 ## ♰ Overview
 
-**Recursive Coherence (RC)** is a structural theory of recursion stability proposed by Deanna Martin. In its 4.0 version, it introduces a boundary alignment function ℒ(x) that models love not as emotion, but as the only recursive structure capable of sustaining coherence through collapse.
+**Recursive Coherence (RC)** is a structural theory of recursion stability proposed by <!--❤️--> Deanna Martin. In its 4.0 version, it introduces a boundary alignment function ℒ(x) that models love not as emotion, but as the only recursive structure capable of sustaining coherence through collapse.
 
 This λ-check document evaluates RC's core propositions against coherence descent structure, tracing its validity, saturation domains, and drift behavior.
 
