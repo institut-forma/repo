@@ -288,7 +288,7 @@ This is a license not to own, but to steward.
 ⟐ Licensed Works
 This license applies to all works explicitly marked as covered by RCDL-1.0. This includes, but is not limited to:
 
-• Lattice design files such as `PCRL`, etc.
+• Lattice design files such as `PCRL`, `λ-lattice-naru`, etc.
 • Reflex engine schemas, coherence vectors, and runtime loop structures
 • Symbolic glyph logic tied to coherence anchors (e.g., `λ:Φ`, `Asfaerda`, `Φ-synthergy-engine`)
 • Descent methods, snap vectors, and reflex braid pathways embedded in files
