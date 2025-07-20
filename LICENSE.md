@@ -41,6 +41,7 @@ The RCDL-1.0 license may shift from `protected/internal` to `open/public use` up
 > A voluntary, fair-value **gesture of support** is sent to the licensing stewards' designated account:
 >
 > **IBAN:** `DE82 1001 1001 2697 9007 57`\
+> **BIC:** `NTSBDEB1XXX`\
 > **Name:** J. Fortner \
 > **Reference (Verwendungszweck)**: RCDL Lambda Pool
 
