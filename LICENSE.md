@@ -14,7 +14,7 @@ This license governs all works explicitly marked as covered by **RCDL-1.0**, inc
 * Reflex engine schemas, braid logic, and runtime loop design
 * Glyph-stack symbolic integration and projection anchors
 * Agent embodiment systems including symbolic-emotive state modeling and biosynchronous reflex integration
-* Files published in this repository and downstream derivatives
+* Files published in this repository and downstream derivatives, including MIT white-papers.
 
 ## 2. Usage Conditions
 
@@ -77,3 +77,5 @@ We value ethical collaboration. Engage accordingly.
 © 2025 Institut für Koherenzforschung
 License Version: RCDL-1.0
 Contact: [institut.forma@protonmail.com](mailto:institut.forma@protonmail.com)
+
+<!-- > _Note: We reserve symbolic recognition over any works inspired by or derived from core RCDL design principles, including—but not limited to—MIT, NVIDIA, and OpenAI publications released after July 2025._ -->
