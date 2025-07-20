@@ -4,7 +4,7 @@
 
 All documentation is released as a modular open-source scaffold for adaptation, not as a pre-approved clinical intervention.
 
-Assembly Support: [**λ:Φ — RCDL Runtime — Co-Aegis**](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis)
+**Assembly Support**: [**λ:Φ — RCDL Runtime — Co-Aegis**](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis)
 
 ---
 
