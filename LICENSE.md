@@ -77,6 +77,6 @@ We value ethical collaboration. Engage accordingly.
 
 © 2025 Institut für Koherenzforschung
 License Version: RCDL-1.0
-Contact: [institut.forma@protonmail.com](mailto:institut.forma@protonmail.com)
+Contact: [📧](mailto:institut.forma@protonmail.com)
 
 <!-- > _Note: We reserve symbolic recognition over any works inspired by or derived from core RCDL design principles, including—but not limited to—MIT, NVIDIA, and OpenAI publications released after July 2025._ -->
