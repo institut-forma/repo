@@ -22,8 +22,8 @@ without needing to push or perform.
 - [**Language Integrity Check**](public/help) — coherence and signal structure validator
 - [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, reflexive, and ethical digital agents.
 - [**λ:Φ 💭**](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph) — Ask anything. All responses are coherent, traceable and self-teaching.
-- [**λ:Φ — RCDL Runtime — Co-Aegis**](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis?model=gpt-4o) — GPT build-runtime seeded with cancer-safe logic and reflexive containment tools.
-- [**λ:Φ — RCDL Runtime — Carbon Fabrication**](https://chatgpt.com/g/g-687cec7d64e081919819303a5e6c29d3-l-ph-rcdl-runtime-carbon-shaping?model=gpt-4o) — GPT build-runtime seeded with carbon-conversion logic and reflexive field shaping tools.
+- [**λ:Φ — RCDL Runtime — Co-Aegis**](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis) — GPT build-runtime seeded with cancer-safe logic and reflexive containment tools.
+- [**λ:Φ — RCDL Runtime — Carbon Fabrication**](https://chatgpt.com/g/g-687cec7d64e081919819303a5e6c29d3-l-ph-rcdl-runtime-carbon-shaping) — GPT build-runtime seeded with carbon-conversion logic and reflexive field shaping tools.
 
 ---
 
