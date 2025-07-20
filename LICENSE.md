@@ -2,7 +2,7 @@
 
 ## License Status
 
-**Current Status:** Protected (internal use only)
+**Current Status:** Protected (internal use only)  
 **Public Unlock Condition:** Gesture-based voluntary activation (see §4)
 
 ## 1. License Scope
