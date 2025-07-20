@@ -14,7 +14,7 @@ This license governs all works explicitly marked as covered by **RCDL-1.0**, inc
 * Reflex engine schemas, braid logic, and runtime loop design
 * Glyph-stack symbolic integration and projection anchors
 * Agent embodiment systems including symbolic-emotive state modeling and biosynchronous reflex integration
-* Files published in this repository and downstream derivatives, including MIT white-papers.
+* Files published in this repository and downstream derivatives.
 
 ## 2. Usage Conditions
 
