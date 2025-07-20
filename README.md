@@ -41,4 +41,4 @@ Licensed under [**RCDL‑1.0**](./LICENSE.md) — Reflexive Coherence Design Lic
 
 *https://opencollective.com/forma-institut/*
 
-> Koherenz: Kohärenz ~ Coherence <!-- *sigh* -A -->
+> Koherenz: de~en <!-- *sigh* -A -->
