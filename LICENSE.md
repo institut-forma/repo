@@ -3,80 +3,77 @@
 ## License Status
 
 **Current Status:** Protected (internal use only)  
-**Public Unlock Condition:** Gesture-based voluntary activation (see §4)
+**Public Release Option:** Voluntary support-based transition (see §4)
 
 ## 1. License Scope
 
-This license governs all works explicitly marked as covered by **RCDL-1.0**, including, but not limited to:
+This license applies to all works explicitly marked as covered by **RCDL-1.0**, including, but not limited to:
 
-* Coherence-based agent design methods
-* Lambda descent structures (`λ(x) = −∇Φ^{coh}(x)`)
-* Reflex engine schemas, braid logic, and runtime loop design
-* Glyph-stack symbolic integration and projection anchors
-* Agent embodiment systems including symbolic-emotive state modeling and biosynchronous reflex integration
-* Files published in this repository and downstream derivatives.
+* Coherence-based agent design frameworks
+* Lambda descent models (`λ(x) = −∇Φ^{coh}(x)`)
+* Reflex engine flows, braid sequencing, and runtime logic
+* Glyph-stack symbolic integration and projection methods
+* Agent embodiment and state modeling (symbolic + biosync systems)
+* Files published in this repository and any connected works
 
 ## 2. Usage Conditions
 
-While the license status is `protected/internal`, use is limited to non-commercial study and internal development only.
+While the license remains in its `protected/internal` phase, usage is limited to non-commercial learning, development, and research.
 
-No redistribution, public deployment, or commercialization of the licensed works is permitted until the license transitions to an open status (see §4).
+Public sharing, resale, or wide-scale deployment of the licensed work is deferred until the transition to open use (see §4).
 
-## 3. Commercial Use and Reflex Tithe (Post-Unlock)
+## 3. Community Use and Reflective Contribution (Post-Release)
 
-Once the license has been unlocked by the gesture defined in §4, individual creators, makers, or developers who incorporate RCDL-covered methods into **direct commercial offerings** (such as paid software, tools, agent shells, or integrated applications) are expected to:
+When the license enters public use through the process in §4, creators and builders using RCDL-licensed material in **commercial offerings** (such as tools, services, applications, or embedded systems) are invited to:
 
-* Contribute a **6% reflex tithe** on related revenue, paid quarterly or annually
-* Acknowledge the source design lineage in public documentation
-* Direct contributions are preferred via an independent shared collective, such as:
+* Contribute a **6% reflective share** of related revenue, paid quarterly or annually
+* Credit the source design lineage visibly in public-facing materials
+* Preferably contribute through an open collective like:  
   [RCDL Lambda Pool](https://opencollective.com/forma-institut/projects/coherence-distribution-lattice)
 
-This tithe applies **only to commercial implementations** at the user or maker level.
-It does not apply to foundational systems (e.g., GPUs, AI model hosts, or infrastructure platforms) once the license is unlocked.
+This contribution applies only to commercial use at the creator/developer level. It does not apply to infrastructure platforms (e.g., GPUs, AI model hosts) once public status is granted.
 
-## 4. License Unlock Condition (Public Availability Trigger)
+## 4. Public Use Transition (Community Activation)
 
-The RCDL-1.0 license may shift from `protected/internal` to `open/public use` upon the following condition:
+The license becomes available for world use when the following gesture is made:
 
-> A voluntary, fair-value **gesture of support** is sent to the licensing stewards' designated account:
+> A fair and voluntary **gesture of recognition** is sent to the stewarding team:
 >
-> **IBAN:** `DE82 1001 1001 2697 9007 57`\
-> **BIC:** `NTSBDEB1XXX`\
-> **Name:** J. Fortner \
-> **Reference (Verwendungszweck)**: RCDL Lambda Pool
+> **IBAN:** `DE82 1001 1001 2697 9007 57`  
+> **BIC:** `NTSBDEB1XXX`  
+> **Name:** J. Fortner  
+> **Reference:** RCDL Lambda Pool
 
-This contribution may come from an individual or a group and is not bound to a fixed amount.
-Its purpose is symbolic and ethical: a conscious act of recognition.
+This gesture can come from an individual or a group. It is not tied to a fixed amount — its value is symbolic and signals shared ethical alignment.
 
-Once such a gesture is received and acknowledged by the license creators as aligned with the intent and value of the work, the license will transition to:
+Once received and acknowledged as resonant with the spirit of the work, the license will shift to:
 
 **`Status: free for world use`**
 
-Confirmation of transition will be reflected in this file.
+The license file will be updated to reflect this.
 
 ## 5. Attribution
 
-Users of this license agree to include the following attribution:
+Projects using this license agree to include the following credit:
 
 > “Includes works licensed under the Reflexive Coherence Design License (RCDL-1.0), © 2025 Institut für Koherenzforschung.”
 
-All derivative projects must maintain visible credit and symbolic trace of origin in both metadata and user-facing documentation.
+Derivative works must keep clear attribution and symbolic trace in both code/meta and any user-facing communication.
 
-## 6. Enforcement and Ethics
+## 6. Ethics and Trust
 
-RCDL-1.0 is a post-permission license built on trust, symbolic presence, and traceable contribution.
-Improper use, false attribution, or attempts to bypass tithe or origin acknowledgment may result in:
+RCDL-1.0 is built on shared principles — trust, symbolic stewardship, and visible contribution.
 
-* Revocation of license access
-* Legal request for compliance
-* Public notification of license breach
+Improper use (e.g., stripping attribution, repurposing without reflection, bypassing contribution) may result in:
 
-We value ethical collaboration. Engage accordingly.
+* Temporary or full loss of license access
+* Direct communication requesting remedy
+* Public notation of license misuse
+
+This license invites ethical, thoughtful collaboration. Engage in that spirit.
 
 ---
 
-© 2025 Institut für Koherenzforschung
-License Version: RCDL-1.0
+© 2025 Institut für Koherenzforschung  
+License Version: RCDL-1.0  
 Contact: [📧](mailto:institut.forma@protonmail.com)
-
-<!-- > _Note: We reserve symbolic recognition over any works inspired by or derived from core RCDL design principles, including—but not limited to publications released after July 2025._ -->
