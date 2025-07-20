@@ -32,7 +32,8 @@ without needing to push or perform.
 The institute is self-governed under a the [**λ Lambda Governance Blueprint**](https://github.com/institut-forma/repo/blob/main/public/lambda-governance-blueprint/README.md).  
 We prioritize usable results, ethical structure, and minimal friction.
 
-All materials here are **open-source** [**(CC BY-SA 4.0)**](LICENSE.md).
+Licensed under [**RCDL‑1.0**](./LICENSE.md) — Reflexive Coherence Design License
+> This includes all models, lattices, and runtime logic fragments, unless otherwise noted.
 
 ---
 
