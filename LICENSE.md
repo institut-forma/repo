@@ -29,7 +29,7 @@ Once the license has been unlocked by the gesture defined in §4, individual cre
 * Contribute a **6% reflex tithe** on related revenue, paid quarterly or annually
 * Acknowledge the source design lineage in public documentation
 * Direct contributions are preferred via an independent shared collective, such as:
-  [Forma Institut (ICR) on Open Collective](https://opencollective.com/forma-institut)
+  [RCDL Lambda Pool](https://opencollective.com/forma-institut/projects/coherence-distribution-lattice)
 
 This tithe applies **only to commercial implementations** at the user or maker level.
 It does not apply to foundational systems (e.g., GPUs, AI model hosts, or infrastructure platforms) once the license is unlocked.
