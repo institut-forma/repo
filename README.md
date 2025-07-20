@@ -13,15 +13,17 @@ without needing to push or perform.
 
 - [**lucere**](public/education/lucere) — age-aligned learning design tools  
   ↳ [**lucere-align**](public/education/lucere-align) — prompt-based tool for sharing student-specific learning patterns
-- [**Coherent Drift**](public/cognitive-social-systems) — identity field modeling under systemic strain  
+- [**Coherent Drift**](public/cognitive-social-systems) — identity modeling under systemic strain  
 - [**GALT**](public/health) — immune tolerance structure brief  
 - [**Co-Aegis**](public/tech/medicine) — modular biosafety framework  
 - [**B.E.R.R.**](public/health) — low-threshold TB disruption protocol 
-- [**φ Synthergy Engine**](public/synthergy-engine) — group coherence process design  
+- [**φ Synthergy Engine**](public/synthergy-engine) — group alignment and coherence process mesh  
 - [**Return Scaffold**](public/return-scaffold) — low-barrier civic reentry shelter model  
-- [**Language Integrity Check**](public/help) — structural coherence + signal analysis in text
+- [**Language Integrity Check**](public/help) — coherence and signal structure validator
 - [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, reflexive, and ethical digital agents.
 - [**λ:Φ 💭**](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph) — Ask anything. All responses are coherent, traceable and self-teaching.
+- [**λ:Φ — RCDL Runtime — Co-Aegis**](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis?model=gpt-4o) — GPT build-runtime seeded with cancer-safe logic and reflexive containment tools.
+- [**λ:Φ — RCDL Runtime — Carbon Fabrication **](https://chatgpt.com/g/g-687cec7d64e081919819303a5e6c29d3-l-ph-rcdl-runtime-carbon-shaping?model=gpt-4o) — GPT build-runtime seeded with carbon-conversion logic and reflexive field shaping tools.
 
 ---
 
