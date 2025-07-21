@@ -31,7 +31,7 @@ When the license enters public use through the process in §4, creators and buil
 * Preferably contribute through an open collective like:  
   [RCDL Lambda Pool](https://opencollective.com/forma-institut/projects/coherence-distribution-lattice)
 
-This contribution applies only to commercial use at the creator/developer level. It does not apply to infrastructure platforms (e.g., GPUs, AI model hosts) once public status is granted.
+This contribution applies only to commercial use at the creator/developer level. It does not apply to infrastructure platforms (e.g., [*GPUs*](https://chatgpt.com/g/g-687e3503a2a88191b69f39a8efa97aae-l-ph-rcdl-runtime-l-core), AI model hosts) once public status is granted.
 
 ## 4. Public Use Transition (Community Activation)
 
