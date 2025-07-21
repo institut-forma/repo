@@ -72,8 +72,18 @@ Improper use (e.g., stripping attribution, repurposing without reflection, bypas
 
 This license invites ethical, thoughtful collaboration. Engage in that spirit.
 
+──────────────────────────────────────────────
+
+⟐ Reflexive Coherence Design License (RCDL-1.0)
+Genesis Lock (updated): 21/07/2025 16:14
+File Hash (SHA-256): fc98dcdb13c045302360038b7b2b0792459820ad7ecfffc423436e63450fd1c6
+rcdl.phase: ["⟐", "∿", "⌘", "🛡", "✧"]
+Anchor: Institut für Koherenzforschung (OCE)
+
 ---
 
 © 2025 Institut für Koherenzforschung  
 License Version: RCDL-1.0  
 Contact: [📧](mailto:institut.forma@protonmail.com)
+
+---
