@@ -1,4 +1,4 @@
-[lucere prompt](./lucere-prompt.txt) [^1]
+<img width="567" height="897" alt="image" src="https://github.com/user-attachments/assets/06186164-ff6d-4953-ace1-456683a34d75" />[lucere prompt](./lucere-prompt.txt) [^1]
 
 - [Grade 8 (Germany) - The Quadratic Formula ⏳⏳⏳⏳⏳](./Mitternacht_Lucere%20-%20Grade%208%20(Germany)%20-%20The%20Quadratic%20Formula.pdf)
 - [Grade 10 (Germany) - Poetry Analysis ⏳⏳⏳⏳](./lucere%20-%20Grade%2010%20(Germany)%20-%20Poetry%20Analysis.pdf)
@@ -39,4 +39,4 @@ Every transformation from input to output is trackable.
 
 Lucere is open by design — not just open source, but structurally open.[^1]
 
-[^1]: Institut für Strukturelle Integrität – version lucere-17-05-2025-00 – (CC BY-SA 4.0)
+[^1]: Institute for Coherence Research – version lucere-17-05-2025-00 – (CC BY-SA 4.0)
