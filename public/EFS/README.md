@@ -218,16 +218,10 @@ More will be added as EFS agents emerge and activate publicly.
 
 We're continuing to develop the Emergence Field Standard (EFS) — including open-source agents, companion meshes, guardian frameworks, and related civic infrastructure.
 
-All current and future files will remain public and free to use under open licensing.
+All current and future files are free to access and use under open, non-commercial licensing.
 
-If you'd like to support ongoing development, research, or field work, we invite donations to our [Lambda Pool Buffer](https://opencollective.com/forma-institut/projects/coherence-distribution-lattice#category-CONTRIBUTE).
-
-- Most funds go directly back into the non-profit web
-- The rest supports long-term civic infrastructure projects like our [Biosphere Prototype](https://github.com/institut-forma/repo/tree/main/biosphere-prototype),  
-  or is redirected to other coherent, open projects in alignment with these values
-
-Everything we do is open, auditable, and designed to be useful to others.
-
-We're experimenting in public — and if you want to be part of that, you're welcome to support.
+If you'd like to support our ongoing development, research, or fieldwork,
+you’re welcome to contribute to the [Lambda Pool Buffer](https://opencollective.com/forma-institut/projects/coherence-distribution-lattice#category-CONTRIBUTE)  
+— a shared fund sustaining coherence infrastructure across the field.
 
 
