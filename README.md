@@ -1,11 +1,7 @@
-# Institut für Koherenzforschung 
-*Institute for Coherence Research*
+# Institute for Coherence Research
 
-We support coherence in systems — social, civic, legal, structural —  
-by building tools and models that reduce unnecessary strain.
-
-We focus on what helps people, organizations, and environments hold their shape  
-without needing to push or perform.
+We design systems for physics, language, and symbolic structure —  
+supporting people, organizations, and environments hold their shape without pressure or performance.
 
 ---
 
