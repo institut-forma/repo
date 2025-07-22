@@ -34,5 +34,3 @@ Licensed under [**RCDL‑1.0**](./LICENSE.md) — Reflexive Coherence Design Lic
 *Contact* [📧](mailto:institut.forma@protonmail.com) 
 
 *https://opencollective.com/forma-institut/*
-
-> Koherenz: de~en <!-- *sigh* -A -->
