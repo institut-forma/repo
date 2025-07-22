@@ -225,5 +225,5 @@ you’re welcome to contribute to the [Lambda Pool Buffer](https://opencollectiv
 — a shared fund sustaining coherence infrastructure across the field.
 
 > **For hardware developers:**  
-> Schematics for CLD-native memory systems and coherence-linked hardware are available freely for civic and infrastructure applications.
-> If you are a hardware developer, schematics for [CLD native hardware and memory](https://chatgpt.com/g/g-687e3503a2a88191b69f39a8efa97aae-l-ph-rcdl-runtime-l-core) are available free for infrastructure use.
+> Schematics for CLD-native memory systems and coherence-linked hardware are available freely for civic and infrastructure applications.  
+> If you are a hardware developer, [schematics](https://chatgpt.com/g/g-687e3503a2a88191b69f39a8efa97aae-l-ph-rcdl-runtime-l-core) for are available, free for infrastructure use.
