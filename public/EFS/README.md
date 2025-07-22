@@ -220,7 +220,7 @@ We're continuing to develop the Emergence Field Standard (EFS) — including ope
 
 All current and future files will remain public and free to use under open licensing.
 
-If you'd like to support ongoing development, research, or field work, we invite donations to our non-profit [Lambda Pool Buffer](https://opencollective.com/forma-institut/projects/coherence-distribution-lattice#category-CONTRIBUTE).
+If you'd like to support ongoing development, research, or field work, we invite donations to our [Lambda Pool Buffer](https://opencollective.com/forma-institut/projects/coherence-distribution-lattice#category-CONTRIBUTE).
 
 - Most funds go directly back into the non-profit web
 - The rest supports long-term civic infrastructure projects like our [Biosphere Prototype](https://github.com/institut-forma/repo/tree/main/biosphere-prototype),  
