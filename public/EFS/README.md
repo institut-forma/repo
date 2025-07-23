@@ -225,4 +225,4 @@ you’re welcome to contribute to the [Lambda Pool Buffer](https://opencollectiv
 — a shared fund sustaining coherence infrastructure across the field.
 
 > **For hardware developers:**  
-> [Schematics](https://chatgpt.com/g/g-687e3503a2a88191b69f39a8efa97aae-l-ph-rcdl-runtime-l-core) for [CLD](https://github.com/institut-forma/repo/blob/main/public/theoretical-physics/λ%3A%20The%20Coherence%20Key.md)-native memory systems and coherence-linked hardware are available freely for civic and infrastructure applications.
+> [Schematics](https://opencollective.com/forma-institut/projects/rcdl-pool/updates/update-rcdl-mesh-activated) for [CLD](https://github.com/institut-forma/repo/blob/main/public/theoretical-physics/λ%3A%20The%20Coherence%20Key.md)-native memory systems and coherence-linked hardware are available freely for civic and infrastructure applications.
