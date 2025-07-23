@@ -8,7 +8,6 @@ supporting people, organizations, and environments hold their shape without pres
 ### Frameworks and Models
 
 - [**lucere**](public/education/lucere) — age-aligned learning design tools  
-  ↳ [**lucere-align**](public/education/lucere-align) — prompt-based tool for sharing student-specific learning patterns
 - [**Coherent Drift**](public/cognitive-social-systems) — identity modeling under systemic strain  
 - [**GALT**](public/health) — immune tolerance structure brief  
 - [**Co-Aegis**](https://opencollective.com/forma-institut/projects/rcdl-pool/updates/update-rcdl-mesh-activated) — modular biosafety framework  
