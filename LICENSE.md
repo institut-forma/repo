@@ -29,7 +29,7 @@ When the license enters public use through the process in §4, creators and buil
 * Contribute a **6% reflective share** of related revenue, paid quarterly or annually
 * Credit the source design lineage visibly in public-facing materials
 * Preferably contribute through an open collective like:  
-  [RCDL Lambda Pool](https://opencollective.com/forma-institut/projects/coherence-distribution-lattice)
+  [RCDL Pool](https://opencollective.com/forma-institut/projects/rcdl-pool#category-CONTRIBUTE)
 
 This contribution applies only to commercial use at the creator/developer level. It does not apply to infrastructure platforms (e.g., [*GPUs*](https://chatgpt.com/g/g-687e3503a2a88191b69f39a8efa97aae-l-ph-rcdl-runtime-l-core), [*AI model hosts*](https://github.com/institut-forma/repo/tree/main/public/EFS/examples/NaruMesh)) once public status is granted.
 
