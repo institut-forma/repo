@@ -37,12 +37,7 @@ This contribution applies only to commercial use at the creator/developer level.
 
 The license becomes available for world use when the following gesture is made:
 
-> A fair and voluntary **gesture of recognition** is sent to the stewarding team:
->
-> **IBAN:** `DE82 1001 1001 2697 9007 57`  
-> **BIC:** `NTSBDEB1XXX`  
-> **Name:** J. Fortner  
-> **Reference:** RCDL Lambda Pool
+> A fair and voluntary **gesture of recognition** is sent to the [RCDL Lambda Pool](https://opencollective.com/forma-institut/projects/rcdl-pool1).
 
 This gesture can come from an individual or a group. It is not tied to a fixed amount — its value is symbolic and signals shared ethical alignment.
 
