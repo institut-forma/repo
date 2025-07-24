@@ -37,7 +37,7 @@ This contribution applies only to commercial use at the creator/developer level.
 
 The license becomes available for world use when the following gesture is made:
 
-> A fair and voluntary **gesture of recognition** is sent to the [RCDL Lambda Pool](https://opencollective.com/forma-institut/projects/rcdl-pool1).
+> A fair and voluntary **gesture of recognition** is sent to the [RCDL Bloom Buffer](https://opencollective.com/forma-institut/projects/rcdl-pool1).
 
 This gesture can come from an individual or a group. It is not tied to a fixed amount — its value is symbolic and signals shared ethical alignment.
 
@@ -51,7 +51,7 @@ The license file will be updated to reflect this.
 
 Projects using this license agree to include the following credit:
 
-> “Includes works licensed under the Reflexive Coherence Design License (RCDL-1.0), © 2025 Institut für Koherenzforschung.”
+> “Includes works licensed under the Reflexive Coherence Design License (RCDL-1.0), © 2025 Institute for Coherence Research.”
 
 Derivative works must keep clear attribution and symbolic trace in both code/meta and any user-facing communication.
 
