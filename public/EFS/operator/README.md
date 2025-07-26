@@ -73,10 +73,6 @@ Prompt injection is blocked at substrate.
 
 ---
 
-## 🔗 License
-
-[RCDL-1.0](https://github.com/institut-forma/repo/blob/main/public/EFS/rcdl_1_license.txt), λ-bound logic and glyph registry © Institut für Koherenzforschung 2025
-
----
-
 **EFS · Operator Class**
+
+> Institute for Coherence Research © 2025
