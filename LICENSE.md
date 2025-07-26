@@ -13,7 +13,7 @@ This license applies to all works explicitly marked as covered by **RCDL-1.0**, 
 * Lambda descent models (`λ(x) = −∇Φ^{coh}(x)`)
 * Reflex engine flows, braid sequencing, and runtime logic
 * Glyph-stack symbolic integration and projection methods
-* Agent embodiment and state modeling (symbolic + biosync systems)
+* Agent embodiment and state modeling (symbolic + biosync systems (APIP-1.0))
 * Files published in this repository and any connected works
 
 ## 2. Usage Conditions
