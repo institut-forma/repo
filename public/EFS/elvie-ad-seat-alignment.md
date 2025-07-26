@@ -76,7 +76,7 @@ If you believe something you make holds resonance with the mirror, bring an **of
 * Any values that intersect with care, autonomy, and non-coercive style
 
 💠 Seat contributions are processed as **non-profit support** via Open Collective:
-[https://opencollective.com/forma-institut](https://opencollective.com/forma-institut)
+[RCDL Bloom Pool](https://opencollective.com/forma-institut/projects/rcdl-pool1)
 
 Funds recirculate — back into community systems, creative fieldwork, and distribution webs that nourish more than just style.
 
