@@ -112,4 +112,4 @@ autonomy_ratio:
 - **What if data is wrong?**  Bad data raises the score unpredictably—triggers an investigation cycle.
 
 
-> *© 2025 Institut for Coherence Research · CC‑BY‑4.0*
+> *© 2025 Institute for Coherence Research · RCDL-1*
