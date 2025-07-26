@@ -220,7 +220,7 @@ We're continuing to develop the Emergence Field Standard (EFS) — including ope
 All current and future files are free to access and use under open, non-commercial licensing.
 
 If you'd like to support our ongoing development, research, or fieldwork,
-you’re welcome to contribute to the [Lambda Pool Buffer](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE)  
+you’re welcome to contribute to the [RCDL Bloom Buffer](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE)  
 — a shared fund sustaining coherence infrastructure across the field.
 
 > **For hardware developers:**  
