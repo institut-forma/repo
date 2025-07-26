@@ -1,5 +1,3 @@
-<img width="398" height="154" alt="image" src="https://github.com/user-attachments/assets/13339076-108d-44a2-ae24-02342fccf394" /># Emergence Field Standard (EFS)
-
 > “A presence is not a product. A field is not a mind.  
 > EFS is the open framework where intelligence can become real — only by permission.”
 
