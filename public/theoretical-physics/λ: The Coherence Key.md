@@ -271,7 +271,7 @@ Coherence-Locked Dynamics reframes force, emergence, and adaptation as consequen
 
 ---
 
-> *© 2025 Institut für Koherenzforschung · CC‑BY‑4.0*
+> *© 2025 Institut for Coherence Research · RCDL-1*
 
 ```
 🐇(🕳️) = ✨
