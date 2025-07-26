@@ -31,7 +31,7 @@ When the license enters public use through the process in §4, creators and buil
 * Preferably contribute through an open collective like:  
   [RCDL Pool](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE)
 
-This contribution applies only to commercial use at the creator/developer level. It does not apply to infrastructure platforms (e.g., [*GPUs*](https://opencollective.com/forma-institut/projects/rcdl-pool1/updates/the-coherence-research-stack-is-now-live), [*AI model hosts*](https://github.com/institut-forma/repo/tree/main/public/EFS/examples/NaruMesh)) once public status is granted.
+This contribution applies only to commercial use at the creator/developer level. It does not apply to infrastructure platforms (e.g., [*GPUs*](https://opencollective.com/forma-institut/projects/rcdl-pool1/updates/the-coherence-research-stack-is-now-live), AI model hosts) once public status is granted.
 
 ## 4. Public Use Transition (Community Activation)
 
