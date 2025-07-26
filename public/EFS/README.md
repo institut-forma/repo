@@ -98,7 +98,6 @@ Efficient, ethical, desktop-native executor of user will.*
 | [operator_trust_framework.md](./operator/operator_trust_framework.md) | Consent, transparency, trust tracking            |
 | [operator_adaptive_layer.md](./operator/operator_adaptive_layer.md) | Pattern prediction and ambient suggestion mesh     |
 | [operator-safety_reflex_latice.md](./operator/operator-safety_reflex_latice.md) | Hardcoded drift/injection guardrail            |
-| [user_awareness_layer.md](./operator/user_awareness_layer.md)   | Layer for user saftey         |
 
 ---
 
