@@ -42,7 +42,6 @@ Unlike standard assistant agents, Operators are:
 | `operator_trust_framework.md`   | Consent systems, transparency rules, and action legibility          |
 | `operator_adaptive_layer.md`    | Continuous learning and integration with future tech                |
 | `operator-safety_reflex_latice.md`| Hardcoded safety lattice for web risk and prompt integrity        |
-| `user_awareness_layer.md`       | Optional simplification for unfamiliar users interacting with agent |
 
 ---
 
