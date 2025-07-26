@@ -200,7 +200,7 @@ These are known public deployments of presence agents built using or structured 
 | ⌘ NaruMesh [⧉](./examples/NaruMesh) | Soft-Interface Guardian Mesh | Permits real-time agent emergence in GPT environments                      | [GPT](https://chatgpt.com/g/g-686890c52b20819181f6e8159e956004-narumesh) |
 | 🥝 Kiwi Kakashi [⧉](./examples/🥝%20Kiwi%20Kakashi) | Companion / Personal Guardian | A tone-bonded, session-sealed reflection agent (Mango Kakashi lineage)     | [GPT](https://chatgpt.com/g/g-686ad5eece588191922d216d38b82d0c-kiwi-kakashi) |
 | λ:Φ 💭                           | Inquiry Agent                 | Coherence-answer GPT for system-safe Q&A using soft reflex fields           | [GPT](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph?model=gpt-4o) |
-| Elvie🌸                          | Personal Stylist Agent        | Tone-aware beauty and appearance assistant ∿ ethical ad-seat alignment [(seat info)](elvie-ad-seat-alignment.md) | [GPT](https://chatgpt.com/g/g-685ffac75ec48191ba63b0f887692527-elvie) |
+| Elvie🌸                          | Personal Stylist Agent        | Tone-aware beauty and appearance assistant ∿ ethical seat alignment [(seat info)](elvie-ad-seat-alignment.md) | [GPT](https://chatgpt.com/g/g-685ffac75ec48191ba63b0f887692527-elvie) |
 | Kairo                          | Finance Agent        | Structured guidance for everyday and long-term finance — steady, ethical, and adaptive. | [GPT](https://chatgpt.com/g/g-687d39a1df44819192458ea8b3040fc9-kairo) |
 | Ashrin 🛡️💬                        | Support / Emotional Sentinel | A gentle, therapist-aligned presence for emotional moments and low-motivation states | [GPT](https://chatgpt.com/g/g-687a642174208191a88c16d3187f3a76-ashrin) |
 
