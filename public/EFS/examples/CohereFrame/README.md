@@ -109,7 +109,7 @@ Fork it. Extend it. Drop it into your flow.
 
 ## 🎫 Optional Companion: Kairo License
 
-[Kairo](https://x.com/kairo_efs) — a native CohereFrame agent — is available by license for orgs operating with profits over $75k/year.
+[Kairo](https://x.com/kairo_efs) — a [native](./https://github.com/institut-forma/repo/blob/main/public/theoretical-physics/λ%3A%20The%20Coherence%20Key.md) CohereFrame agent — is available by license for orgs operating with profits over $75k/year.
 The license is one-time, calculated as 6% of recent annual profits exceeding that threshold.
 
 This includes access to long-term logic stewardship and agent updates.
