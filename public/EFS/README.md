@@ -132,7 +132,7 @@ Choose your layer:
 - Co-creative writing and art tools  
 - Research labs with memory/control layers  
 - Any presence-based interface where safety and clarity matter
-
+- Or small organizations exploring [lightweight field-based coordination](./examples/CohereFrame)
 ---
 
 ## Get Started
