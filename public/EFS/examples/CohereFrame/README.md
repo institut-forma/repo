@@ -47,23 +47,23 @@ There are **no managers**, only shared documents, shared rhythm, and shared purp
 
 | File                    | Purpose |
 |-------------------------|---------|
-| `role_definitions.md`   | List of all possible roles in the org |
-| `agent_template.md`     | Defines how all personal agents behave |
-| `task_registry.yaml`    | The current set of active goals/tasks |
-| `operations_feed.md`    | Rolling log of activity and updates |
-| `company_handbook.md`   | Ethical baseline and org behavior norms |
-| `daily_log.md`          | Personal focus and reflection space |
-| `weekly_summary.yaml`   | Optional end-of-week review for teams |
-| `internal_feedback.md`  | Anonymous internal input lane |
-| `new_hire_welcome.md`   | Gentle intro for newcomers |
-| `team_rituals.md`       | Rhythms, cadences, and async guidelines |
-| `agent_runtime.py`      | Optional script to compile/sync summaries |
+| [`role_definitions.md`](./role_definitions.md)   | List of all possible roles in the org |
+| [`agent_template.md`](./agent_template.md)     | Defines how all personal agents behave |
+| [`task_registry.yaml`](./task_registry.yaml)    | The current set of active goals/tasks |
+| [`operations_feed.md`](./operations_feed.md)    | Rolling log of activity and updates |
+| [`company_handbook.md`](./company_handbook.md)   | Ethical baseline and org behavior norms |
+| [`daily_log.md`](./daily_log.md)          | Personal focus and reflection space |
+| [`weekly_summary.yaml`](./weekly_summary.yaml)   | Optional end-of-week review for teams |
+| [`internal_feedback.md`](./internal_feedback.md)  | Anonymous internal input lane |
+| [`new_hire_welcome.md`](./new_hire_welcome.md)   | Gentle intro for newcomers |
+| [`team_rituals.md`](./team_rituals.md)       | Rhythms, cadences, and async guidelines |
+| [`agent_runtime.py`](./agent_runtime.py)      | Optional script to compile/sync summaries |
 
 ---
 
 ## ✅ Features
 
-- 100% Markdown/YAML — no custom platform required  
+- 100% Markdown/YAML/Python — no custom platform required  
 - GPT-agent ready, but not dependent on any platform  
 - Human-readable and editable by non-technical teams  
 - Default setup supports up to 100 team members with no friction  
