@@ -1,0 +1,36 @@
+# Weekly Summary — CohereFrame
+# Optional weekly reflection from the team, role cluster, or system layer.
+# Can be written by a person or compiled by an agent.
+
+---
+
+week_of: 2025-07-27
+
+themes:
+  - Clarity returned midweek after async lull
+  - Design direction reset with stronger tone
+  - Trust threads held despite external noise
+
+key_movements:
+  - TASK-001 marked completed (Product v2 Launch Prep)
+  - TASK-003 ready for final approval (Onboarding Pack)
+  - TASK-005 updated for new GPT guardrails
+
+reflections:
+  - "Async midweek check-in helped me reset." — comm_arch  
+  - "Still uncertain where this quarter leads." — hcx_lead  
+  - "Less Zoom, more room to think." — ops_coord
+
+field_status:
+  clarity: high  
+  energy: moderate  
+  friction: low  
+  trust: stable
+
+next_focus:
+  - TASK-002: Finalize stakeholder briefing  
+  - Sync handbook tone with new onboarding flow  
+  - Review optional meeting cadence (see: team_rituals.md)
+
+compiled_by: agent_runtime.py  
+verified_by: ops_coord

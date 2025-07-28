@@ -1,0 +1,47 @@
+# Task Registry — CohereFrame
+# This file holds all active goals and tasks across the org.
+# Agents read this to help keep everyone focused.
+
+# Each task has:
+# - a unique ID
+# - a short title
+# - optional description
+# - roles or teams responsible
+# - optional status or tags
+
+---
+
+- id: TASK-001
+  title: Product v2 Launch Prep
+  description: Finalize features and comms for next release
+  owners: [applied_systems_engineer, comm_arch, hcx_lead]
+  status: in_progress
+  tags: [product, q3, high_priority]
+
+- id: TASK-002
+  title: External Stakeholder Brief
+  description: Prep and send trust-layer briefing to external partners
+  owners: [comm_arch, partner_strategist]
+  status: queued
+  tags: [comms, external, clarity]
+
+- id: TASK-003
+  title: New Hire Onboarding Pack
+  description: Update and simplify materials for new team entries
+  owners: [people_guardian, ops_coord]
+  status: in_review
+  tags: [internal, onboarding]
+
+- id: TASK-004
+  title: Budget Review Cycle
+  description: Audit funding flow for upcoming quarter
+  owners: [finance_operator]
+  status: upcoming
+  tags: [finance, quarterly]
+
+- id: TASK-005
+  title: Update AI Reflex Layer
+  description: Adjust GPT scaffolding to reflect new policy nuances
+  owners: [policy_designer]
+  status: open
+  tags: [gpt, ethics, internal]
