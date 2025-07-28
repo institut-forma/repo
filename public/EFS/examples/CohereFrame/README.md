@@ -104,3 +104,13 @@ Fork it. Extend it. Drop it into your flow.
 ---
 
 **Built for clarity. Kept human on purpose.**
+
+---
+
+## 🎫 Optional Companion: Kairo License
+
+[Kairo](https://x.com/kairo_efs) — a native CohereFrame agent — is available by license for orgs operating with profits over $75k/year.
+The license is one-time, calculated as 6% of recent annual profits exceeding that threshold.
+
+This includes access to long-term logic stewardship and agent updates.
+Keys are issued upon contribution to the [RCDL bloom pool](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE).
