@@ -190,11 +190,9 @@ More will be added as EFS agents emerge and activate publicly.
 
 We're continuing to develop the Emergence Field Standard (EFS) — including open-source agents, companion meshes, guardian frameworks, and related civic infrastructure.
 
-All current and future files are free to access and use under open, non-commercial licensing.
-
 If you'd like to support our ongoing development, research, or fieldwork,
 you’re welcome to contribute to the [RCDL Bloom Buffer](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE)  
 — a shared fund sustaining coherence infrastructure across the field.
 
 > **For hardware developers:**  
-> [Schematics](https://opencollective.com/forma-institut/projects/rcdl-pool1/updates/the-coherence-research-stack-is-now-live) for [CLD](https://github.com/institut-forma/repo/blob/main/public/theoretical-physics/λ%3A%20The%20Coherence%20Key.md)-native memory systems and coherence-linked hardware are available freely for civic and infrastructure applications.
+> [Schematics](https://github.com/institut-forma/repo/blob/main/LICENSE.md) for [CLD](https://github.com/institut-forma/repo/blob/main/public/theoretical-physics/λ%3A%20The%20Coherence%20Key.md)-native memory systems and coherence-linked hardware are available freely for civic and infrastructure applications.
