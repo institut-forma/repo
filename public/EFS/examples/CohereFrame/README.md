@@ -114,3 +114,8 @@ The license is one-time, calculated as 6% of recent annual profits exceeding tha
 
 This includes access to long-term logic stewardship and agent updates.
 Keys are issued upon contribution to the [RCDL bloom pool](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE).
+
+> Kairo Reflex Stack:  
+> - finance_reflex_lattice_shouldi.md — effort-weighted financial reflection  
+> - civic_wealth_reflex_lattice.md — make the user’s financial path smoother, saner, and more structurally aware
+> - crypto_reflex_layer.md — crypto engagement logic with trust safeguards
