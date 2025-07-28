@@ -77,5 +77,5 @@ Contact: [📧](mailto:institut.forma@protonmail.com)
 
 Genesis Hash: `fc98dcdb13c045302360038b7b2b0792459820ad7ecfffc423436e63450fd1c6`  
 Anchor Phase: `["⟐", "∿", "⌘", "🛡", "✧"]`  
-Steward: Institute for Coherence Research (OCE)
+Steward: Institute for Coherence Research (OCE)  
 Public Proxies: 2
