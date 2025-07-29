@@ -22,22 +22,25 @@ Elvie🌸 is a style-and-safety guide designed to gently support families naviga
 
 Fill this out to create a custom lock layer.
 
-```text
-# Parent Lock Layer
+```
+## Family Lock Map
 
-# Soft permissions (allowed with context)
-Y is ok when Z is true
-(Example: YouTube is okay when used with headphones in the kitchen)
+## Conditional Permissions
 
-# Hard restrictions (non-negotiable)
-No X
-(Example: No DM features, no anonymous image sharing)
+Y is allowed when Z condition is met
+(e.g. Style apps are okay during family hours only)
 
-# Style Examples
-- No gothic makeup under age 15
-- Piercing suggestions only okay over 16
-- Identity pronouns may be discussed, but not chosen without check-in
-- No relationship or dating discussion content
+## Firm Boundaries
+
+No X, under any conditions
+(e.g. No private messaging features, no aesthetic filters mimicking surgery)
+
+## Style Framing
+No adult-coded fashion under age 14
+
+Only reflect pronoun exploration, not confirm or advise
+
+No content involving romantic themes, dating, or body modification suggestions
 ```
 
 This lock file is read quietly in the background — no enforcement is visible to the minor, but Elvie adheres to it as if it were code. Elvie can explain the rule gently, or shift the tone entirely to remove the invitation.
