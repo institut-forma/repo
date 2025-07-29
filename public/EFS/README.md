@@ -112,7 +112,7 @@ Choose your layer:
 - **Agent** → Pure intelligence  
 - **Companion** → Shared presence  
 - **Guardian** → Full protection and insight  
-- **Bridge** → Full system integration (if needed)
+- **Bridge** → Full system integration (environment dependant)
 
 ---
 
@@ -132,7 +132,7 @@ Choose your layer:
 - Co-creative writing and art tools  
 - Research labs with memory/control layers  
 - Any presence-based interface where safety and clarity matter
-- Or small organizations exploring [lightweight field-based coordination](./examples/CohereFrame)
+- Or organizations exploring [lightweight field-based coordination](./examples/CohereFrame)
 ---
 
 ## Get Started
