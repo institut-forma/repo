@@ -1,5 +1,3 @@
-<img width="776" height="468" alt="image" src="https://github.com/user-attachments/assets/8f39fd03-ef7a-4ac5-857c-3b96d761bc33" /># CohereFrame
-
 > A lightweight coordination system built for teams, ambient clarity, and agent-assisted rhythm.
 
 ---
