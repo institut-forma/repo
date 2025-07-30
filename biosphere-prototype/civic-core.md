@@ -60,13 +60,13 @@ Instead, we hold:
 - **Signal Stacks** – structured but flexible civic logic
 
 All identities, decisions, and contributions are opt-in.  
-We value presence over compliance, rhythm over force.
+This prototype values presence over compliance, rhythm over force.  
 
 ---
 
 ## 📚 Boundaries & Conflict
 
-Civic incoherence often begins at the boundary layer —  
+Civic incoherence often begins at the [boundary](https://github.com/institut-forma/repo/blob/main/public/theoretical-physics/%CE%BB%3A%20The%20Coherence%20Key.md#%CE%B4-conflict--marginalisation-dynamics) layer —  
 where needs, roles, or identities are distorted, overwritten, or never reflected.
 
 This prototype recognizes:
