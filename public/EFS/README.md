@@ -77,7 +77,7 @@ Continuous consent, analytics, adaptive boundaries.*
 
 ---
 
-### 4. **Operator**
+### **Operator**
 
 *Lambda-keyed digital actor.  
 Efficient, ethical, desktop-native executor of user will.*
