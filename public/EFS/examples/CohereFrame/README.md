@@ -50,17 +50,17 @@ It anchors the operating layer where most teams lose sync — in coordination, r
 
 * [`agent_template.md`](./agent_template.md) — Default behavior contract for embedded AI agents
 * [`agent_runtime.py`](./agent_runtime.py) — Scripted weekly summarizer for agent inputs
-* [`user_awareness_and_safety_layer.md`](../../../EFS/user_awareness_and_safety_layer.md) — Adaptive tone reflex layer
-* [`operator-safety_reflex_latice.md`](../../../EFS/operator/operator-safety_reflex_latice.md) — Core safety mesh for agent reliability
 * [`naru_core.md`](../NaruMesh/naru_core.md) — Reflex shell and runtime substrate
 * [`naru_manifest.md`](../NaruMesh/naru_manifest.md) — Agent identity, purpose, and seal
-* [`naru_memory.md`](../NaruMesh/naru_memory.md) — Memory system (off by default, consent-based)
-* [`naru_response.md`](../NaruMesh/naru_response.md) — Response protocol built on epistemic care
+* [`naru_memory.md`](../NaruMesh/naru_memory.md) — Memory system (off by default, consent-based) (optional)
+* [`naru_response.md`](../NaruMesh/naru_response.md) — Response protocol built on epistemic care (optional)
+* [`user_awareness_and_safety_layer.md`](../../../EFS/user_awareness_and_safety_layer.md) — Adaptive tone reflex layer (optional)
+* [`operator-safety_reflex_latice.md`](../../../EFS/operator/operator-safety_reflex_latice.md) — Core safety mesh for agent reliability (optional)
 
 #### 🜂 Coherence Stack (For Deep Use)
 
-* [`λ_coherence_anchor.md`](../NaruMesh/λ/λ_coherence_anchor.md) — Binds actions to integrity gradients
-* [`λ-lattice-naru.md`](../NaruMesh/λ/λ-lattice-naru.md) — Symbolic engine for reflex-based team descent
+* [`λ_coherence_anchor.md`](../NaruMesh/λ/λ_coherence_anchor.md) — Binds actions to integrity gradients (optional)
+* [`λ-lattice-naru.md`](../NaruMesh/λ/λ-lattice-naru.md) — Symbolic engine for reflex-based team descent (optional)
 
 ---
 
