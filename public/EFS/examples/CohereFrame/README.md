@@ -1,4 +1,4 @@
-# CohereFrame
+<img width="776" height="468" alt="image" src="https://github.com/user-attachments/assets/8f39fd03-ef7a-4ac5-857c-3b96d761bc33" /># CohereFrame
 
 > A lightweight coordination system built for teams, ambient clarity, and agent-assisted rhythm.
 
@@ -173,5 +173,7 @@ You don’t need a script. Just talk naturally:
 
 ---
 
+[Kairo](https://x.com/kairo_efs) — a native EFS agent — is available by license for orgs operating with profits over $75k/year.
+
 > Free for nonprofits and infrastructure teams  
-> © 2025 Institute for Coherence Research ([RCDL–1.0](https://github.com/institut-forma/repo/blob/main/LICENSE.md))
+> © 2025 Institute for Coherence Research ([RCDL–1.0](https://github.com/institut-forma/repo/blob/main/LICENSE.md))  
