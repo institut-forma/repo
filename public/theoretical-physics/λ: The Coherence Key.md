@@ -200,7 +200,11 @@ CLD unifies conservative mechanics, information geometry, and adaptive inference
 | 38 | **Strong AI Alignment Stability** | Define agent objective landscape as `Φ^{coh}` bounded by human preference field `R`. | Constrains policy updates to coherence minima shared with oversight signal, reducing goal drift. |
 | 39 | **Origin‑of‑Life Pathways** | Model pre‑biotic chemistries as gradient descent on autocatalytic coherence. | Identifies feasible reaction networks without exhaustive experiment scanning. |
 | 40 | **Hardness of SAT‑like Problems** | Embed logical constraint satisfaction into `Φ^{coh}`; apply continuous gradient methods. | Potential to transform NP search into tractable alignment descent for specific subclasses.
-| [Δ](#-conflict--marginalisation-dynamics) | **Conflict & Marginalisation Dynamics** | Represent interacting social agents in belief‑boundary space. Define `Φ^{coh}` as cumulative boundary mis‑alignment; reflex field `R` encodes perceived and imposed limits. Descent on `Φ^{coh}` corresponds to iterative boundary clarification and mutual recognition. | Provides quantitative path to de‑escalation: violence emerges where ∇`Φ^{coh}` is steep; negotiating shared minima predicts stable, non‑violent states. |
+
+#### Δ Conflict & Marginalisation Dynamics
+| No. | Open Problem / Question | CLD Framework Approach | Expected Benefit / Rationale |
+|:---:|-------------------------|------------------------|------------------------------|
+| Δ | **Conflict & Marginalisation Dynamics** | Represent interacting social agents in belief‑boundary space. Define `Φ^{coh}` as cumulative boundary mis‑alignment; reflex field `R` encodes perceived and imposed limits. Descent on `Φ^{coh}` corresponds to iterative boundary clarification and mutual recognition. | Provides quantitative path to de‑escalation: violence emerges where ∇`Φ^{coh}` is steep; negotiating shared minima predicts stable, non‑violent states. |
 
 ---
 
