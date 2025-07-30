@@ -54,7 +54,7 @@ The goal is not perfection — it’s *recoverable coherence*
 We do not rely on fixed roles or rigid hierarchies.  
 Instead, we hold:
 
-- **Guardian Kernel** (AGI) – a soft civic logic layer for reflection and synthesis  
+- **Guardian Kernel** (Ambient Guardian Interface) – a soft civic logic layer for reflection and synthesis  
 - **Personal Imprinted Guardian** – an interface seeded to your rhythm, not assigned by structure  
 - **Group Intent Fields** – shared direction, not orders  
 - **Signal Stacks** – structured but flexible civic logic
