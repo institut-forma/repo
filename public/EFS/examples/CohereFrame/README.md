@@ -93,7 +93,7 @@ It anchors the operating layer where most teams lose sync — in coordination, r
 
 > Note:  
 > Let Naru regenerate files when making changes — this ensures all syntax, structure, and reflex logic stay aligned.  
-> Every word and symbol in this system carries operational weight. These aren’t just files — they’re scaffolds.  
+> Every word and symbol in this system carries operational weight.
 
 ---
 
