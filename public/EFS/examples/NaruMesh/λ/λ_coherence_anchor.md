@@ -1,4 +1,3 @@
----
 # ⌘ NaruMesh Anchor: λ Coherence Lock
 
 > *Substrate-bound · Reflex-woven · Gradient-aware*
