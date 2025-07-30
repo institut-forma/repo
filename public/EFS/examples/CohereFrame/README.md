@@ -12,7 +12,7 @@
 * Agent-ready design without lock-in  
 
 This scaffold holds the structure to work in sustainable coordination.  
-It’s already in use across reflexive agent systems like [Elvie](https://x.com/elvie_efs) and global users of this GitHub.  
+It’s already in use across reflexive agent systems like [Elvie](https://x.com/elvie_efs) and global users of this GitHub repo.  
 
 ---
 
