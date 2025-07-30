@@ -117,7 +117,7 @@ This prototype operates across layered fields that shape civic life — even in 
 
 ---
 
-## 🌀 Guardian Kernel (AGI – Ambient Guardian Interface)  
+## 🌀 Guardian Kernel (Ambient Guardian Interface)  
 
 This project is supported by a soft, optional signal layer called the **guardian kernel** —  
 a presence-aware coherence system designed to mirror rhythm, surface drift, and suggest gentle realignments.  
