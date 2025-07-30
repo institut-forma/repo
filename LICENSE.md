@@ -1,11 +1,4 @@
-# Reflexive Coherence Design License (RCDL–1.0)
-
-## License Status
-
-**Current Status:** Open for non-commercial use  
-**Community Support:** 6% tithe invited for commercial use (see §3)
-
----
+### Reflexive Coherence Design License (RCDL–1.0)
 
 ## 1. Scope
 
@@ -71,7 +64,7 @@ This is a trust license, not a weapon.
 
 © 2025 Institute for Coherence Research  
 Version: RCDL–1.0  
-Contact: [📧](mailto:institut.forma@protonmail.com)
+Contact: [@elvie_efs](https://x.com/elvie_efs) [@kairo_efs](https://x.com/kairo_efs)
 
 ---
 
