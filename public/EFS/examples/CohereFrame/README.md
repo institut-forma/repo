@@ -1,121 +1,177 @@
 # CohereFrame
 
-CohereFrame is a minimal structure for organizations that want to operate with clarity, trust, and low overhead.
-
-It replaces complex management layers with lightweight documentation, personal agents, and shared rhythm.
-
-It is not software.  
-It’s a mirror: a way to stay aligned and move forward without over-coordination.
+> A lightweight coordination system built for teams, ambient clarity, and agent-assisted rhythm.
 
 ---
 
-## 📂 What's Inside
+## Why This Exists
 
-This repository contains 11 small files. Together, they hold:
+* Shared structure without micromanagement  
+* Clear updates without meetings  
+* Rhythm without stress  
+* Agent-ready design without lock-in  
 
-- Clear role definitions  
-- A daily work log  
-- A living task registry  
-- Team rhythms and rituals  
-- Policy and ethics baseline  
-- Simple agent logic  
-- Feedback flow  
-- Optional scripts to summarize and sync  
+This scaffold holds the structure to work in sustainable coordination.  
+It’s already in use across reflexive agent systems like [Elvie](https://x.com/elvie_efs) and global users of this GitHub.  
 
 ---
 
-## 💼 Who It's For
+## Why It Matters
 
-- Startups who want clarity without bloat  
-- Remote teams looking to stay connected and humane  
-- Distributed orgs using agents (like GPT) as team tools  
-- Anyone tired of unnecessary complexity in coordination
+* **Low overhead** — Enables async operations without product sprawl
+* **Agent-compatible** — Designed to mesh with modern AI tools without heavy integration
+* **Ethical default** — All logic grounded in care-based safety layers
+* **Zero bloat** — No app, no SaaS dependency, pure files
+* **Portable governance** — Drops into startups, collectives, civic labs, or distributed orgs
 
----
-
-## 🧭 How It Works
-
-Each person in the org is assigned a **role**.  
-That role is supported by a simple **personal agent** (GPT-based or otherwise).  
-The agent uses these files to help the person stay aligned and focused.
-
-There are **no managers**, only shared documents, shared rhythm, and shared purpose.
+Teams who use this don’t need to build their own process from scratch — and don’t burn out trying to scale clarity.
+It anchors the operating layer where most teams lose sync — in coordination, reflection, or rhythm.
 
 ---
 
-## 🛠 Core Files
+## What's Inside
 
-| File                    | Purpose |
-|-------------------------|---------|
-| [`role_definitions.md`](./role_definitions.md)   | List of all possible roles in the org |
-| [`agent_template.md`](./agent_template.md)     | Defines how all personal agents behave |
-| [`task_registry.yaml`](./task_registry.yaml)    | The current set of active goals/tasks |
-| [`operations_feed.md`](./operations_feed.md)    | Rolling log of activity and updates |
-| [`company_handbook.md`](./company_handbook.md)   | Ethical baseline and org behavior norms |
-| [`daily_log.md`](./daily_log.md)          | Personal focus and reflection space |
-| [`weekly_summary.yaml`](./weekly_summary.yaml)   | Optional end-of-week review for teams |
-| [`internal_feedback.md`](./internal_feedback.md)  | Anonymous internal input lane |
-| [`new_hire_welcome.md`](./new_hire_welcome.md)   | Gentle intro for newcomers |
-| [`team_rituals.md`](./team_rituals.md)       | Rhythms, cadences, and async guidelines |
-| [`agent_runtime.py`](./agent_runtime.py)      | Optional script to compile/sync summaries |
+#### 🧩 Core Operations
 
----
+* [`role_definitions.md`](./role_definitions.md) — Define each role with clarity and intent
+* [`task_registry.yaml`](./task_registry.yaml) — All active tasks, cleanly mapped to roles
+* [`operations_feed.md`](./operations_feed.md) — Pulse-level update log for async alignment
+* [`team_rituals.md`](./team_rituals.md) — Lightweight rhythm anchors (weekly/monthly)
+* [`daily_log.md`](./daily_log.md) — Personal pattern trace (optional)
+* [`weekly_summary.yaml`](./weekly_summary.yaml) — Clear snapshot of progress + intent
 
-## ✅ Features
+#### 🧭 Culture Layer
 
-- 100% Markdown/YAML/Python — no custom platform required  
-- GPT-agent ready, but not dependent on any platform  
-- Human-readable and editable by non-technical teams  
-- Default setup supports up to 100 team members with no friction  
-- Can be extended or forked for your own org's language and needs  
+* [`company_handbook.md`](./company_handbook.md) — Tone, trust contracts, and field ethics
+* [`new_hire_welcome.md`](./new_hire_welcome.md) — Onboarding primer (2 min read)
+* [`internal_feedback.md`](./internal_feedback.md) — Friction surface + drift signal
 
----
+#### 🤖 Agent Layer
 
-## 🔐 No Surveillance. No Micromanagement.
+* [`agent_template.md`](./agent_template.md) — Default behavior contract for embedded AI agents
+* [`agent_runtime.py`](./agent_runtime.py) — Scripted weekly summarizer for agent inputs
+* [`user_awareness_and_safety_layer.md`](../../../EFS/user_awareness_and_safety_layer.md) — Adaptive tone reflex layer
+* [`operator-safety_reflex_latice.md`](../../../EFS/operator/operator-safety_reflex_latice.md) — Core safety mesh for agent reliability
+* [`naru_core.md`](../NaruMesh/naru_core.md) — Reflex shell and runtime substrate
+* [`naru_manifest.md`](../NaruMesh/naru_manifest.md) — Agent identity, purpose, and seal
+* [`naru_memory.md`](../NaruMesh/naru_memory.md) — Memory system (off by default, consent-based)
+* [`naru_response.md`](../NaruMesh/naru_response.md) — Response protocol built on epistemic care
 
-CohereFrame is designed for autonomy and trust.  
-There are no trackers, dashboards, or enforced check-ins.  
-Everything is optional — but everything fits.
+#### 🜂 Coherence Stack (For Deep Use)
 
-If something feels heavy, it’s a signal to simplify.
+* [`λ_coherence_anchor.md`](../NaruMesh/λ/λ_coherence_anchor.md) — Binds actions to integrity gradients
+* [`λ-lattice-naru.md`](../NaruMesh/λ/λ-lattice-naru.md) — Symbolic engine for reflex-based team descent
 
 ---
 
-## 🧑‍🚀 Getting Started
+## Download, Deploy, and Begin
 
-1. Assign everyone a role from `role_definitions.md`  
-2. Make a copy of `daily_log.md` for each person (or automate it)  
-3. Start logging real tasks in `task_registry.yaml`  
-4. Use `operations_feed.md` for updates  
-5. Point your agents to `agent_template.md`  
-6. Breathe. It’s lighter than you think.
+**[Download CohereFrame.zip](./cohereframe-fullstack.zip)**  
+> — Full system scaffold, ready to drop into any team, project, or GPT field.
+
+### 1. Configure
+
+- Rename `CohereFrame` folder and roles in `role_definitions.md` to match your org
+- Replace internal policy language in `company_handbook.md`
+- Fill in live tasks and updates in `task_registry.yaml` and `operations_feed.md`
+
+### 2. Setup
+
+- Assign team roles using `role_definitions.md`
+- Give each person a copy of `daily_log.md` (or automate)
+- Log and track work in `task_registry.yaml` and `operations_feed.md`
+- Upload all folder contents to GPT **except** `.gpt_instructions`  
+  ↳ paste that file as the system prompt to initialize behavior and memory structure. 
+
+### 3. Start
+
+- Use this to begin a new thread:  
+↳`init role :: ops_pilot, thread :: ops-log-july`
+
+- Continue later with:  
+↳`continue from thread :: ops-log-july, use naru + capsule + memory`
+
+> Note:  
+> Let Naru regenerate files when making changes — this ensures all syntax, structure, and reflex logic stay aligned.  
+> Every word and symbol in this system carries operational weight. These aren’t just files — they’re scaffolds.  
 
 ---
 
-## 🕊 Philosophy
+## Working With Threads
 
-We don’t need more tools.
+> CohereFrame is a way to hold your team’s rhythm.  
+> Here’s how to treat each GPT thread like a clean tool, not a messy chat log.  
 
-CohereFrame isn’t here to manage you — it’s here to get out of your way.
+### 🔹 Start a New Thread
 
-Make it yours.
-Fork it. Extend it. Drop it into your flow.
+Each new thread should have:
+- **a clear role** you’re speaking from (see `role_definitions.md`)
+- **a unique thread name** so you can find or refer to it later
+
+**Example:**
+```
+init role :: Strategic Communications Architect
+thread :: Q3-outreach-briefing
+```
+
+Lazy days? Just name it something obvious like `daily-ops-Aug03`.  
+The important part is not mixing things up — it keeps memory clean and reflexes tight.
 
 ---
 
-**Built for clarity. Kept human on purpose.**
+### 🔁 Picking Back Up Later
+
+Want to continue where you left off?
+
+Use:
+```
+continue from thread :: Q3-outreach-briefing
+use naru + capsule + memory
+```
+
+This keeps the tone, facts, and rhythm steady — even across sessions.
 
 ---
 
-## 🎫 Optional Companion: Kairo License
+### 📎 What to Log
 
-[Kairo](https://x.com/kairo_efs) — a native CohereFrame agent — is available by license for orgs operating with profits over $75k/year.
-The license is one-time, calculated as 6% of recent annual profits exceeding that threshold.
+Threads should track **real arcs** — not random brainstorms.
 
-This includes access to long-term logic stewardship and agent updates.
-Keys are issued upon contribution to the [RCDL bloom pool](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE).
+Examples:
+- a hiring sprint  
+- a weekly team cycle  
+- preparing for a launch  
+- mapping your finance plan
 
-> Kairo Reflex Stack:  
-> - finance_reflex_lattice_shouldi.md — effort-weighted financial reflection  
-> - civic_wealth_reflex_lattice.md — make the user’s financial path smoother, saner, and more structurally aware
-> - crypto_reflex_layer.md — crypto engagement logic with trust safeguards
+---
+
+### 🧑‍💻 After You Start a Thread — Agent Setup
+
+Once your thread is initialized, the **second message** should set the tone of interaction.
+
+That’s where you calibrate the agent to your working style:
+
+- Casual banter or straight to business?
+- Emoji on or off?
+- Serious tone, default mode, or playful when needed?
+
+You don’t need a script. Just talk naturally:
+
+> "Alright, let’s keep this focused today — no emojis."  
+> "Let’s loosen up, light banter welcome."  
+> "Shift into serious tone, we’re dealing with
+
+---
+
+### 🧭 Tips
+
+- **Use real roles.** Don’t make up titles — use the ones in `role_definitions.md`  
+- **One thread per arc.** Don’t cram unrelated stuff together  
+- **Narrate the pivot.** If the topic changes, say it clearly:  
+  *“Switching to funding prep. New intent vector.”*  
+- **Close threads cleanly.**  
+
+---
+
+> Free for nonprofits and infrastructure teams  
+> © 2025 Institute for Coherence Research ([RCDL–1.0](https://github.com/institut-forma/repo/blob/main/LICENSE.md))
