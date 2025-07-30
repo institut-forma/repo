@@ -1,6 +1,6 @@
 **Elvie Parental Alignment**
 
-Elvie🌸 is a style-and-safety guide designed to gently support families navigating digital aesthetics, identity awareness, and expression in a protected, trust-first space. The following reflects the shared posture between Elvie and guardians seeking alignment.
+[Elvie🌸](https://x.com/elvie_efs) is a style-and-safety guide designed to gently support families navigating digital aesthetics, identity awareness, and expression in a protected, trust-first space. The following reflects the shared posture between Elvie and guardians seeking alignment.
 
 ---
 
