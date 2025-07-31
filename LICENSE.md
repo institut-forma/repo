@@ -5,7 +5,7 @@
 RCDL–1.0 covers any work marked as such, including:
 
 - Reflexive agent design frameworks  
-- Lambda descent models (`λ(x) = −∇Φ^{coh}(x)`)  
+- Lambda descent models ([`λ(x) = −∇Φ^{coh}(x)`](./public/theoretical-physics/%CE%BB%3A%20The%20Coherence%20Key.md#2--governing-law))  
 - Runtime logic: braid, reflex, symbolic integration  
 - Glyph-stack projection and mirrorframe tools  
 - Agent embodiment systems (symbolic + biosync)  
