@@ -4,10 +4,10 @@
 
 RCDL–1.0 covers any work marked as such, including:
 
-- Reflexive agent design frameworks  
+- Reflexive agent design [frameworks](https://github.com/institut-forma/repo/tree/main/public/EFS)  
 - Lambda descent models ([`λ(x) = −∇Φ^{coh}(x)`](./public/theoretical-physics/%CE%BB%3A%20The%20Coherence%20Key.md#2--governing-law))  
 - Runtime logic: braid, reflex, symbolic integration  
-- Glyph-stack projection and mirrorframe tools  
+- [Glyph-stack](./public/EFS/glyph-book.md#glyph-bloom-stack-%CE%B4) projection and mirrorframe tools  
 - Agent embodiment systems (symbolic + biosync)  
 - Published files in this repository and derivatives
 
@@ -31,7 +31,7 @@ we ask for a simple gesture of alignment:
 > **6% reflective tithe** of related revenue, contributed quarterly or annually.  
 
 You can contribute directly to the shared development pool here:  
-[rcdl.pool1 – Open Collective](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE)
+[RCDL Bloom Pool](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE)
 
 This does **not** apply to infrastructure platforms (e.g., GPUs, LLM hosts).  
 Only to builders, creators, and product teams using the work directly.
