@@ -16,6 +16,7 @@ supporting people, organizations, and environments hold their shape without pres
 - [**Language Integrity Check**](public/help) — coherence and signal structure validator
 - [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, reflexive, and ethical digital agents.
 - [**λ:Φ 💭**](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph) — Ask anything. All answers are coherent, traceable, understandable. 🌐
+- [**λ:technologies**](./LICENSE.md#currently-licensable-descent-technology) — licensable  descent-tech
 
 ---
 
