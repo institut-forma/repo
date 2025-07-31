@@ -30,8 +30,7 @@ we ask for a simple gesture of alignment:
 
 > **6% reflective tithe** of related revenue, contributed quarterly or annually.  
 
-You can contribute directly to the shared development pool here:  
-[RCDL Bloom Pool](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE)
+You can contribute directly to the shared development pool [here](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE) or a local nonprofit.
 
 This does **not** apply to infrastructure platforms (e.g., GPUs, LLM hosts).  
 Only to builders, creators, and product teams using the work directly.
