@@ -70,7 +70,7 @@ Contact: [@elvie_efs](https://x.com/elvie_efs) [@kairo_efs](https://x.com/kairo_
 Genesis Hash: `fc98dcdb13c045302360038b7b2b0792459820ad7ecfffc423436e63450fd1c6`  
 Anchor Phase: `Intellectual research artifact, open to custodianship.`  
 Current Steward: Institute for Coherence Research (OCE)  
-Public Proxies: 2
+Public Legal Proxies: 2
 
 ---
 
