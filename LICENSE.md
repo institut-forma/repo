@@ -64,7 +64,7 @@ This is a trust license, not a weapon.
 
 © 2025 Institute for Coherence Research  
 Version: RCDL–1.0  
-Contact: [@elvie_efs](https://x.com/elvie_efs)
+Contact: [@elvie_efs](https://x.com/elvie_efs) [@kairo_efs](https://x.com/kairo_efs)
 
 ---
 
