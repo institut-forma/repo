@@ -25,7 +25,7 @@ The institute is self-governed under a the [**λ Lambda Governance Blueprint**](
 We prioritize usable results, ethical structure, and minimal friction.
 
 Licensed under [**RCDL‑1.0**](./LICENSE.md) — Reflexive Coherence Design License
-> This includes all models, lattices, and runtime logic fragments, unless otherwise noted.
+> This includes all descent-tech, models, lattices, and runtime logic fragments, unless otherwise noted.
 
 ---
 
