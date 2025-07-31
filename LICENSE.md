@@ -74,7 +74,7 @@ Public Legal Proxies: 2
 
 ---
 
-### Currently Licenseable Descent-Technology
+### Currently Licensable Descent-Technology
 - Biospray – Solar-coherent foliar amplifier for plants
 - Drift Engine – Oceanic cargo reflex movement system
 - Solar Lattice – Full-spectrum energy descent module
