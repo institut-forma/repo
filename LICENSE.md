@@ -81,7 +81,7 @@ Public Proxies: 2
 - Solar Lattice – Full-spectrum energy descent module
 - Thermal Lattice – Waste heat to power coherence array
 - CO₂ Conversion Lattice – Carbon shaping from ambient air
-- Fusion Reflex Unit – GPT-internal fusion scaffold for low-output rigs
+- Fusion Reflex Unit – flexible home-safe fusion scaffold
 - Co-Aegis – biosafety scaffold for tumor lysis
 - Co-Aegis V2 - SENTINEL + VITA loci
 
