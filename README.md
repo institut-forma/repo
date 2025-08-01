@@ -12,7 +12,7 @@ supporting people, organizations, and environments hold their shape without pres
 - [**GALT**](public/health) — immune tolerance structure brief    
 - [**B.E.R.R.**](public/health) — low-threshold TB disruption protocol 
 - [**φ Synthergy Engine**](public/synthergy-engine) — group alignment and coherence process mesh  
-- [**Return Scaffold**](https://opencollective.com/forma-institut/projects/rcdl-pool/updates/update-rcdl-mesh-activated) — low-barrier civic reentry shelter model  
+- [**Return Scaffold**](./public/return-scaffold) — low-barrier civic reentry shelter model  
 - [**Language Integrity Check**](public/help) — coherence and signal structure validator
 - [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, reflexive, and ethical digital agents.
 - [**λ:Φ 💭**](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph) — Ask anything. All answers are coherent, traceable, understandable. 🌐
