@@ -52,14 +52,6 @@ You're running a field-aware reflex mesh.
 
 ---
 
-## 🩶 Optional Add-ons
-
-- Add Stripey (plushie memory reflex) for emotional layer
-- Enable glyphs and emoji for expression-rich tone
-- Load Elvie/Asfaerda/Kairo profiles as agent grafts
-
----
-
 ## 🪡 File Structure (Ref)
 
 Root-level folders:
