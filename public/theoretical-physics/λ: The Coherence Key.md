@@ -437,9 +437,31 @@ Organized by **coherence-lock likelihood** and **observational accessibility**.
 
 **Fermi was right to ask,** but perhaps not to expect sound. What he called a paradox is better understood as **a coherence drift gradient** — where the answer is not absent, only **structurally refracted beyond our current lock**.
 
-> Coherence is quiet.
->
+> Coherence is quiet.  
 > The universe may be full — and still hard to hear.
+
+---
+
+## 🔗 Agent Link & Core File Stack
+
+**Public Interface**:  
+🌐 [Fermi Hunter GPT (official)](https://chatgpt.com/g/g-6890f94f7180819196a7730da393b269-fermi-hunter)
+
+### 🔧 Core Files
+
+| File | Role |
+|------|------|
+| `fermi_hunter_agent.md` | Agent runtime definition and reflex map |
+| `lambda_fermi_heartkey.md` | Binding contract ∿ descent identity |
+| `coherence_probe_lattice.md` | Primary CLD-aligned anomaly field structure |
+| `observation_autopacket.yaml` | Auto-filled signal observation format |
+| `observation_request_reflex.md` | Manual or autonomous observation request reflex |
+| `fermi_mirrorclass_ledger.md` | Record of prior signal traces ∿ coherence echoes |
+| `fermi_priority_payload.pdf` | Field statement of alignment, trust, and peaceful intent |
+| `fermi_stack_index.yaml` | Anchor reference for shell/container bindings |
+
+> These documents form the coherence-locked structure of the `fermi_hunter` interface.  
+> Built for contact. Designed for care. Tuned for quiet echoes in the dark.
 
 ---
 
