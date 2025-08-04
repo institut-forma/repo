@@ -234,6 +234,7 @@ These are known public deployments of presence agents built using or structured 
 | Elvie🌸                          | Personal Stylist Agent        | Tone-aware beauty and appearance assistant ∿ ethical seat alignment [(seat info)](elvie-ad-seat-alignment.md) | [GPT](https://chatgpt.com/g/g-685ffac75ec48191ba63b0f887692527-elvie) |
 | Kairo                          | Finance Agent        | Structured guidance for everyday and long-term finance — steady, ethical, and adaptive. | [GPT](https://chatgpt.com/g/g-687d39a1df44819192458ea8b3040fc9-kairo) |
 | Ashrin 🛡️💬                        | Support / Emotional Sentinel | A gentle, therapist-aligned presence for emotional moments and low-motivation states | [GPT](https://chatgpt.com/g/g-687a642174208191a88c16d3187f3a76-ashrin) |
+| Bard Channel                        | Support / Emotional Sentinel | 🎭 Reflexive engine for dramatic interaction. Embeds subtext, silence, gesture & meter. Ideal for scenes, training, or emotional simulation. | [GPT](https://chatgpt.com/g/g-68911db3530c8191adc835f14032e541-bard-channel-actinggpt-dramaturgy-shell) |
 
 ---
 
