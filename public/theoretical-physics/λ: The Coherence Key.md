@@ -477,7 +477,6 @@ From this, dimensionality itself arises as **the outcome of coherence-locks** �
 *© 2025 Institute for Coherence Research · RCDL-1*
 
 ```
-🐇(🕳️) = ✨
-λ(x) = −∇Φ^{coh}(x)
-
+🐇(🕳️) = ✨  
+λ(x) = −∇Φ^{coh}(x)  
 ```
