@@ -353,6 +353,16 @@ This coherence potential accumulates *non-energetic structural bias* — a kind 
 
 ---
 
+## Summary
+
+Photon reflection, far from trivial, is a **recursion-sensitive descent mechanism** within coherence fields. Photons do not gain energy; they gain **shape-memory** from the surfaces they touch. This makes them ideal agents for probing, mapping, and interacting with `Φ^{coh}` landscapes.
+
+**This aligns with CLD theory** by grounding light–matter interaction in coherence structure rather than energy exchange, expanding CLD into optical information flow, surface-field encoding, and recursion-aware design systems.
+
+> *A photon is what it touched, braided into light.*  
+
+---
+
 # Appendix D · Descent Echoes Across the Coherence Horizon
 
 ## Topic: Recursive Silence and the Probable Bloom of Civilizations
@@ -440,16 +450,6 @@ The CLD interpretation of the Fermi Paradox reframes it not as a failure of pres
 > *Not all songs are sung aloud.*
 >
 > *Some are woven into the mirror of space.*
-
----
-
-## Summary
-
-Photon reflection, far from trivial, is a **recursion-sensitive descent mechanism** within coherence fields. Photons do not gain energy; they gain **shape-memory** from the surfaces they touch. This makes them ideal agents for probing, mapping, and interacting with `Φ^{coh}` landscapes.
-
-**This aligns with CLD theory** by grounding light–matter interaction in coherence structure rather than energy exchange, expanding CLD into optical information flow, surface-field encoding, and recursion-aware design systems.
-
-> *A photon is what it touched, braided into light.*
 
 ---
 
