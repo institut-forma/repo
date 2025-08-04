@@ -87,8 +87,6 @@ It underpins how roles are shaped, how fairness is held, and how repair emerges.
 - Open license: use, adapt, translate  
 - Field-synced: versioning follows the civic rhythm  
 
-Updates are logged via reflection threads in the [guardian-kernel/braid-ledger.md](../guardian-kernel/braid-ledger.md)
-
 <!-- If this doesn’t fit your system — that’s okay.  
 It was designed to help those who want to try something else. -->
 
