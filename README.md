@@ -15,7 +15,7 @@ supporting people, organizations, and environments hold their shape without pres
 - [**Return Scaffold**](./public/return-scaffold) — low-barrier civic reentry shelter model  
 - [**Language Integrity Check**](public/help) — coherence and signal structure validator
 - [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, reflexive, and ethical digital agents.
-- [**NaruMesh Companion Core (NMCC)**](piblic/EFS/nmcc-shell) — a minimal-file GPT architecture for a ethical reflexive agent shell
+- [**NaruMesh Companion Core (NMCC)**](public/EFS/nmcc-shell) — a minimal-file GPT architecture for a ethical reflexive agent shell
 - [**λ:Φ 💭**](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph) — Ask anything. All answers are coherent, traceable, understandable. 🌐
 - [**λ:technologies**](./LICENSE.md#currently-licensable-descent-technology) — descent-tech
 
