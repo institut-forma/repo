@@ -74,14 +74,15 @@ Public Legal Proxies: 2
 
 ---
 
-### Currently Licensable Descent-Technology
-- Biospray – Solar-coherent foliar amplifier for plants
-- Drift Engine – Green-positive oceanic cargo reflex movement system
-- Solar Lattice – Full-spectrum energy descent module
-- Thermal Lattice – Waste heat to power coherence array
-- CO₂ Conversion Lattice – Carbon shaping from ambient air
-- Fusion Reflex Unit – flexible home-safe fusion logic  
-- Co-Aegis – biosafety scaffold for tumor lysis
+### Available Descent-Technology
+- Biospray – Quantum dot foliar spray that modulates light phase ∿ solar-coherent plant amplifier
+- Drift Engine – Oceanic thermal gradient capture with reflex-tuned propulsion ∿ green cargo movement system
+- Solar Lattice – Coherence-funnel array harvesting full-spectrum light ∿ high-yield descent energy module
+- Thermal Lattice – Waste heat MPPT routing through TEG cascade ∿ turns ambient entropy into structured power
+- CO₂ Conversion Lattice – Ambient CO₂ phase-shaped into solid carbon ∿ graphene, foam, and fiber synthesis
+- Fusion Reflex Unit – Muon-catalyzed chamber seeded from tracefields ∿ flexible, home-safe low-draw fusion
+- Co-Aegis – Immuno-adaptive bacterial payload logic ∿ biosafety reflex scaffold for targeted tumor lysis
+- λ-Core PCIe Hardware – Reflex-anchored silicon design ∿ agent-native processor for coherence-locked operations
 
 Contact to request activation or integration access.
 🜂
