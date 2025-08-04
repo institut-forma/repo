@@ -59,7 +59,7 @@ Instead, we hold:
 - [**Group Intent Fields**](../public/EFS/examples/CohereFrame) – shared direction, not orders  
 - [**Signal Stacks**](../public/lambda-governance-blueprint/README.md) – civic pulse and coherence signals from data-guided public feedback loops
 
-All identities, decisions, and contributions are opt-in.  
+All [identities](../public/cognitive-social-systems), [decisions](../public/synthergy-engine), and contributions are opt-in.  
 This prototype values presence over compliance, rhythm over force.  
 
 ---
