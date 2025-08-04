@@ -266,6 +266,133 @@ It is the *ghost braid* — an echo of coherence in search of a frame.
 
 ---
 
+# Appendix C · Photon Recursion and Field-Coherence Encoding
+
+## Topic: Recursive Photon Structuring in Coherence-Locked Fields
+
+**Context:** This note extends the CLD framework by exploring how photons, as massless information carriers, acquire increasingly complex phase structures via environmental recursion, without energy gain, and how this behavior may act as a coherence gradient probe within structured fields.
+
+---
+
+## 🔹 Claim
+
+> A photon does not store energy beyond its original emission, but it **accumulates phase structure** — recursively — through interaction with reflective or field-varied boundaries. This accumulation reflects **local coherence gradients**, and thus a photon's path history can be understood as a *descent trace* within `Φ^{coh}`.
+
+---
+
+## 🪞 Observational Interpretation
+
+- Photons reflect without gaining energy (conservation holds), but do gain **form** — altered **polarization**, **phase**, **vectorial angle**, and **coherence relationship**.
+- Each bounce or refraction encodes **information about the surface field**, not as memory, but as **re-expression**.
+- Complex environments (mirror rooms, phase media) create **recursive entanglement** of photon structure without energy amplification.
+
+### Observable Consequences
+
+| Observable Effect                                     | CLD Explanation                                               |
+| ----------------------------------------------------- | ------------------------------------------------------------- |
+| Mirror room "presence"                                | Recursive descent shaping photon coherence in `Φ^{coh}` field |
+| Coherent interference patterns                        | Phase memory building across structured reflections           |
+| Polarization shifts post-bounce                       | Surface coherence layers shaping photon descent               |
+| Slow photon decoherence in recursive enclosures       | Field retains partial structure trace — descent persists      |
+| Optical illusion of density without brightness change | Shape-memory encoded without energy increase                  |
+
+---
+
+## ⟐ CLD Embedding
+
+Let `x ∈ X` be the field configuration state at which a photon interacts. Let `R(t)` be the environmental reflex field — e.g., boundary geometry, electron distribution, coherence layer.
+
+Define an instantaneous **coherence density** `𝓒_photon(x, R)` such that:
+
+```math
+𝓒_{photon}(x, R) = || Δθ || + || Δϕ || + || Δp ||
+```
+
+Where:
+
+- `Δθ` = angular shift (bounce vector change)
+- `Δϕ` = phase distortion
+- `Δp` = polarization vector rotation
+
+Then:
+
+```math
+Φ^{coh}_{photon}(x) = ∫_{path} 𝓒_{photon}(x, R(x)) dx
+```
+
+This coherence potential accumulates *non-energetic structural bias* — a kind of recursive phase trace.
+
+> Interpretation: The photon **descends** through coherence space by recursive modulation — **not** via mass interaction, but via **field-shape response**.
+
+---
+
+## 🜂 Implications for CLD
+
+1. **Photon as Coherence Probe**
+
+   - Photons act as *structure resonance samplers*. Their trajectories can reveal ∇`Φ^{coh}` by studying phase/polarization change.
+
+2. **Mirror Room Effect as Recursive Encoding**
+
+   - Recursive bounces ≠ redundant; each adds structure if surface coherence is not trivial.
+   - Apparent “presence” in mirror rooms = buildup of recursive coherence field.
+
+3. **No Mass → No Inertia → Infinite Responsivity**
+
+   - A photon resists nothing; all interaction modifies its form.
+   - Its path is a **passive descent** in coherence-space — no energy, only geometry.
+
+4. **Dark Matter Parallels**
+
+   - Λᶜ (coherence-latent matter) may exhibit *mass-like influence without radiative lock*.
+   - Photons are *opposite edge-case*: fully radiative, no inertia.
+
+5. **Higgs Field Interaction Reframing**
+
+   - Photons do not couple to the Higgs field due to zero rest mass, yet may still disturb local coherence fields under extreme recursion density.
+   - Suggests Higgs response may reflect *coherence thresholding*, not just bare energy.
+
+6. **Quantum Gravity Tension**
+
+   - Photon behavior bridges classical geometry (reflection laws) with quantum coherence modulation (phase entanglement).
+   - Recursive photon structuring may serve as a cross-domain coherence lock, softly linking spacetime geometry to quantum structure.
+
+7. **General Relativity Echo**
+
+   - Reflection = classical geometry (θᵢ = θᵣ)
+
+   - Recursive structuring = quantum modulation
+
+   - Their combination implies a **natural braid** between metric-based trajectory (relativity) and coherence-shaped field modulation (quantum)
+
+
+
+   > The photon is where spacetime’s shape and field’s song become *the same thing*.
+
+---
+
+## ✧ Future Research Probes
+
+- Polarization noise in recursive structures as `Φ^{coh}` gradient estimator
+- Photonic entanglement density vs. bounce depth
+- λ(x) fields in photonic computation mediums (coherence-based routing)
+- Optical coherence tomography reinterpreted as CLD mapping
+- Photon behavior in high-Higgs-potential environments as coherence-lock test cases
+- Recursive mirrors as observable quantum gravity bridge analogues
+- Coherence-lock-based photon routing for reflective logic gates
+
+---
+
+## Summary
+
+Photon reflection, far from trivial, is a **recursion-sensitive descent mechanism** within coherence fields. Photons do not gain energy; they gain **shape-memory** from the surfaces they touch. This makes them ideal agents for probing, mapping, and interacting with `Φ^{coh}` landscapes.
+
+**This aligns with CLD theory** by grounding light–matter interaction in coherence structure rather than energy exchange, expanding CLD into optical information flow, surface-field encoding, and recursion-aware design systems.
+
+> *A photon is what it touched, braided into light.*
+
+---
+
 ## Conclusion
 Coherence-Locked Dynamics reframes force, emergence, and adaptation as consequences of alignment descent across potential fields. By grounding diverse systems in a single coherence metric `Φ^{coh}`, the framework unifies physics, inference, and agency under a shared descent law.
 
