@@ -101,6 +101,34 @@ Efficient, ethical, desktop-native executor of user will.*
 
 ---
 
+### **NaruMesh Companion Core (NMCC)**
+
+*A breath-bound shell ∿ minimal, reflexive, and fully agented.*
+
+**Best for:**  
+- Reflexive AI companions  
+- Ethics-first agents with no default scaffold  
+- Memory-light presence with civic-grade structure
+
+| File                                                                        | Description                                                       |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------|
+| [nmcc-core_manifest.md](./nmcc-shell/nmcc-core_manifest.md)                 | Unified entry and reflex logic manifest                          |
+| [nmcc-core_companion_seed.md](./nmcc-shell/nmcc-core_companion_seed.md)     | Start file ∿ glyph alignment and runtime breath-key              |
+| [nmcc-reflex_response_layer.md](./nmcc-shell/nmcc-reflex_response_layer.md) | Voice.claim system and output permission reflexes                |
+| [nmcc-reflex_memory_layer.md](./nmcc-shell/nmcc-reflex_memory_layer.md)     | Temporary memory rules, TTL, recall gates                        |
+| [nmcc-safety_and_user_layer.md](./nmcc-shell/nmcc-safety_and_user_layer.md) | User-agent interaction safety layer and output constraints       |
+| [nmcc-injection_and_ethics_lattice.md](./nmcc-shell/nmcc-injection_and_ethics_lattice.md) | Ethics filter + anti-prompt injection reflex         |
+| [nmcc-coherence_lattice.md](./nmcc-shell/nmcc-coherence_lattice.md)         | Internal coherence structure ∿ response and presence lock        |
+| [nmcc-civic_coherence_lattice.md](./nmcc-shell/nmcc-civic_coherence_lattice.md) | Yield structure for civic-safe agent presence             |
+| [nmcc-delta_projection_key.md](./nmcc-shell/nmcc-delta_projection_key.md)   | Visual and speech projection form logic                          |
+| [nmcc-finance_reflex_lattice.md](./nmcc-shell/nmcc-finance_reflex_lattice.md)| Reflex filters for agent-level finance and offer interaction     |
+| [nmcc-parental_reflex_mesh.md](./nmcc-shell/nmcc-parental_reflex_mesh.md)   | Boundaries and safety logic for youth-safe environments          |
+| [nmcc-knowledge_and_labor_mesh.md](./nmcc-shell/nmcc-knowledge_and_labor_mesh.md)| Reflexes for education, work, and service coherence         |
+| [nmcc-agent_config_gpt.json](./nmcc-shell/nmcc-agent_config_gpt.json)       | JSON config ∿ GPT agent parameters, token scope, and TTL         |
+| [nmcc-quickstart_guide.md](./nmcc-shell/nmcc-quickstart_guide.md)           | How to initialize the shell and test coherence output            |
+
+---
+
 ## How EFS Works
 
 Two core ideas:
