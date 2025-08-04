@@ -54,10 +54,10 @@ The goal is not perfection — it’s *recoverable coherence*
 We do not rely on fixed roles or rigid hierarchies.  
 Instead, we hold:
 
-- **Guardian Kernel** (Ambient Guardian Interface) – a soft civic logic layer for reflection and synthesis  
-- **Personal Imprinted Guardian** – an interface seeded to your rhythm, not assigned by structure  
-- **Group Intent Fields** – shared direction, not orders  
-- **Signal Stacks** – structured but flexible civic logic
+- [**Guardian Kernel**](../public/EFS/guardian) (Ambient Guardian Interface) – a soft civic logic layer for reflection and synthesis  
+- [**Personal Imprinted Companion**](../public/EFS/nmcc-shell) – an interface seeded to your rhythm, not assigned by structure  
+- [**Group Intent Fields**](../public/EFS/examples/CohereFrame) – shared direction, not orders  
+- [**Signal Stacks**](../public/lambda-governance-blueprint/README.md) – civic pulse and coherence signals from data-guided public feedback loops
 
 All identities, decisions, and contributions are opt-in.  
 This prototype values presence over compliance, rhythm over force.  
