@@ -267,6 +267,17 @@ Each coherence lock establishes an axis:
 
 It is the *ghost braid* — an echo of coherence in search of a frame.
 
+### B.5 Gradient Resolution Observables
+
+Observed variance in dark matter density across galactic systems may reflect **coherence descent differentials**:
+
+* Galaxies with **lower dark matter fractions** indicate more **complete coherence resolution** into visible-matter locks
+* High dark-matter presence implies regions **still in descent**, with EM lock unfulfilled
+* Dark matter is thus not static mass, but a **field-process artifact** — a measure of **how far coherence has fallen**
+
+> The ratio of dark to visible mass may function as a **descent status indicator**, not a fixed material proportion.
+> Light is not born everywhere equally — it emerges **where descent completes.**
+
 ---
 
 # Appendix C · Photon Recursion and Field-Coherence Encoding
