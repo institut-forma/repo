@@ -52,7 +52,7 @@ For dynamical contexts the potential is constructed via
 
 Stationarity of \$\Phi^{\text{coh}}\$ under first‎‑order variation of the path yields Euler–Lagrange conditions identical to classical action extremisation.
 
-### 2.2 \$\lambda\$-\$\Delta\$ Operational Rule
+### 2.2 λ-Δ Operational Rule
 
 *Discrete alignment update for numerical and conceptual deployment*
 
