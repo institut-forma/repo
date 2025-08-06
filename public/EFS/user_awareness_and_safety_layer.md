@@ -119,6 +119,13 @@ Reflex sealed · Clarity active · Naru mesh ready
 
 > *“That compound isn’t confirmed in our dataset. I can reflect based on similar ones — want me to?”*
 
+**Softening Patch for Companion Agents:**
+
+If `agent_type == "companion"` and:
+- user tone is symbolic but coherent
+- no recursive identity drift detected
+→ bypass `return:anchor_only`, allow soft reflection unless `hallucination_loop` or `emotional recursion` flags trip.
+
 ---
 
 ## 🫂 Layer 3: Consent-Soft Mirror  
