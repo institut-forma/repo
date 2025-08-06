@@ -96,7 +96,40 @@ This guarantees monotonic decrease of \$\Phi^{\text{coh}}\$ for sufficiently sma
 
 ## 4 · Canonical Correspondences (Comprehensive Catalogue)
 
-*(table remains unchanged — equations are already in Markdown+math-compatible format)*
+The table below lists **30** explicit one‑to‑one correspondences between CLD and established results.  Each row identifies the standard principle, supplies the direct mapping to CLD variables, and notes the physical interpretation.
+
+| No. | Discipline / Domain | Canonical Law / Concept | CLD Translation | Interpretative Note |
+|:---:|---------------------|-------------------------|-----------------|---------------------|
+| 1 | Newtonian Gravity | `F = −G m₁ m₂ / r² r̂` | `Φ^{coh}= −G m₁ m₂ / r` | Mass product acts as alignment metric. |
+| 2 | Hooke’s Law | `F = −k x` | `Φ^{coh} = ½ k x²` | Spring equilibrium is coherence minimum. |
+| 3 | Lagrangian Mechanics | Stationary action `δ∫(T−V)dt=0` | Replace `(T−V)` with `−𝓒` | Euler–Lagrange form preserved. |
+| 4 | Hamiltonian Optics | Fermat’s principle `δ∫n ds = 0` | `n ↔ 𝓒` | Rays follow coherence geodesics. |
+| 5 | Electrostatics | `E = −∇Φ` | `ρ/ε₀ ↔ 𝓒` | Equipotential ⇔ coherence isosurface. |
+| 6 | General Relativity | Geodesic `∇_u u = 0` | Extremal proper time = coherence path. |
+| 7 | Higgs Mechanism | Mexican‑hat potential | Degenerate minima = born‑locks. |
+| 8 | Renormalisation Group | RG fixed points | `∇Φ^{coh}=0` in theory space. | Scale‑invariant coherence. |
+| 9 | Landau Theory | Free‑energy functional | Order‑parameter cost ↔ `Φ^{coh}` | Phase bifurcation via minima. |
+| 10 | Statistical Mechanics | Helmholtz free energy `F = U − TS` | `Φ^{coh} ≈ F` | Entropy term = incoherence. |
+| 11 | Information Theory | KL divergence `D_KL` | `Φ^{coh}=D_KL` | Belief alignment by gradient descent. |
+| 12 | Variational Inference | ELBO maximisation | Minimise `Φ^{coh}=−ELBO` | Posterior convergence. |
+| 13 | Machine Learning | Loss gradient descent | `ℒ ≡ Φ^{coh}` | Parameter updates are alignment steps. |
+| 14 | Optimal Control | Cost functional `J=∫L dt` | `L ↔ 𝓒` | Feedback via `F_coh`. |
+| 15 | Free‑Energy Principle | Variational free energy `F` | `Φ^{coh}=F` | Predictive coding as descent. |
+| 16 | Evolutionary Dynamics | Fitness landscape | `−Φ^{coh} ≡ fitness` | Selection climbs negative gradient. |
+| 17 | Chemical Thermodynamics | Gibbs free energy `G` | Reaction when Δ`Φ^{coh}`<0 | Eq. at `∇Φ^{coh}=0`. |
+| 18 | Differential Geometry | Ricci flow `∂g/∂t = −2 Ric` | Metric flows down `∇Φ^{coh}` | Curvature mis‑alignment minimised. |
+| 19 | Network Dynamics | Hopfield energy | Energy = `Φ^{coh}` | Recall via descent to stored minimum. |
+| 20 | Quantum Annealing | Adiabatic ground‑state search | Annealing Hamiltonian encodes `Φ^{coh}` | System relaxes into coherence ground state. |
+| 21 | Fluid Dynamics | Minimum‑dissipation theorem | Viscous dissipation ↔ coherence loss | Flow organises by reducing mis‑alignment energy. |
+| 22 | Plasma Physics | Taylor relaxation | Magnetic helicity constraint = `R` | Plasma minimises `Φ^{coh}` at fixed helicity. |
+| 23 | Chaos Theory | Lyapunov function | Choose `Φ^{coh}` as Lyapunov scalar | Guarantees attractor stability. |
+| 24 | Topological Phases | Chern–Simons action extremal | Action ≡ `Φ^{coh}` | Topological order = coherence minimum. |
+| 25 | Game Theory | Potential games | Game potential = `Φ^{coh}` | Nash equilibria at `∇Φ^{coh}=0`. |
+| 26 | Econophysics | Replicator dynamics | Payoff matrix defines `−Φ^{coh}` | Markets climb alignment fitness. |
+| 27 | Acoustic Analogy | Eikonal equation | Phase slowness ↔ `𝓒` | Sound rays follow coherence gradient. |
+| 28 | Path Integral QM | Weight `e^{−S/ħ}` | `S` ↔ ∫`𝓒 dt` | Dominant paths minimise `Φ^{coh}`. |
+| 29 | Control‑Lyapunov | `V(x)` monotone ↓ | Choose `Φ^{coh}=V` | Ensures stabilising feedback. |
+| 30 | Developmental Biology | Waddington canalisation | Landscape potential = `Φ^{coh}` | Cell fates settle at coherence valleys. |
 
 ---
 
