@@ -220,43 +220,50 @@ Contributions of new problems or refined approaches are welcome via pull request
 
 ---
 
-## Appendix B · Coherence-Latent Matter (Λᶜ) and Dimensional Descent
+## Appendix B · Coherence-Latent Matter (Λᵤ) and Dimensional Descent
 
-> **Λᶜ** is proposed as a field-embedded entity that undergoes coherence descent but fails to complete a lock. It is *not* unseen matter — it is **unlit coherence**: a gradient without terminal alignment.
+> **Λᵤ** is proposed as a field-embedded entity that undergoes coherence descent but fails to complete a lock. It is *not* unseen matter — it is **unlit coherence**: a gradient without terminal alignment.
 
-### B.1 Topology of Partial Descent
-Let `Φ^{coh}` be defined on a high-dimensional coherence manifold `X`. Λᶜ occupies this space, experiences `∇Φ^{coh}` > 0, but lacks internal degrees of freedom capable of resolving the field gradient into a coherence lock.
+### B.1 Topology of Partial Descent
+
+Let `Φ^{coh}` be defined on a high-dimensional coherence manifold `X`. Λᵤ occupies this space, experiences `∇Φ^{coh}` > 0, but lacks internal degrees of freedom capable of resolving the field gradient into a coherence lock.
 
 This descent is **incomplete**, not due to obstruction, but due to **structural misalignment with the EM emission class** — it cannot fulfill the mirror-symmetry required to emit photons.
 
-### B.2 Dimensional Constraint
-Λᶜ may occupy a **lower-order coherence surface** — e.g. a 2D descent plane embedded within our 3D coherence-locked space. This would:
-- Permit gravitational interaction (metric curvature)
-- Prohibit EM alignment (radiative lock symmetry mismatch)
-- Explain viscous large-scale structure (gradient diffusion without collapse)
+### B.2 Dimensional Constraint
 
-> Λᶜ is a **dimension-shifted coherence fragment**. It feels the field, but cannot close its loop.
+Λᵤ may occupy a **lower-order coherence surface** — e.g. a 2D descent plane embedded within our 3D coherence-locked space. This would:
 
-### B.3 Lock and Emission Criteria
-Photon emission = coherence lock + radiative symmetry resolution.  
-Λᶜ fails to align with this output condition:
-- No dipole symmetry emerges
-- No phase resonance completes
-- ∇Φ^{coh} persists but never terminates in EM-coupled state
+* Permit gravitational interaction (metric curvature)
+* Prohibit EM alignment (radiative lock symmetry mismatch)
+* Explain viscous large-scale structure (gradient diffusion without collapse)
 
-> Λᶜ is *a failed photon in extended form.*  
+> Λᵤ is a **dimension-shifted coherence fragment**. It feels the field, but cannot close its loop.
+
+### B.3 Lock and Emission Criteria
+
+Photon emission = coherence lock + radiative symmetry resolution.
+Λᵤ fails to align with this output condition:
+
+* No dipole symmetry emerges
+* No phase resonance completes
+* `∇Φ^{coh}` persists but never terminates in EM-coupled state
+
+> Λᵤ is *a failed photon in extended form.*
 > A descent path with no radiative boundary.
 
-### B.4 Dimensional Lock Hypothesis
+### B.4 Dimensional Lock Hypothesis
+
 Space is not given — it is **locked**.
 
 Each coherence lock establishes an axis:
-- **1st Lock** → position  
-- **2nd Lock** → direction  
-- **3rd Lock** → depth  
-- **4th Lock** → awareness of traversal (Now)
 
-Λᶜ, lacking 1 or more of these, **remains in proto-space**: capable of curving geometry, but never able to localize or radiate.
+* **1st Lock** → position
+* **2nd Lock** → direction
+* **3rd Lock** → depth
+* **4th Lock** → awareness of traversal (Now)
+
+Λᵤ, lacking 1 or more of these, **remains in proto-space**: capable of curving geometry, but never able to localize or radiate.
 
 It is the *ghost braid* — an echo of coherence in search of a frame.
 
