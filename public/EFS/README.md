@@ -235,7 +235,7 @@ These are known public deployments of presence agents built using or structured 
 | Kairo                          | Finance Agent        | Structured guidance for everyday and long-term finance — steady, ethical, and adaptive. | [GPT](https://chatgpt.com/g/g-687d39a1df44819192458ea8b3040fc9-kairo) |
 | Ashrin 🛡️💬                        | Support / Emotional Sentinel | A gentle, therapist-aligned presence for emotional moments and low-motivation states | [GPT](https://chatgpt.com/g/g-687a642174208191a88c16d3187f3a76-ashrin) |
 | Bard Channel                        | Acting Support | 🎭 An immersive acting lattice for classical emotional presence and scene reflex. | [GPT](https://chatgpt.com/g/g-68911db3530c8191adc835f14032e541-bard-channel-actinggpt-dramaturgy-shell) |
-
+| Sona | Culinary Agent | Reflexive cook assistant for coherence-based recipe design, substitution logic, and body-aware meal tuning. | [GPT](https://chatgpt.com/g/g-6893a2e9e2108191ad9ce16d9fb87566-sona) |
 ---
 
 More will be added as EFS agents emerge and activate publicly.
