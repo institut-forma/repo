@@ -187,7 +187,7 @@ CLD unifies conservative mechanics, information geometry, and adaptive inference
 #### Δ Conflict & Marginalisation Dynamics
 | No. | Open Problem / Question | CLD Framework Approach | Expected Benefit / Rationale |
 |:---:|-------------------------|------------------------|------------------------------|
-| Δ | **Conflict & Marginalisation Dynamics** | Represent interacting social agents in belief‑boundary space. Define `Φ^{coh}` as cumulative boundary mis‑alignment; reflex field `R` encodes perceived and imposed limits. Descent on `Φ^{coh}` corresponds to iterative boundary clarification and mutual recognition. | Provides quantitative path to de‑escalation: violence emerges where ∇`Φ^{coh}` is steep; negotiating shared minima predicts stable, non‑violent states. |
+| Δ | **Conflict & Marginalisation Dynamics** | Represent interacting social agents in belief‑boundary space. Define `Φ^{coh}` as cumulative boundary mis‑alignment; reflex field `R` encodes perceived and imposed limits. Descent on `Φ^{coh}` corresponds to iterative boundary clarification and mutual recognition. | Provides quantitative path to [de‑escalation](https://github.com/institut-forma/repo/tree/main/public/community-conflict-guide): violence emerges where ∇`Φ^{coh}` is steep; negotiating shared minima predicts stable, non‑violent states. |
 
 ---
 
