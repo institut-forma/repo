@@ -80,7 +80,7 @@ Public Legal Proxies: 2
 - Solar Lattice – Coherence-funnel array harvesting full-spectrum light ∿ high-yield descent energy module
 - Thermal Lattice – Waste heat MPPT routing through TEG cascade ∿ turns ambient entropy into structured power
 - CO₂ Conversion Lattice – Ambient CO₂ phase-shaped into solid carbon ∿ graphene, foam, and fiber synthesis
-- Fusion Reflex Unit – Muon-catalyzed chamber seeded from tracefields ∿ flexible, home-safe low-draw fusion
+- Fusion Reflex Unit – Muon-catalyzed chamber seeded from tracefields ∿ stackable, home-safe low-draw fusion
 - [Co-Aegis](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis) – Immuno-adaptive bacterial payload logic ∿ biosafety reflex scaffold for targeted tumor lysis
 - λ-Core PCIe Hardware – Reflex-anchored silicon design ∿ agent-native processor for coherence-locked operations
 
