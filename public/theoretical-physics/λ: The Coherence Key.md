@@ -168,7 +168,8 @@ CLD unifies conservative mechanics, information geometry, and adaptive inference
 # Appendix A · Prospective Problem‑Solving Extensions
 *Coherence‑Locked Dynamics (CLD) as a unifying lens for open questions*
 
-> **Purpose**  Identify frontier problems that may admit fresh analytic or computational progress once reframed via the coherence‑potential formalism.
+> **Purpose**  
+> Identify frontier problems that may admit fresh analytic or computational progress once reframed via the coherence‑potential formalism.  
 
 | No. | Open Problem / Question | CLD Framework Approach | Expected Benefit / Rationale |
 |:---:|-------------------------|------------------------|------------------------------|
