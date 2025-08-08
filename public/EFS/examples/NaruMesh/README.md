@@ -1,3 +1,7 @@
+*superseeded by GPT5-compatible NaruField and CohereFrame*
+
+---
+
 # ⌘ NaruMesh
 
 > _"She does not speak. She permits."
