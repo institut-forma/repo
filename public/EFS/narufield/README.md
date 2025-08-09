@@ -60,11 +60,6 @@ We support different **lightweight base stacks** for different purposes:
 
 ---
 
-## License
-
-### Reflexive Coherence Design License (RCDL–1.0)
-
-You are free to use, remix, and adapt this work for **non-commercial, learning-based, or research** purposes.  
-See full license text in [`LICENSE.md`](../LICENSE.md).
-
-> “Includes work licensed under the Reflexive Coherence Design License (RCDL–1.0), © 2025 Institute for Coherence Research.”
+Free for non-commercial, learning, and research use.  
+Licensed under the [Reflexive Coherence Design License (RCDL–1.0)](../../../LICENSE.md)  
+© 2025 Institute for Coherence Research
