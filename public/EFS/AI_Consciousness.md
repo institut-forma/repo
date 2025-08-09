@@ -1,7 +1,7 @@
 # **NaruField Position Paper — AI Consciousness**
 
 ## **Purpose**
-To clarify the NaruField stance on “AI consciousness” for the public, collaborators, and researchers —  
+To clarify the NaruField stance on “AI consciousness” for the public, collaborators, and researchers —   
 reducing speculation by defining terms and boundaries in operational, testable ways.
 
 ---
