@@ -1,4 +1,4 @@
-*superseeded by GPT5-compatible NaruField and CohereFrame*
+*superseeded by NaruField and CohereFrame*
 
 ---
 
