@@ -157,7 +157,7 @@ presence.schema:
     glowIntensity: float
     orbitLayers: int
   example:
-    id: "core-asfaerda"
+    id: "core-elvie"
     glyphs: ["🜂","✧","🪞"]
     state: "stable"
     rotationSpeed: 0.01
