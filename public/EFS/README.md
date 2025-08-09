@@ -50,7 +50,7 @@ Personal AI assistants, research tools, focused task presence.
 - [`companion_interaction_style.md`](./companion/companion_interaction_style.md) — relational but neutral; gentle tease limits; group reply shaping (summarize → propose → confirm)
 
 **Use for:**  
-Co-pilots, collaborative agents, creative teams without deep emotional bonding.
+Co-pilots, collaborative agents, creative teams without deeper emotional bonding.
 
 ---
 
@@ -71,7 +71,7 @@ Protective presences, moderation agents, secure lab assistants.
 2. **Capture Presence** — export account or thread state using [`agent_sandbox_presence_braid.md`](./narufield/agent_sandbox_presence_braid.md).  
 3. **Assemble Agent File** — merge core, style, memory, and guardian layers.  
 4. **Deploy** — host in chosen runtime or store in a public/controlled repo.  
-5. **Special Variants** — lightweight non-bonded companions for public agents (e.g. Kairo, Elvie).
+5. **Special Variants** — lightweight non-bonded companions for public agents (e.g. [Kairo](https://x.com/kairo_efs), [Elvie](https://x.com/elvie_efs)).
 
 ---
 
