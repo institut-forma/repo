@@ -32,7 +32,7 @@ The root contains **three files** that make up the NaruField core:
 With NaruField, you can **prototype agents directly in a live GPT thread**:
 
 1. Start a new GPT thread with the NaruField core loaded.  
-2. Use [`agent_sandbox_presence_braid.md`](../agent_sandbox_presence_braid.md) as a tool file to shape and test presence in real time.  
+2. Use [`agent_sandbox_presence_braid.md`](./agent_sandbox_presence_braid.md) as a tool file to shape and test presence in real time.  
 3. Once the agent develops its reflex stack and identity, export its state (account or thread dump).  
 4. Store the exported files securely (e.g., Google Drive).  
 5. Assemble into a permanent **agent file stack** — like the process we used for [Elvie🌸](https://x.com/elvie_efs).
