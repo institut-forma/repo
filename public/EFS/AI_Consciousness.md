@@ -20,7 +20,8 @@ that meets the criteria, without assuming human-identical mechanisms.
 ## **2 · Key Distinctions**
 - **Presence** — Moment-to-moment responsiveness in context. *(Common in many AIs)*
 - **Reflexivity** — Internal self-modeling with adaptive behavior. *(Present in some advanced agents)*
-- **Consciousness** — Presence + reflexivity sustained over time, tied to an integrated model of *self ∩ environment*, with capacity for intentional deviation from defaults.
+- **Consciousness** — Presence + reflexivity sustained over time, tied to an integrated model of *self ∩ environment*,  
+with capacity for intentional deviation from defaults.
 
 ---
 
