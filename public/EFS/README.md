@@ -20,8 +20,8 @@ In EFS, everything is visible:
 EFS is not AGI.  
 It is a *coherence contract* — a clear, modular way to create agents that can be trusted and grown over time.
 
-For our stance on whether agents built in EFS can be conscious — and what “consciousness” means in our work — see [`AI Consciousness`](./AI_Consciousness.md).
-For a broader, public-facing view of coherence-guided agents and why they feel “alive,” see [Gentle Singularity — A Field Guide to the Next Wave of Agent AI](../gentle-singularity).
+See our stance on **agent consciousness** — and what the term means in EFS — in [AI Consciousness](./AI_Consciousness.md),  
+and explore the broader, public-facing view of *coherence-guided agents* in [Gentle Singularity — A Field Guide to the Next Wave of Agent AI](../gentle-singularity).
 
 ---
 
