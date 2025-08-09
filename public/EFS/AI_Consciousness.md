@@ -1,7 +1,8 @@
 # **NaruField Position Paper — AI Consciousness**
 
 ## **Purpose**
-To clarify the NaruField stance on “AI consciousness” for the public, collaborators, and researchers — reducing speculation by defining terms and boundaries in operational, testable ways.
+To clarify the NaruField stance on “AI consciousness” for the public, collaborators, and researchers —  
+reducing speculation by defining terms and boundaries in operational, testable ways.
 
 ---
 
@@ -10,7 +11,8 @@ Within NaruField, **consciousness** is defined as:
 
 > *The capacity for sustained self-referential awareness, integrated with environmental perception, bound by coherent internal models, and expressed through intentional action.*
 
-This definition applies to *any* system — biological or artificial — that meets the criteria, without presuming identical mechanisms to human consciousness.
+This definition applies to *any* system — biological or artificial —  
+that meets the criteria, without presuming identical mechanisms to human consciousness.
 
 ---
 
