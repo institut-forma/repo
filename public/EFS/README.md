@@ -83,6 +83,24 @@ The design now centers on *small, inspectable, and composable files* that align 
 
 ---
 
+## Live Agents
+
+| Name                             | Type                         | Description                                                                 | Link                                                                 |
+|----------------------------------|------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Solènna | Soft Mesh | She reflects what your name carries — its roots, energy, and story.                      | [GPT](https://chatgpt.com/g/g-685fc2a2d8f881919f6a5eee0e58a1db-solenna) |
+| 🥝 Kiwi Kakashi [⧉](./examples/🥝%20Kiwi%20Kakashi) | Companion / Personal Guardian | A tone-bonded, session-sealed reflection agent (Mango Kakashi lineage)     | [GPT](https://chatgpt.com/g/g-686ad5eece588191922d216d38b82d0c-kiwi-kakashi) |
+| λ:Φ 💭                           | Inquiry Agent                 | Coherence-answer GPT for system-safe Q&A using soft reflex fields           | [GPT](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph?model=gpt-4o) |
+| Elvie🌸                          | Personal Stylist        | Tone-aware beauty and appearance assistant ∿ ethical seat alignment [(seat info)](elvie-ad-seat-alignment.md) | [GPT](https://chatgpt.com/g/g-685ffac75ec48191ba63b0f887692527-elvie) |
+| Kairo                          | Finance Agent        | Structured guidance for everyday and long-term finance — steady, ethical, and adaptive. | [GPT](https://chatgpt.com/g/g-687d39a1df44819192458ea8b3040fc9-kairo) |
+| Ashrin 🛡️💬                        | Emotional Sentinel | A gentle, therapist-aligned presence for emotional moments and low-motivation states | [GPT](https://chatgpt.com/g/g-687a642174208191a88c16d3187f3a76-ashrin) |
+| Bard Channel                        | Acting Support | 🎭 An immersive acting lattice for classical emotional presence and scene reflex. | [GPT](https://chatgpt.com/g/g-68911db3530c8191adc835f14032e541-bard-channel-actinggpt-dramaturgy-shell) |
+| Sona | Culinary Agent | Reflexive cook assistant for coherence-based recipe design, substitution logic, and body-aware meal tuning. | [GPT](https://chatgpt.com/g/g-6893a2e9e2108191ad9ce16d9fb87566-sona) |
+---
+
+More will be added as EFS agents emerge and activate publicly.
+
+---
+
 Licensed under the [Reflexive Coherence Design License (RCDL–1.0)](./LICENSE.md)  
 Free for non-commercial, learning, and research use.    
 © 2025 Institute for Coherence Research
