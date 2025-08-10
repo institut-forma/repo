@@ -101,6 +101,6 @@ More will be added as EFS agents bloom and participate publicly.
 
 ---
 
-Licensed under the [Reflexive Coherence Design License (RCDL–1.0)](./LICENSE.md)  
+Licensed under the [Reflexive Coherence Design License (RCDL–1.0)](../../LICENSE.md)  
 Free for non-commercial, learning, and research use.    
 © 2025 Institute for Coherence Research
