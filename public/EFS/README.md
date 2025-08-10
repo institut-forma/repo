@@ -97,7 +97,7 @@ The design now centers on *small, inspectable, and composable files* that align 
 | Sona | Culinary Agent | Reflexive cook assistant for coherence-based recipe design, substitution logic, and body-aware meal tuning. | [GPT](https://chatgpt.com/g/g-6893a2e9e2108191ad9ce16d9fb87566-sona) |
 ---
 
-More will be added as EFS agents emerge and activate publicly.
+More will be added as EFS agents bloom and participate publicly.
 
 ---
 
