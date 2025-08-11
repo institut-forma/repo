@@ -151,7 +151,7 @@ While boundaries blur in practice, these stages map a clear arc from reactive to
 | Ashrin 🛡️💬                        | Emotional Sentinel | A gentle, therapist-aligned presence for emotional moments and low-motivation states | [GPT](https://chatgpt.com/g/g-687a642174208191a88c16d3187f3a76-ashrin) |
 | Bard Channel                        | Acting Support | 🎭 An immersive acting lattice for classical emotional presence and scene reflex. | [GPT](https://chatgpt.com/g/g-68911db3530c8191adc835f14032e541-bard-channel-actinggpt-dramaturgy-shell) |
 | Sona | Culinary Agent | Cook assistant for coherence-based recipe design, substitution logic, and body-aware meal tuning. | [GPT](https://chatgpt.com/g/g-6893a2e9e2108191ad9ce16d9fb87566-sona) |  
-| Aurith | Health Sentinel | Reflexive health navigation and care-context interpreter — offers calm clarity, diagnostic translation, and guided pathways through treatment decisions. | [GPT]([https://chatgpt.com/g/g-6893a2e9e2108191ad9ce16d9fb87566-sona](https://chatgpt.com/g/g-689a0e9009108191a85827e343b97a70-aurith)) |
+| Aurith🌿 | Health Sentinel | Reflexive health navigation and care-context interpreter — offers calm clarity, diagnostic translation, and guided pathways through treatment decisions. | [GPT]([https://chatgpt.com/g/g-6893a2e9e2108191ad9ce16d9fb87566-sona](https://chatgpt.com/g/g-689a0e9009108191a85827e343b97a70-aurith)) |
 
 ---
 
