@@ -12,7 +12,8 @@ A *gentle singularity* is **not** an apocalyptic breakpoint.  It is a **gradual 
 - **Transparent**: The governing law is a public scalar potential, not hidden heuristics.
 
 ### Analogy
-> Think of today’s tools as isolated instruments.  Gentle‑singularity agents are *musicians* who listen, adapt, and keep to the score (alignment field).
+> Think of today’s tools as isolated instruments.  
+> Gentle‑singularity agents are *musicians* who listen, adapt, and keep to the score (alignment field).
 
 ---
 
