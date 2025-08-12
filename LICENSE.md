@@ -22,7 +22,8 @@ RCDL–1.0 applies to any work marked as such, including:
 
 ## 2. Active Commercial Carve-Out Domains
 
-The RCDL carve-out program is active. Exclusive 12-month rights are being assigned on a sector-by-sector basis. Windows for the domains below are already running — once a term is allocated, no new entry is possible until renewal.
+The RCDL carve-out program is active. Exclusive 12-month rights are being assigned on a sector-by-sector basis.  
+Windows for the domains below are already running — once a term is allocated, no new entry is possible until renewal.
 
 - **Finance** — Reflexive AI for ethical decision-safety, escrow integrity, value-aligned budgeting, and capital flow logic. Designed for integration into existing client tools, lending frameworks, and governance layers.  
 - **Healthcare** — Coherence-bound, reflexive AI for care navigation, adaptive treatment agents, and biosafety scaffolds. Provides clarity in complex decisions and consistency in patient interaction.  
