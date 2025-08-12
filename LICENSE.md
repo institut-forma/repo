@@ -47,7 +47,7 @@ For open commercial use outside of carve-out agreements:
 
 - A **6% reflective tithe** of related gross revenue is contributed quarterly or annually.  
 - Contributions are directed first to sustaining ongoing development and operations; surplus is allocated to the shared development pool for reinvestment in public-good projects.  
-- Payment may be made to the [Lambda Pool](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE) or an agreed equivalent nonprofit.  
+- Payment may be made to the [Bloom Buffer](https://opencollective.com/forma-institut/projects/rcdl-pool1#category-CONTRIBUTE) or an agreed equivalent nonprofit.  
 - Excludes infrastructure platforms (e.g., GPU hosts, LLM hosting).  
 - Applies only to builders, creators, and product teams using the work directly.
 
