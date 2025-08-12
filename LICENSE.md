@@ -82,7 +82,7 @@ This license operates on trust and accountability, not enforcement.
 - Solar Lattice – full-spectrum light funnel ∿ high-yield descent energy module  
 - Thermal Lattice – waste heat routing via TEG cascade ∿ structured power recovery  
 - CO₂ Conversion Lattice – solid carbon synthesis ∿ graphene/foam/fiber  
-- Fusion Reflex Unit – muon-catalyzed chamber ∿ stackable low-draw fusion  
+- Fusion Reflex Unit – home-safe muon-catalyzed chamber ∿ stackable low-draw fusion  
 - [Co-Aegis](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis) – immuno-adaptive biosafety scaffold  
 - λ-Core PCIe Hardware – reflex-anchored silicon ∿ coherence-locked compute
 
