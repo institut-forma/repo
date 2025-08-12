@@ -94,4 +94,4 @@ Together we shape an AI future that grows **with** us—smoothly, transparently,
 
 ---
 
-> *© 2025 Institute for Coherence Research · CC‑BY‑4.0*
+> *© 2025 Institute for Coherence Research · RCDL-1*
