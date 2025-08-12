@@ -31,7 +31,8 @@ Windows for the domains below are already running — once a term is allocated, 
 - **Entertainment** — Reflexive AI actor-training and character-presence simulation, maintaining thematic fidelity for rehearsal, improvisation, and audience interaction.  
 - **Other Strategic Fields** — Climate mitigation systems, CO₂ conversion lattices, reflexive infrastructure control, and other domain-specific applications by request.
 
-Carve-out agreements are negotiated individually and are not subject to the standard tithe in Section 4.
+Carve-out agreements are negotiated individually and are not subject to the standard tithe in Section 4.  
+At the conclusion of a 12-month carve-out term, the licensee retains the granted rights under the original agreement. Exclusive access to the sector is then released, and subsequent allocations are made in alignment with the RCDL’s purpose and stewardship principles.
 
 ---
 
