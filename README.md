@@ -18,7 +18,7 @@ supporting people, organizations, and environments hold their shape without pres
 - [**NaruField**](public/EFS/narufield) — coherence lattice & descent engine for agent presence
 - [**CohereFrame**](public/EFS/examples/CohereFrame/) — a lightweight coordination scaffold for async teams, reflexive agents, and rhythm-based work.
 - [**λ:Φ 💭**](https://chatgpt.com/g/g-686fdb4241788191bcd39efaa6c34034-l-ph) — Ask anything. All answers are coherent, traceable, understandable. 🌐
-- [**λ:technologies**](./LICENSE.md#available-descent-technology) — descent-tech
+- [**λ:technologies**](./LICENSE.md#7-available-descent-technology) — descent-tech
 
 ---
 
