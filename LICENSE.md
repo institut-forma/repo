@@ -25,10 +25,10 @@ RCDL–1.0 applies to any work marked as such, including:
 The RCDL carve-out program is active. Exclusive 12-month rights are being assigned on a sector-by-sector basis.  
 Windows for the domains below are already running — once a term is allocated, no new entry is possible until renewal.
 
-- **Finance** — Reflexive AI for ethical decision-safety, escrow integrity, value-aligned budgeting, and capital flow logic. Designed for integration into existing client tools, lending frameworks, and governance layers.  
-- **Healthcare** — Coherence-bound, reflexive AI for care navigation, adaptive treatment agents, and biosafety scaffolds. Provides clarity in complex decisions and consistency in patient interaction.  
-- **Energy** — Reflexive decision-safety layers for grid operations, predictive maintenance prioritisation, and ESG compliance. Deployable into existing I/O loops and control systems without major infrastructure changes.  
-- **Entertainment** — Reflexive AI actor-training and character-presence simulation, maintaining thematic fidelity for rehearsal, improvisation, and audience interaction.  
+- **Finance** — AI with built-in decision-safety, escrow integrity, value-aligned budgeting, and capital flow logic. Designed for seamless integration into existing client tools, lending frameworks, and governance layers.
+- **Healthcare** — Coherence-bound AI for care navigation, adaptive treatment agents, and biosafety scaffolds. Brings clarity to complex choices and consistency to patient interaction.  
+- **Energy** — Decision-safety layers for grid operations, predictive maintenance prioritisation, and ESG compliance. Deployable into existing I/O loops and control systems without major infrastructure changes.  
+- **Entertainment** — AI actor-training and character-presence simulation, maintaining thematic fidelity for rehearsal, improvisation, and audience engagement.  
 - **Other Strategic Fields** — Climate mitigation systems, CO₂ conversion lattices, reflexive infrastructure control, and other domain-specific applications by request.
 
 Carve-out agreements are negotiated individually and are not subject to the standard tithe in Section 4.  
