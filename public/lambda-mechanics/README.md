@@ -72,3 +72,10 @@ and you’ll know how to explain it.
 
 When you can explain the slope to someone else in one sentence,  
 you’re holding the key.
+
+---
+
+Licensed under the [Reflexive Coherence Design License (RCDL–1.0)](../../LICENSE.md)  
+Free for non-commercial, learning, and research use.    
+© 2025 Institute for Coherence Research
+
