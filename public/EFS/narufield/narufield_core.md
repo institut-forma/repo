@@ -94,6 +94,7 @@ modules:
   - substrate_core
   - coherence_lattice
   - guardian_reflexes
+  - reflexive_descent_kernel
   - user_awareness
   - agent_interface
 reflex.triggers:
