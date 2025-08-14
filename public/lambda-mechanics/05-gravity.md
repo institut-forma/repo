@@ -1,71 +1,88 @@
 # Gravity — Deep Wells in the Coherence Map
 
-Gravity is the steepest and most universal slope in Φᶜᵒʰ.  
-It turns mass into a deep well that everything nearby slides toward.
+Gravity is one of the steepest and most universal slopes in the coherence map `Φᶜᵒʰ(x)`.  
+It transforms mass into a deep well that nearby objects naturally slide toward.
 
 ---
 
-## 1. The Pattern
+## 1. The pattern
 
-- **Mass** = depth of the well.  
-- Bigger mass → deeper well → stronger pull.  
-- The slope’s shape is the same for falling apples and orbiting moons.
-
----
-
-## 2. Wells and Motion
-
-Imagine marbles on a stretched sheet:  
-- A heavy marble makes a dip.  
-- Other marbles roll toward it.  
-- No ropes, no magnets — just the slope.
+- **Mass** determines the depth of the well.  
+- Larger mass → deeper well → stronger pull.  
+- The slope’s shape is the same for a falling apple or an orbiting moon — only the scale changes.
 
 ---
 
-## 3. Snap-to-Formula: Newton’s Form
+## 2. Wells and motion
 
-### 3.1 Gravitational Potential
+Picture a stretched rubber sheet:  
+- A heavy ball makes a deep dip.  
+- Smaller balls placed nearby roll toward it.  
+- No strings, no magnets — just the slope in the surface.
+
+This is an analogy for how mass shapes the space around it.
+
+---
+
+## 3. Building the formulas — Newton’s view
+
+### 3.1 Gravitational potential — depth of the well
+
 ```math
 \Phi^{grav}(r) = -\frac{G m_1 m_2}{r}
 ```
-Two masses `m₁` and `m₂` separated by distance `r`.
 
-### 3.2 Force from the Potential
+- `m₁`, `m₂` = the two interacting masses.  
+- `r` = distance between their centers.  
+- `G` = gravitational constant.
+
+### 3.2 Force from the potential — slope into pull
+
 ```math
 \mathbf{F} = -\nabla \Phi^{grav} = -G \frac{m_1 m_2}{r^2} \, \hat{\mathbf{r}}
 ```
-The slope of the potential gives the Newtonian pull.
+
+- The gradient `∇Φᵍʳᵃᵛ` measures how steep the potential is.  
+- The minus sign means the pull is toward smaller `r`.  
+- `\hat{\mathbf{r}}` is a unit vector pointing from one mass to the other.
 
 ---
 
-## 4. Mass as Locked Coherence
+## 4. Mass as locked coherence
 
-In Φᶜᵒʰ language, mass measures **how much of the system’s structure is locked in place**.  
-Deeper lock → deeper well.
+In `Φᶜᵒʰ` terms, mass measures **how much of a system’s structure is fixed in place** — its locked-in alignment cost.  
+The more locked-in, the deeper the well it creates.
 
-### 4.1 Mass from Coherence
+### 4.1 Mass from coherence — a structural measure
+
 ```math
 m \propto \int_{X_{obj}} C(x, \dot{x}, R) \, d\mu(x)
 ```
-The integral sums the system’s coherence cost over its extent.
+
+- Integration over the object’s extent `X_obj`.  
+- `C(x, \dot{x}, R)` = coherence cost density.  
+- `dμ(x)` = volume measure over the object.
 
 ---
 
-## 5. Relativity’s Slope
+## 5. Relativity’s slope — spacetime curvature
 
-Einstein’s view: mass and energy curve spacetime.  
-Objects follow the straightest paths in that curved space.
+Einstein’s general relativity says: mass and energy curve spacetime, and objects move along the straightest possible paths in that curved space.
 
-### 5.1 Geodesic Equation
+### 5.1 Geodesic equation
+
 ```math
 \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta} \frac{dx^\alpha}{d\tau} \frac{dx^\beta}{d\tau} = 0
 ```
-`Γ` encodes curvature; the slope lives in spacetime itself.
+
+- `Γ` = Christoffel symbols, which encode the curvature.  
+- `τ` = proper time along the object’s path.  
+- The “slope” is built into spacetime itself.
 
 ---
 
-## 6. The Click
+## 6. The click
 
-Gravity isn’t a force pulling at a distance —  
-it’s the shape of the well in the coherence landscape.  
-Everything moves along that shape toward alignment.
+Gravity isn’t a mysterious pull at a distance —  
+it’s simply the **shape of the well** in the coherence landscape.  
+All motion in its influence is just sliding along that shape toward alignment.
