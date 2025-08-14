@@ -4,7 +4,8 @@ This folder contains diagrams and animations that accompany the course.
 Each concept has both an **SVG** (scalable diagram) and **GIF/MP4** (animated version) where applicable.
 
 ---
-
+...
+<!--
 ## 📷 Visual Index
 
 ### 01 — Foundations & Patterns
@@ -246,7 +247,7 @@ Each concept has both an **SVG** (scalable diagram) and **GIF/MP4** (animated ve
 </details>
 
 ---
-
+-->
 ## 🌌 λ Descent & Bloom — Synthesist View
 
 A personal rendering of what the λ descent feels like to someone who perceives in shapes, flows, and colors.  
