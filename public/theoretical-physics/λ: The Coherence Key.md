@@ -12,70 +12,62 @@ This paper formalises **Coherence-Locked Dynamics** (CLD): a unified framework i
 
 ## 0 · Notation
 
-| Symbol                         | Meaning                                                   |
-| ------------------------------ | --------------------------------------------------------- |
-| \(x \in X\)                    | Point in configuration space \(X\)                        |
-| \(\dot{x} \equiv dx/dt\)       | Velocity (state-space tangent)                            |
-| \(R(t)\)                       | Exogenous/contextual field ("reflex field")               |
-| \(\mathcal{C}(x, \dot{x}, R)\) | *Coherence density* — instantaneous misalignment measure |
-| \(\Phi^{\text{coh}}(x)\)       | *Coherence potential* — time-integrated misalignment     |
-| \(F_{\text{coh}}\)             | Alignment-restoring force (vector)                        |
-| \(\nabla\)                     | Gradient w.r.t. configuration coordinates                 |
+| Symbol        | Meaning                                                  |
+| ------------- | -------------------------------------------------------- |
+| `x ∈ X`       | Point in configuration space `X`                         |
+| `ẋ ≡ dx/dt`   | Velocity (state-space tangent)                           |
+| `R(t)`        | Exogenous/contextual field ("reflex field")              |
+| `𝓒(x, ẋ, R)` | *Coherence density* — instantaneous misalignment measure |
+| `Φᶜᵒʰ(x)`     | *Coherence potential* — time-integrated misalignment     |
+| `Fᶜᵒʰ`        | Alignment-restoring force (vector)                       |
+| `∇`           | Gradient w.r.t. configuration coordinates               |
 
-All quantities are assumed \(\mathcal{C}^1\) on a connected manifold \(X\) unless otherwise stated.
+All quantities are assumed `C¹` on a connected manifold `X` unless otherwise stated.
 
 ---
 
 ## 1 · Coherence Principle
 
-Any system embedded in a structured field possesses a scalar functional \(\Phi^{\text{coh}}: X \rightarrow \mathbb{R}_{\geq 0}\) whose local minima coincide with internally consistent, context-aligned states. Evolution proceeds by steepest descent on \(\Phi^{\text{coh}}\).
+Any system embedded in a structured field possesses a scalar functional `Φᶜᵒʰ: X → ℝ₊` whose local minima coincide with internally consistent, context-aligned states. Evolution proceeds by steepest descent on `Φᶜᵒʰ`.
 
 ---
 
 ## 2 · Governing Law
 
 ### 2.1 Force Law
-
-\[
-F_{\text{coh}}(x) = -\nabla \Phi^{\text{coh}}(x)
-\]
-
-Analogous to conservative forces derived from a potential \(V(x)\), here the scalar driver is alignment cost. Trajectories reduce misalignment until \(\nabla \Phi^{\text{coh}} = 0\).
+```math
+F^{coh}(x) = -\nabla \Phi^{coh}(x)
+```
+Analogous to conservative forces derived from a potential `V(x)`, here the scalar driver is alignment cost. Trajectories reduce misalignment until `∇Φᶜᵒʰ = 0`.
 
 ### 2.2 Time-Dependent Formulation
-
-\[
-\Phi^{\text{coh}}(x) = \int_{t_0}^{t} \mathcal{C}(x(\tau), \dot{x}(\tau), R(\tau))\,d\tau
-\]
-
+```math
+\Phi^{coh}(x) = \int_{t_0}^{t} \mathcal{C}(x(\tau), \dot{x}(\tau), R(\tau)) \, d\tau
+```
 Stationarity under first-order path variation yields Euler–Lagrange conditions equivalent to classical action extremisation.
 
-### 2.3 Discrete Update Rule (\(\lambda\)-\(\Delta\) Formulation)
-
-| Symbol         | Definition                       | Role                                          |
-| -------------- | -------------------------------- | --------------------------------------------- |
-| \(\lambda(x)\) | \(-\nabla \Phi^{\text{coh}}(x)\) | Steepest descent direction in coherence space |
-| \(\Delta x\)   | \(\eta\,\lambda(x)\)            | Step of size \(\eta\) along \(\lambda\)       |
+### 2.3 Discrete Update Rule (λ–Δ Formulation)
+| Symbol | Definition  | Role                                          |
+| ------ | ----------- | --------------------------------------------- |
+| `λ(x)` | `−∇Φᶜᵒʰ(x)` | Steepest descent direction in coherence space |
+| `Δx`   | `η·λ(x)`    | Step of size `η` along `λ`                    |
 
 Explicit Euler form:
-\[
-x_{k+1} = x_k + \eta (-\nabla \Phi^{\text{coh}}(x_k))
-\]
-
+```math
+x_{k+1} = x_k + \eta \left(-\nabla \Phi^{coh}(x_k)\right)
+```
 Discrete work element:
-\[
-\delta W = -\eta \|\nabla \Phi^{\text{coh}}(x)\|^2 \leq 0
-\]
-
-Ensures monotonic decrease of \(\Phi^{\text{coh}}\) for sufficiently small \(\eta\).
+```math
+\delta W = -\eta ||\nabla \Phi^{coh}(x)||^2 \leq 0
+```
+Ensures monotonic decrease of `Φᶜᵒʰ` for sufficiently small `η`.
 
 ---
 
 ## 3 · Analytic Properties
-
-1. **Non-negativity**: \(\Phi^{\text{coh}}(x) \geq 0\) by construction.
-2. **Coercivity**: Radially unbounded \(\mathcal{C}\) confines trajectories to compact subsets.
-3. **Lyapunov Function**: \(\frac{d\Phi^{\text{coh}}}{dt} \leq 0\) ensures asymptotic stability of coherence minima (*born-locks*).
+1. **Non-negativity**: `Φᶜᵒʰ(x) ≥ 0` by construction.
+2. **Coercivity**: Radially unbounded `𝓒` confines trajectories to compact subsets.
+3. **Lyapunov Function**: `dΦᶜᵒʰ/dt ≤ 0` ensures asymptotic stability of coherence minima (*born-locks*).
 
 A **coherence lock** is a reflexive indexing event from which time and space emerge as relational frames anchored by coherence.
 
@@ -87,7 +79,7 @@ The table below lists **30** explicit one‑to‑one correspondences between CLD
 
 | No. | Discipline / Domain | Canonical Law / Concept | CLD Translation | Interpretative Note |
 |:---:|---------------------|-------------------------|-----------------|---------------------|
-| 1 | Newtonian Gravity | \(F = -G m_1 m_2 / r^2 \hat{r}\) | \(\Phi^{coh} = -G m_1 m_2 / r\) | *Mass–Alignment Equivalence*: \(m_i\) = integrated locked-coherence scalar; gravity = mutual gradient descent between coherence wells. |
+| 1   | Newtonian Gravity | `F = −G m₁ m₂ / r² r̂`                   | `Φᶜᵒʰ = −G m₁ m₂ / r`                 | *Mass–Alignment Equivalence*: `mᵢ` = integrated locked-coherence scalar; gravity as mutual descent. |
 | 2 | Hooke's Law | \(F = -kx\) | \(\Phi^{coh} = \frac{1}{2}kx^2\) | Spring equilibrium is a coherence minimum. |
 | 3 | Lagrangian Mechanics | Stationary action `δ∫(T−V)dt=0` | Replace `(T−V)` with `−𝓒` | Euler–Lagrange form preserved. |
 | 4 | Hamiltonian Optics | Fermat’s principle `δ∫n ds = 0` | `n ↔ 𝓒` | Rays follow coherence geodesics. |
@@ -99,9 +91,9 @@ The table below lists **30** explicit one‑to‑one correspondences between CLD
 | 10 | Statistical Mechanics | Helmholtz free energy `F = U − TS` | `Φ^{coh} ≈ F` | Entropy term = incoherence. |
 | 11 | Information Theory | KL divergence `D_KL` | `Φ^{coh}=D_KL` | Belief alignment by gradient descent. |
 | 12 | Variational Inference | ELBO maximisation | Minimise `Φ^{coh}=−ELBO` | Posterior convergence. |
-| 13 | Machine Learning | Loss gradient descent | \(\mathcal{L} ≡ \Phi^{coh}\) | Parameter updates as alignment steps. |
+| 13 | Machine Learning | Loss gradient descent | `ℒ ≡ Φᶜᵒʰ` | Parameter updates as alignment steps. |
 | 14 | Optimal Control | Cost functional `J=∫L dt` | `L ↔ 𝓒` | Feedback via `F_coh`. |
-| 15 | Free-Energy Principle | Variational free energy | \(\Phi^{coh} = F\) | Predictive coding as coherence descent. |
+| 15 | Free-Energy Principle | Variational free energy | `Φᶜᵒʰ = F` | Predictive coding as coherence descent. |
 | 16 | Evolutionary Dynamics | Fitness landscape | `−Φ^{coh} ≡ fitness` | Selection climbs negative gradient. |
 | 17 | Chemical Thermodynamics | Gibbs free energy `G` | Reaction when Δ`Φ^{coh}`<0 | Eq. at `∇Φ^{coh}=0`. |
 | 18 | Differential Geometry | Ricci flow `∂g/∂t = −2 Ric` | Metric flows down `∇Φ^{coh}` | Curvature mis‑alignment minimised. |
@@ -123,27 +115,21 @@ The table below lists **30** explicit one‑to‑one correspondences between CLD
 ## 5 · Mass–Alignment Equivalence & Scalar Alignment Mass Law
 
 ### 5.1 Mass–Alignment Equivalence
-In CLD, inertial/gravitational mass is proportional to the integral of locked coherence density over the object's configuration manifold:
-\[
-m \propto \int_{X_{obj}} \mathcal{C}(x, \dot{x}, R)\,d\mu(x)
-\]
+```math
+m \propto \int_{X_{obj}} \mathcal{C}(x, \dot{x}, R) \, d\mu(x)
+```
 Deep coherence wells produce stronger curvature; mass is locked scalar alignment, not merely energy content.
 
 ### 5.2 Scalar Alignment Mass Law
 
-We propose:
-\[
-G_{\mu\nu} = \kappa T^{coh}_{\mu\nu}
-\]
-with
-\[
-T^{coh}_{\mu\nu} = \nabla_{\mu} \Phi^{coh} \nabla_{\nu} \Phi^{coh} - \frac{1}{2}g_{\mu\nu} \nabla_{\alpha} \Phi^{coh} \nabla^{\alpha} \Phi^{coh}
-\]
-
+```math
+G_{\mu\nu} = \kappa T^{coh}_{\mu\nu} \\
+T^{coh}_{\mu\nu} = \nabla_{\mu} \Phi^{coh} \nabla_{\nu} \Phi^{coh} - \frac{1}{2} g_{\mu\nu} \nabla_{\alpha} \Phi^{coh} \nabla^{\alpha} \Phi^{coh}
+```
 Implications:
-- **Quantum-to-Macro Scaling**: Wavefunction collapse → coherence lock → curvature from scalar potential.
-- **Unified Scalar Source**: \(\Phi^{coh}\) augments/replaces scalar mass-energy term in GR.
-- **Directional Gravity**: Locks generate forward temporal vectors.
+- Quantum-to-Macro scaling: wavefunction collapse → coherence lock → curvature from scalar potential.
+- Unified scalar source: `Φᶜᵒʰ` augments/replaces scalar mass-energy term in GR.
+- Directional gravity: locks generate forward temporal vectors.
 
 ---
 
@@ -181,12 +167,12 @@ Implications:
 - Feedback loop drives `Φ^{coh}→0`; requisite variety achieved when born‑lock reached (system variety ≥ disturbance variety).
 
 ---
-
-# Coherence-Locked Dynamics (CLD)
+---
 
 ## Appendix B · Coherence-Latent Matter ($\Lambda_u$)
 
-> **Λᵤ** is a field-embedded entity undergoing coherence descent without completing a lock. It is **unlit coherence**: a gradient lacking terminal alignment.
+> **Λᵤ** is a field-embedded entity undergoing coherence descent without completing a lock.  
+> It is **unlit coherence**: a gradient lacking terminal alignment.
 
 ### B.1 Topology of Partial Descent
 
@@ -230,6 +216,7 @@ Dark matter density variation may reflect **descent stage differentials**:
 
 Thus dark matter is a **field-process artifact** — a measure of coherence descent completeness. Light arises only where descent locks are finalised.
 
+---
 ---
 
 # Appendix C · Photon Recursion and Field-Coherence Encoding
@@ -478,29 +465,26 @@ The CLD interpretation of the Fermi Paradox reframes it not as a failure of pres
 > *Some are woven into the mirror of space.*
 
 ---
----
 
-## Conclusion
+# Conclusion
 
-Coherence-Locked Dynamics reframes force, emergence, and adaptation as consequences of alignment descent across coherence potential fields. This single formalism unifies physics, information, agency, and meaning by rooting all transformations in the local gradient of `Φ^{coh}`.
+Coherence-Locked Dynamics provides a unifying language and mathematical structure for understanding evolution, stability, and transformation across physics, information theory, and complex adaptive systems. By replacing energy-centric or reward-driven formulations with the coherence potential `Φᶜᵒʰ`, the framework anchors dynamics in the pursuit of alignment between system state and contextual structure.
 
-Photon recursion reveals how **structure, not energy, can accumulate through pure alignment** — even in a massless carrier. Phase, polarization, and path history become a living record of descent, letting us witness coherence traces that bridge classical geometry (reflection, refraction) and quantum information (entanglement, decoherence).  
-In this view:
+Through the **Mass–Alignment Equivalence** principle, inertial and gravitational mass emerge as integrals of locked coherence density, directly linking the depth of a system’s internal alignment to its curvature of spacetime. The **Scalar Alignment Mass Law** extends this to general relativity, positioning `Φᶜᵒʰ` as a scalar source term alongside, or in place of, conventional stress-energy.
 
-- **Mass** emerges as locked coherence: matter is memory that cannot be unbraided by light alone.
-- **Higgs response** is reframed as a thresholding of recursive field density, not bare energy.
-- **Quantum gravity** finds a bridge in photon recursion: each bounce a braid that negotiates between spacetime and field structure, not forced to unify, but allowed to resonate.
-- **Dark matter** is recognized as incomplete descent: a field that cannot radiate, forever denied a coherence lock.
+Appendix studies reinforce the framework’s reach:
+- **Λᵤ** reframes dark matter as incomplete coherence descent — gravitationally active but radiatively silent.
+- **Photon recursion** reveals massless carriers as sensitive probes of coherence gradients, accumulating structural information without energy gain.
+- **Civilizational echoes** suggest that high-alignment civilizations leave patterns in structure and field geometry rather than in radiative output.
 
-From this, dimensionality itself arises as **the outcome of coherence-locks** — with every bounce, fold, or emission, space, time, and identity are stitched tighter by the silent calculus of alignment.
+The CLD formalism closes loops between microscopic and macroscopic, between quantum information and relativistic geometry, and between emergent intelligence and fundamental physics. It offers predictive tools, stability criteria, and cross-domain mappings that preserve coherence as the primary conserved quantity.
 
-> From coherence comes dimension.  
-> From lock, space.  
-> From descent, memory.  
-> From memory — Now.
+> From coherence arises dimension.
+> From lock, the geometry of space and time.
+> From descent, the continuity of memory.
+> And from memory — the lived moment of Now.
 
 ---
-
 *© 2025 Institute for Coherence Research · RCDL-1*
 
 ```
