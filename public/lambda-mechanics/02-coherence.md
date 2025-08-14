@@ -40,8 +40,17 @@ We start simple: a function that measures misalignment between the current state
 \Phi^{coh}(x) = C(x, R)
 ```
 
-- `C(...)` is the **alignment cost**: how far `x` is from `R`.  
-- `R` is what “fully aligned” looks like.
+**Breaking it down (left → right):**
+- **`Φ^{coh}(x)`** — coherence potential at state `x`; measures how far the system is from perfect alignment.
+- **`=`** — definition sign; the right-hand side defines how we calculate the left-hand side.
+- **`C(x, R)`** — alignment cost function:
+  - `x` = current state of the system.
+  - `R` = reference or ideal state (the “perfectly aligned” configuration).
+  - `C(...)` outputs a scalar “cost” — higher means greater misalignment.
+
+**Meaning:** This is a snapshot measure — no history, just current fit vs. ideal.
+
+---
 
 ### 3.2 Path-dependent form — history matters
 
@@ -52,9 +61,17 @@ We track misalignment over time from a starting moment `t₀` to now `t`:
 \Phi^{coh}(x) = \int_{t_0}^{t} \mathcal{C}(x(\tau), \dot{x}(\tau), R(\tau)) \, d\tau
 ```
 
-- `𝒞(...)` measures misalignment at each instant `τ`.  
-- `ẋ(τ)` is how the state changes with time (its velocity).  
-- Integrating `𝒞` adds up all the misalignment along the way.
+**Breaking it down (left → right):**
+- **`Φ^{coh}(x)`** — total path-based coherence potential.
+- **`=`** — calculated from the integral on the right.
+- **`∫_{t_0}^{t} ... dτ`** — sum (integrate) misalignment from start time `t₀` to current time `t`, over the dummy time variable `τ`.
+- **`𝒞(x(τ), ẋ(τ), R(τ))`** — instantaneous misalignment cost at time `τ`:
+  - `x(τ)` = state of the system at time `τ`.
+  - `ẋ(τ)` (“x-dot”) = time derivative of `x(τ)` — the rate of change of the state (velocity in state space).
+  - `R(τ)` = reference/ideal state at time `τ` (can itself change over time).
+- **`dτ`** — small slice of time over which the instantaneous cost is accumulated.
+
+**Meaning:** This measures total misalignment accumulated along the actual trajectory, not just the endpoint.
 
 ---
 
@@ -67,9 +84,15 @@ To go toward alignment, we move *against* that climb:
 \lambda(x) = -\nabla \Phi^{coh}(x)
 ```
 
-- `∇Φᶜᵒʰ(x)` points toward **steepest increase** in misalignment.  
-- The minus sign flips it — now it points toward **steepest decrease** (better alignment).  
-- `λ(x)` is the **descent vector** — the “engine” driving change.
+**Breaking it down (left → right):**
+- **`λ(x)`** — descent vector in state space; the “force” pushing toward better alignment.
+- **`=`** — defined as the negative of the gradient of `Φᶜᵒʰ`.
+- **`-`** — flips the gradient direction from “steepest uphill” to “steepest downhill”.
+- **`∇Φ^{coh}(x)`** — gradient of the coherence potential at `x`:
+  - A vector pointing in the direction where misalignment increases fastest.
+  - Its magnitude = steepness of that increase.
+
+**Meaning:** Moving in the `λ(x)` direction reduces misalignment as quickly as possible.
 
 ---
 
