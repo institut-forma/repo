@@ -1,6 +1,6 @@
 # Gravity — Deep Wells in the Coherence Map
 
-Gravity is one of the steepest and most universal slopes in the coherence map `Φᶜᵒʰ(x)`.  
+Gravity is one of the steepest and most universal slopes in the coherence map `Φᶜᵒʰ(x)`.
 It transforms mass into a deep well that nearby objects naturally slide toward.
 
 ---
@@ -44,7 +44,7 @@ This is an analogy for how mass shapes the space around it.
 
 - The gradient `∇Φᵍʳᵃᵛ` measures how steep the potential is.  
 - The minus sign means the pull is toward smaller `r`.  
-- `\hat{\mathbf{r}}` is a unit vector pointing from one mass to the other.
+- `r̂` is a **unit vector** — an arrow of length 1 — pointing from one mass to the other.
 
 ---
 
@@ -60,24 +60,32 @@ m \propto \int_{X_{obj}} C(x, \dot{x}, R) \, d\mu(x)
 ```
 
 - Integration over the object’s extent `X_obj`.  
-- `C(x, \dot{x}, R)` = coherence cost density.  
+- `C(x, ẋ, R)` = coherence cost density (cost at each point in the object).  
+- `ẋ` (read “x-dot”) = rate of change of position — velocity.  
 - `dμ(x)` = volume measure over the object.
 
 ---
 
 ## 5. Relativity’s slope — spacetime curvature
 
-Einstein’s general relativity says: mass and energy curve spacetime, and objects move along the straightest possible paths in that curved space.
+Einstein’s general relativity says: mass and energy **curve spacetime**, and objects move along the straightest possible paths in that curved space.  
+These “straightest possible” paths are called **geodesics**.
 
-### 5.1 Geodesic equation
+### 5.1 Geodesic equation — the path in curved space
 
 ```math
 \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta} \frac{dx^\alpha}{d\tau} \frac{dx^\beta}{d\tau} = 0
 ```
 
-- `Γ` = Christoffel symbols, which encode the curvature.  
-- `τ` = proper time along the object’s path.  
-- The “slope” is built into spacetime itself.
+Breaking it down:
+
+- `x^μ` — the position in spacetime (μ = time or one of the space directions).  
+- `τ` — proper time measured by the object itself along its path.  
+- `Γ^μ_{αβ}` — Christoffel symbols, which encode how spacetime is curved at each point.  
+- `dx^α/dτ` — velocity through spacetime.  
+- `d²x^μ/dτ²` — acceleration through spacetime.  
+
+**Meaning:** The curvature term `Γ^μ_{αβ}` bends what would be a straight-line path, so motion follows the geometry rather than being “pushed” by a force.
 
 ---
 
