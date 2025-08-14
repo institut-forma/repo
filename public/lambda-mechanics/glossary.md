@@ -58,8 +58,3 @@ The point where a clear pattern naturally turns into a precise equation.
 ### **Wavefunction**
 A quantum object that encodes all possible states a system could be in.
 
----
-
-**Tip:**  
-If a definition feels abstract, look for its *Try-It* box in the matching chapter.  
-The hands-on example will make it click.
