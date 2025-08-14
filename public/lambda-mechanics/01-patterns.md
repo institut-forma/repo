@@ -63,7 +63,7 @@ Put all those directional changes together — that’s the **gradient**, writte
 
 ```math
 
-abla f(x) = \left( \frac{\partial f}{\partial x_1}, \frac{\partial f}{\partial x_2}, \dots, \frac{\partial f}{\partial x_n} \right)
+∇ f(x) = \left( \frac{\partial f}{\partial x_1}, \frac{\partial f}{\partial x_2}, \dots, \frac{\partial f}{\partial x_n} \right)
 ```
 
 It points toward the steepest uphill direction, and its length tells you how steep that way is.
