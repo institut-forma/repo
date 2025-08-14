@@ -14,12 +14,17 @@ It’s a single number telling you how “out-of-place” the system is in its c
 The system changes in the direction that makes this number drop fastest.  
 
 ### 1.1 Coherence Force  
-```math  
-F^{coh}(x) = -\nabla \Phi^{coh}(x)
+```math
+F^{coh}(x) = -
+abla \Phi^{coh}(x)
 ```
-Analogous to conservative forces from a potential `V(x)`,  
-but here the scalar driver is *alignment cost*.  
-Trajectories evolve until `\nabla Φᶜᵒʰ = 0` — the lock.  
+**Breaking it down (left → right):**  
+- **`F^{coh}(x)`** — coherence force at state `x`; drives the change.  
+- **`=`** — both sides describe the same thing.  
+- **`-∇Φᶜᵒʰ(x)`** — negative gradient of the coherence potential; points toward steepest decrease in misalignment.  
+
+**Meaning:** Works like conservative forces from a potential `V(x)`, but the scalar driver is *alignment cost*.  
+When `∇Φᶜᵒʰ = 0`, the system is at a lock point.
 
 ---
 
@@ -30,11 +35,19 @@ This gives us the time-dependent form:
 
 ### 2.1 Time-Dependent Formulation
 ```math
-\Phi^{coh}(x) = \int_{t_0}^{t} \mathcal{C}(x(\tau), \dot{x}(\tau), R(\tau)) \, d\tau
+\Phi^{coh}(x) = \int_{t_0}^{t} \mathcal{C}(x(	au), \dot{x}(	au), R(	au)) \, d	au
 ```
-Here `𝒞` measures misalignment at each moment along the path.  
-Stationarity under first-order path variation gives the Euler–Lagrange conditions —  
-the same principle behind least action in classical physics.  
+**Breaking it down (left → right):**  
+- **`Φᶜᵒʰ(x)`** — total coherence cost of the path up to time `t`.  
+- **`=`** — equality; left and right are the same quantity.  
+- **`∫_{t₀}^t`** — integrate from the start time `t₀` to current time `t`.  
+- **`𝒞(x(τ), ẋ(τ), R(τ))`** — coherence cost density at each moment:  
+  - `x(τ)` = state at time `τ`.  
+  - `ẋ(τ)` (x-dot) = rate of change of the state — velocity.  
+  - `R(τ)` = reference frame or constraints at time `τ`.  
+- **`dτ`** — add up cost over small time slices.  
+
+**Meaning:** This is the path-integral view — the system follows a trajectory that minimizes total misalignment, giving Euler–Lagrange conditions (like least action in physics).
 
 ---
 
@@ -43,12 +56,12 @@ the same principle behind least action in classical physics.
 In many cases, we follow the slope in discrete jumps:  
 
 ### 3.1 Discrete Update Rule (λ–Δ Formulation)
-| Symbol | Definition  | Role                                          |
-| ------ | ----------- | --------------------------------------------- |
-| `λ(x)` | `−∇Φᶜᵒʰ(x)` | Steepest descent direction in coherence space |
-| `Δx`   | `η·λ(x)`    | Step of size `η` along `λ`                    |
+| Symbol | Definition      | Role                                          |
+| ------ | --------------- | --------------------------------------------- |
+| `λ(x)` | `−∇Φᶜᵒʰ(x)`    | Steepest descent direction in coherence space |
+| `Δx`   | `η·λ(x)`        | Step of size `η` along `λ`                    |
 
-Small steps in the steepest direction shrink Φᶜᵒʰ until the system is locked.  
+**Meaning:** Small steps in the steepest direction shrink Φᶜᵒʰ until the system reaches a lock point.
 
 ---
 
