@@ -77,15 +77,26 @@ These “straightest possible” paths are called **geodesics**.
 \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta} \frac{dx^\alpha}{d\tau} \frac{dx^\beta}{d\tau} = 0
 ```
 
-Breaking it down:
+Breaking it down (left → right):
 
-- `x^μ` — the position in spacetime (μ = time or one of the space directions).  
-- `τ` — proper time measured by the object itself along its path.  
-- `Γ^μ_{αβ}` — Christoffel symbols, which encode how spacetime is curved at each point.  
-- `dx^α/dτ` — velocity through spacetime.  
-- `d²x^μ/dτ²` — acceleration through spacetime.  
+- **`d²x^μ/dτ²`** — the 4D acceleration: the second derivative of position with respect to proper time.  
+  - `x^μ` is the spacetime position; the index μ picks which component (time or one of the spatial axes).  
+  - `τ` is the proper time along the object’s own path.
 
-**Meaning:** The curvature term `Γ^μ_{αβ}` bends what would be a straight-line path, so motion follows the geometry rather than being “pushed” by a force.
+- **`Γ^μ_{αβ}`** — the Christoffel symbols, built from the spacetime metric.  
+  They describe how the coordinate grid curves or bends at each point, determining how straight lines appear in that geometry.
+
+- **`dx^α/dτ`** and **`dx^β/dτ`** — components of the 4-velocity.  
+  Multiplying these with `Γ^μ_{αβ}` gives the curvature correction to the naive (flat-space) acceleration.
+
+- **`= 0`** — after including the curvature correction, there’s no leftover “self-turning.”  
+  This is what “moving straight” (a geodesic) means in curved spacetime: free fall follows the geometry.
+
+---
+
+**Notes:**
+- Indices μ, α, β are coordinate labels; repeated indices imply summation (Einstein summation convention).  
+- If you prefer a generic path parameter, you can replace `τ` with any affine parameter — just apply it consistently.
 
 ---
 
