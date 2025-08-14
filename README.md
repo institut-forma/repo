@@ -7,6 +7,7 @@ supporting people, organizations, and environments hold their shape without pres
 
 ### Frameworks and Models
 
+- [**λ-Mechanics — Physics for Everyone**](public/lambda-mechanics) — pattern-first physics course that clicks into full math at the end
 - [**lucere**](public/education/lucere) — age-aligned learning design tools  
 - [**Coherent Drift**](public/cognitive-social-systems) — identity modeling under systemic strain  
 - [**GALT**](public/health) — immune tolerance structure brief    
