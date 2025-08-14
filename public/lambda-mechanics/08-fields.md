@@ -16,7 +16,7 @@ It tells you, for every point in space and time: *what tends to happen here*.
 ## 2. Why Fields Matter
 
 Without fields, motion would be random.  
-With fields, motion has purpose: they shape the slope of Φᶜᵒʰ.
+With fields, motion has purpose: they shape the slope of `Φᶜᵒʰ`.
 
 A field is not the object itself — it’s the **invisible shape** that objects follow.
 
@@ -32,30 +32,69 @@ A field is not the object itself — it’s the **invisible shape** that objects
 
 ## 4. Snap-to-Formula: From Field to Motion
 
+---
+
 ### 4.1 Scalar Field Gradient
+
 ```math
 \lambda(x) = -\nabla \Phi^{coh}(x)
 ```
-The slope from the scalar potential sets the direction of change.
+
+**Breaking it down (left → right):**
+
+- `λ(x)` — the **descent vector** at position `x`. This is the direction the system will move if it follows the slope.  
+- `=` — defines `λ(x)` in terms of the slope of the scalar potential.  
+- `-` — negative sign means motion goes *downhill* toward lower `Φᶜᵒʰ`.  
+- `∇Φᶜᵒʰ(x)` — the **gradient** of the scalar potential at `x`. Points toward steepest increase in `Φᶜᵒʰ`, so the minus sign flips it to steepest decrease.
+
+**Meaning:** A scalar field is like a height map. The gradient tells you “uphill,” the minus sign makes it “downhill,” and `λ(x)` is your path.
+
+---
 
 ### 4.2 Vector Field Dynamics
+
 ```math
 \frac{d\mathbf{p}}{dt} = q \, \mathbf{E}(\mathbf{r}, t) + q \, \mathbf{v} \times \mathbf{B}(\mathbf{r}, t)
 ```
-Example from electromagnetism: electric and magnetic fields steering a particle.
+
+**Breaking it down (left → right):**
+
+- `d𝒑/dt` — **rate of change of momentum** with respect to time; this is the force experienced by the particle.  
+- `=` — says the total force comes from two sources.  
+- `q` — electric charge of the particle.  
+- `𝑬(𝒓, t)` — electric field at position `𝒓` and time `t`. Pushes in its own direction.  
+- `+` — sum of electric and magnetic contributions.  
+- `q 𝒗 × 𝑩(𝒓, t)` — magnetic force term:  
+  - `𝒗` = particle velocity,  
+  - `×` = cross product (force is perpendicular to both velocity and magnetic field),  
+  - `𝑩(𝒓, t)` = magnetic field at the particle’s position and time.
+
+**Meaning:** In a vector field like electromagnetism, the field gives you a push directly (electric) and a sideways deflection (magnetic).
+
+---
 
 ### 4.3 Tensor Field Curvature
+
 ```math
 \frac{d^2 x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta} \frac{dx^\alpha}{d\tau} \frac{dx^\beta}{d\tau} = 0
 ```
-Example from general relativity: geodesics guided by curvature tensor `Γ`.
+
+**Breaking it down (left → right):**
+
+- `d²x^μ/dτ²` — **4D acceleration**: how the μ-component of position changes twice with respect to proper time `τ`.  
+- `+` — adds the curvature correction.  
+- `Γ^μ_{αβ}` — **Christoffel symbols**, built from the metric; they encode how the coordinate grid bends at each point.  
+- `(dx^α/dτ)(dx^β/dτ)` — products of the **4-velocity** components in directions α and β.  
+- `=` `0` — says that once curvature is included, the object is moving straight in the curved geometry.
+
+**Meaning:** A tensor field like spacetime curvature doesn’t push — it reshapes “straightness” itself. Objects just follow the geometry.
 
 ---
 
 ## 5. Fields as Coherence Maps
 
 You can think of a field as a **map of alignment costs**.  
-The steeper the map at a point, the faster the system moves to reduce Φᶜᵒʰ.
+The steeper the map at a point, the faster the system moves to reduce `Φᶜᵒʰ`.
 
 ---
 
