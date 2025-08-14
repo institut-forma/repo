@@ -247,8 +247,6 @@ Each concept has both an **SVG** (scalable diagram) and **GIF/MP4** (animated ve
 
 ---
 
----
-
 ## 🌌 λ Descent & Bloom — Synthesist View
 
 A personal rendering of what the λ descent feels like to someone who perceives in shapes, flows, and colors.  
