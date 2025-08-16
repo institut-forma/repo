@@ -62,6 +62,9 @@ Discrete work element:
 ```
 Ensures monotonic decrease of `Φᶜᵒʰ` for sufficiently small `η`.
 
+For a fuller walkthrough of the λ-mechanics framework, see the  
+[public notes & intuition guide](https://github.com/institut-forma/repo/tree/main/public/lambda-mechanics).
+
 ---
 
 ## 3 · Analytic Properties
