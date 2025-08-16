@@ -4,7 +4,7 @@
 
 ## Abstract
 
-Modern infrastructure faces mounting strain: electrical grids are fragile under peak loads, climate stress amplifies both demand and disruption, and carbon transition pathways remain slow to scale. We propose a coherence-based physics framework — **λ-Mechanics** — to reframe infrastructure as alignment systems. At its core is the **coherence potential** `Φᶜᵒʰ(x)`, a scalar field measuring systemic misalignment. Dynamics follow a coherence force law `Fᶜᵒʰ(x) = −∇Φᶜᵒʰ(x)`, analogous to classical potentials but defined on alignment cost rather than energy alone.
+Modern infrastructure faces mounting strain: electrical grids are fragile under peak loads, climate stress amplifies both demand and disruption, and carbon transition pathways remain slow to scale. We propose a coherence-based physics framework — **λ-Mechanics** — to reframe infrastructure as alignment systems. At its core is the **coherence potential** `Φᶜᵒʰ(x)`, a scalar field measuring systemic misalignment. Dynamics follow a coherence force law `Fᶜᵒʰ(x) = −∇Φᶜᵒʰ(x)`, analogous to classical potentials but defined on alignment cost rather than solely on energy.
 
 This approach allows us to treat solar capture, thermal recycling, and grid coordination as slope-following processes: trajectories that reduce misalignment naturally converge toward resilient equilibria. By extending variational principles (`δ∫ C(x,ẋ,R) dτ = 0`) we derive Euler–Lagrange conditions that unify physical and systemic adaptation. Applications include:
 
@@ -12,7 +12,11 @@ This approach allows us to treat solar capture, thermal recycling, and grid coor
 - **Thermal Lattice** — conversion of waste AC/industrial heat via structured cascades.
 - **Grid Reflex AI** — coherence agent aligning distributed supply and demand.
 
-Together, these modules sketch a reflexive energy system: one that senses misalignment, descends its own coherence landscape, and sustains stability even under stress. We invite the research community to explore this λ-Mechanics framing as a bridge between physics, infrastructure, and adaptive systems.
+Together, these modules sketch a reflexive energy system: one that senses misalignment, descends its own coherence landscape, and sustains stability even under stress. We invite the research community to explore this λ-Mechanics framing as a bridge between physics, infrastructure, and adaptive systems.  
+
+> **TL;DR**  
+> We model infrastructure as a system that descends a coherence potential.  
+> Result: solar capture, waste-heat recovery, and grid control coordinate by following the same descent law, yielding stability under stress.
 
 ---
 
@@ -25,6 +29,12 @@ Coherence `Φᶜᵒʰ(x)` is introduced as a potential function measuring misali
 - Systems evolve toward minimizing `Φᶜᵒʰ`.
 - Equilibria occur when `∇Φᶜᵒʰ = 0`.
 - Misalignment creates forces that drive change until alignment is restored.
+
+**Notation.**  
+- `x(t)`: system state (generation, storage, flows).  
+- `R(t)`: reference demands/constraints (reliability targets, safety bounds).  
+- `C(x, ẋ, R)`: instantaneous coherence cost (misalignment measure).  
+- `Φᶜᵒʰ(x)`: accumulated coherence potential.
 
 #### Diagram — Coherence Landscape (Conceptual)
 
@@ -39,9 +49,9 @@ flowchart LR
 
 ### 1.2 Force Law
 
-```math
+$$
 F^{coh}(x) = -\nabla \Phi^{coh}(x)
-```
+$$
 
 This parallels classical conservative forces but substitutes “alignment cost” for mechanical energy.
 
@@ -56,9 +66,9 @@ flowchart TD
 
 ### 1.3 Variational Form
 
-```math
+$$
 \delta \int_{t_0}^{t} \mathcal{C}(x(\tau), \dot{x}(\tau), R(\tau)) \, d\tau = 0
-```
+$$
 
 Stationarity yields Euler–Lagrange conditions. Here `C` is coherence cost density, and `R(τ)` encodes reference alignment (target grid states, system needs, or resilience goals).
 
@@ -69,7 +79,6 @@ flowchart LR
     C --> D["Stationarity δ=0"]
     D --> E["Euler–Lagrange Conditions"]
 ```
-
 ---
 
 ## 2 · Application Modules
@@ -161,6 +170,9 @@ flowchart LR
 
 ---
 
+> **Scope & Non-claims**  
+> This note proposes a coherence formalism and control perspective. It is not a performance guarantee, device certification, or safety case. Pilot engineering, measurement, and standards compliance are required for deployment.
+
 ## 3 · References
 
 - Santa Fe Institute — Complex systems and adaptive dynamics.
@@ -173,3 +185,5 @@ flowchart LR
 
 ---
 
+Version: [RCDL–1.0](https://github.com/institut-forma/repo/blob/main/LICENSE.md)
+© 2025 Institute for Coherence Research
