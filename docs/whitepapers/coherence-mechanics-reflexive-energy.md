@@ -185,5 +185,5 @@ flowchart LR
 
 ---
 
-Version: [RCDL–1.0](https://github.com/institut-forma/repo/blob/main/LICENSE.md)
+Version: [RCDL–1.0](https://github.com/institut-forma/repo/blob/main/LICENSE.md)  
 © 2025 Institute for Coherence Research
