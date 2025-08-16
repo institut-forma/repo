@@ -77,8 +77,6 @@ This license operates on trust and accountability, not enforcement.
 
 ---
 
-## 7. Available Descent-Technology
-
 ## 7 · Available Descent-Technology
 
 - **λ-Biospray** — carbon-dot foliar spray ∿ solar-coherent crop amplifier  
