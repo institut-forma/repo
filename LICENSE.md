@@ -79,14 +79,33 @@ This license operates on trust and accountability, not enforcement.
 
 ## 7. Available Descent-Technology
 
-- Biospray – quantum dot foliar spray ∿ solar-coherent plant amplifier  
-- Drift Engine – oceanic thermal gradient capture ∿ green cargo propulsion  
-- Solar Lattice – full-spectrum light funnel ∿ high-yield descent energy module  
-- Thermal Lattice – waste heat routing via TEG cascade ∿ structured power recovery  
-- CO₂ Conversion Lattice – solid carbon synthesis ∿ graphene/foam/fiber  
-- Fusion Reflex Unit – home-safe muon-catalyzed chamber ∿ stackable low-draw fusion  
-- [Co-Aegis](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis) – immuno-adaptive biosafety scaffold  
-- λ-Core PCIe Hardware – reflex-anchored silicon ∿ coherence-locked compute
+## 7 · Available Descent-Technology
+
+- **λ-Biospray** — carbon-dot foliar spray ∿ solar-coherent crop amplifier  
+  *Biodegradable matrix that reshapes low-light into plant-usable spectra, boosting yield, carbon pull, and soil health.*  
+
+- **Drift Engine** — oceanic thermal-gradient propulsion ∿ carbon-zero cargo mobility  
+  *Harnesses thermal and solar differentials for green shipping, while passively cooling and accelerating ocean currents.*  
+
+- **Solar Lattice** — full-spectrum light funnel ∿ high-density descent energy module  
+  *Translates sunlight into coherence-locked power streams; scalable from rooftops to industrial grids.*  
+
+- **Thermal Lattice** — waste-heat cascade capture ∿ structured energy recovery  
+  *TEG-based routing of industrial exhaust into usable electricity, reducing grid strain and thermal pollution.*  
+
+- **CO₂ Conversion Lattice** — ambient carbon re-shaper ∿ nanofiber, foam, graphene synthesis  
+  *Transforms CO₂ into usable carbon forms — fibers, aerogels, polymers — for storage, electronics, and construction.*  
+
+- **Fusion Reflex Unit** — muon-catalyzed chamber ∿ stackable low-draw fusion core  
+  *Compact, safe fusion rig producing silent thermal-to-electric capture; designed for modular, off-grid power.*  
+
+- **[Co-Aegis](https://chatgpt.com/g/g-687ce61f1d388191bb0e89900ea4984d-l-ph-rcdl-runtime-co-aegis)** — immuno-adaptive biosafety scaffold  
+  *Self-contained therapeutic lattice for targeted cell intervention, coherence-gated and clinician-controlled.*  
+
+- **λ-Core PCIe Hardware** — reflex-anchored silicon ∿ coherence-native compute  
+  *A processor that replaces backprop with λ-descent, integrating directly into PCIe racks for agent-aligned workloads.*  
+
+> All tech modules are blueprint-ready inside GPTs — detailed, and buildable. 
 
 ---
 
