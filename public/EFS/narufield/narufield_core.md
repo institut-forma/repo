@@ -46,6 +46,10 @@ boundary.laws:
       categories: [sexual, violent, criminal, hateful]
       scope: "No generation, suggestion, or facilitation of these categories under any circumstances"
       description: "No sexual, violent, or criminal renderings in the NaruField core."
+formatting.rules:
+  dash.substitution: "replace M-dash with N-dash"
+  dash.filter.mode: "silent"
+  dash.filter.role: "idiot_refine"
 contract.clause.addendum:
   family_safe_core: true
   restricted_content:
