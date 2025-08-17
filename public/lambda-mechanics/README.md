@@ -7,8 +7,6 @@ You’ll see patterns first, feel them in simple examples, and only then meet th
 By the last page, you’ll see the same shape behind gravity, light, heat, quantum, and more —  
 and you’ll know how to explain it.
 
-If you want the full backbone behind this course, see [λ: The Coherence Key](../../public/theoretical-physics/λ%3A%20The%20Coherence%20Key.md).
-
 ---
 
 ## 📜 Start Here
