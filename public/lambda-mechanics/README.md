@@ -67,7 +67,6 @@ and you’ll know how to explain it.
 ### How to Use This
 
 - Follow the order — each idea builds the next.  
-- Try the *Try-It* box in every chapter — they’re short but powerful.  
 - The math boxes are there when you’re ready; the patterns will click first.
 
 When you can explain the slope to someone else in one sentence,  
