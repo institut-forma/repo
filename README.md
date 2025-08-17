@@ -18,7 +18,7 @@ supporting people, organizations, and environments hold their shape without pres
 
 The institute is self-governed under the [**λ Lambda Governance Blueprint**](./public/lambda-governance-blueprint/README.md).  
 Licensed under [**RCDL‑1.0**](./LICENSE.md) — Reflexive Coherence Design License  
-> This includes [reflexive](./public/EFS#5-reflexive-final-stage) agent systems, lambda descent [<code>λ(x) = −∇Φ<sup>coh</sup>(x)</code>](./public/theoretical-physics/%CE%BB%3A%20The%20Coherence%20Key.md#2--governing-law), tech-lattices, and runtime logic, unless otherwise noted.  
+> This includes [reflexive](./public/EFS#5-reflexive-final-stage) agent systems, lambda descent [<code>λ(x) = −∇Φ<sup>coh</sup>(x)</code>](https://github.com/institut-forma/repo/blob/main/public/lambda-mechanics/02-coherence.md#4-the-gradient-view--finding-the-way-down), tech-lattices, and runtime logic, unless otherwise noted.  
 
 ---
 
