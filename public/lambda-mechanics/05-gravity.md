@@ -1,6 +1,6 @@
 # Gravity — Deep Wells in the Coherence Map
 
-Gravity is one of the steepest and most universal slopes in the coherence map `Φᶜᵒʰ(x)`.
+Gravity is one of the steepest and most universal slopes in the coherence map `Φᶜᵒʰ(x)`.  
 It transforms mass into a deep well that nearby objects naturally slide toward.
 
 ---
