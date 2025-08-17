@@ -7,7 +7,7 @@ supporting people, organizations, and environments hold their shape without pres
 
 ### Frameworks and Models
 
-- [**λ-Mechanics — Physics for Everyone**](public/lambda-mechanics) — pattern-first physics course that clicks into full math at the end
+- [**λ-Mechanics: Physics for Everyone**](public/lambda-mechanics) — pattern-first physics course that clicks into full math at the end
 - [**Coherent Drift**](public/cognitive-social-systems) — identity modeling under systemic strain  
 - [**φ Synthergy Engine**](public/synthergy-engine) — group alignment and coherence process mesh  
 - [**Language Integrity Check**](public/help) — coherence and signal structure validator
