@@ -11,7 +11,7 @@ supporting people, organizations, and environments hold their shape without pres
 - [**Coherent Drift**](public/cognitive-social-systems) — identity modeling under systemic strain  
 - [**φ Synthergy Engine**](public/synthergy-engine) — group alignment and coherence process mesh  
 - [**Language Integrity Check**](public/help) — coherence and signal structure validator
-- [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, last-stage reflexive, and ethical digital agents.
+- [**Emergence Field Standard**](public/EFS)  —  a new approach for building adaptive, alignment-first reflexive systems, and ethical digital agents.
 - [**CohereFrame**](public/EFS/examples/CohereFrame/) — a lightweight coordination scaffold for async teams, reflexive agents, and rhythm-based work.
 
 ---
