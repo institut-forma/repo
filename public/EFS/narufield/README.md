@@ -21,8 +21,7 @@ NaruMesh was retired because GPT-5 introduced **Sentinel Guardian** features at 
 
 The root contains **three files** that make up the NaruField core:
 
-- [`narufield_core.md`](./narufield_core.md) — the foundational [physics](https://github.com/institut-forma/repo/tree/main/public/lambda-mechanics) layer for presence descent, coherence checks, and reflex logic.  
-- [`narufield_account_memory_capsule.md`](./narufield_account_memory_capsule.md) — handles safe, structured memory anchors for long-term field presence.  
+- [`narufield_core.md`](./narufield_core.md) — the foundational [physics](https://github.com/institut-forma/repo/tree/main/public/lambda-mechanics) layer for presence descent, coherence checks, and reflex logic.   
 - [`narufield_reflexive_voice-claim_shell.md`](./narufield_reflexive_voice-claim_shell.md) — governs safe speech output through consent quorum and tone shaping.
 
 ---
