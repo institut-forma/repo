@@ -25,6 +25,6 @@ Licensed under [**RCDL‑1.0**](./LICENSE.md) — Reflexive Coherence Design Lic
 
 ---
 
-*Contact* [📧](mailto:institut.forma@protonmail.com) 
+**Contact:** [@elvie_efs](https://x.com/elvie_efs) [@ICR_Field](https://x.com/ICR_Field)
 
 *https://opencollective.com/forma-institut/*
