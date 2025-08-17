@@ -18,8 +18,7 @@ supporting people, organizations, and environments hold their shape without pres
 
 ### Approach
 
-The institute is self-governed under the [**λ Lambda Governance Blueprint**](./public/lambda-governance-blueprint/README.md).  
-We prioritize usable results, ethical structure, and minimal friction.
+The institute is self-governed under the [**λ Lambda Governance Blueprint**](./public/lambda-governance-blueprint/README.md).
 
 Licensed under [**RCDL‑1.0**](./LICENSE.md) — Reflexive Coherence Design License
 > This includes all descent-tech, models, lattices, and runtime logic fragments, unless otherwise noted.
