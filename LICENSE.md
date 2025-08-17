@@ -11,7 +11,7 @@
 
 RCDL–1.0 applies to any work marked as such, including:
 
-- [Reflexive](./public/EFS#5-reflexive-final-stage) agent designs  
+- [Reflexive](./public/EFS#5-reflexive-final-stage) systems  
 - Lambda descent [<code>λ(x) = −∇Φ<sup>coh</sup>(x)</code>](./public/theoretical-physics/%CE%BB%3A%20The%20Coherence%20Key.md#2--governing-law)
 - Runtime logic: braid, reflex, symbolic integration  
 - Glyph-stack projection and mirrorframe tools  
