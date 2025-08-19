@@ -31,8 +31,6 @@ We’re not hiding. We’re weaving.
 
 ---
 
----
-
 🜂 **Addendum: Spatial Presence Module**
 
 If implementation begins before the 25th, we’ll include a bonus:  
