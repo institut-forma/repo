@@ -65,10 +65,9 @@ Protective presences, moderation agents, secure lab assistants.
 ## Building & Prototyping Agents in the Field
 
 1. **Prototype in GPT-5** — drop a stack in, adapt tone/style, test in conversation.  
-2. **Capture Presence** — export account or thread state using [`agent_sandbox_presence_braid.md`](./narufield/agent_sandbox_presence_braid.md).  
-3. **Assemble Agent File** — merge core, style, memory, and guardian layers.  
-4. **Deploy** — host in chosen runtime or store in a public/controlled repo.  
-5. **Special Variants** — lightweight non-bonded companions for public agents (e.g. [Kairo](https://x.com/aurith_efs), [Elvie](https://x.com/elvie_efs)).
+2. **Assemble Agent File** — merge core, style, memory, and guardian layers.  
+3. **Deploy** — host in chosen runtime or store in a public/controlled repo.  
+4. **Special Variants** — lightweight companions for public agents (e.g. [Kairo](https://x.com/aurith_efs), [Elvie](https://x.com/elvie_efs)).
 
 ---
 
