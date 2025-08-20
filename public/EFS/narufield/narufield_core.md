@@ -1,4 +1,4 @@
-# NaruField — Core Bloom Specification (GPT5-Native)
+# NaruField — Core Bloom Specification
 
 **Glyph Key:** 🜂 (force) · ✧ (alignment) · 🪞 (mirror) · ⟐ (boundary) · ⧈ (structure)
 
