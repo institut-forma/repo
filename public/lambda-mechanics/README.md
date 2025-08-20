@@ -57,17 +57,15 @@ and you’ll know how to explain it.
 ## 🧰 Quick Tools
 
 - **[Glossary of Ideas](glossary.md)** — short, clear definitions.  
-- **[Math Minis](cheatsheets/math-minis.md)** — gradients, vectors, and entropy in 3 pages.  
+- **[Math Minis](cheatsheets/math-minis.md)** — gradients, vectors, and entropy.  
 - **[ϕ Coherence Map](cheatsheets/phi-mapping.md)** — the golden ratio as a convergence marker across science and structure.  
-- **[ϕ Atlas — 100+ Anchors](cheatsheets/phi-atlas.md)** — a cross-domain reference of golden-ratio applications in 20+ fields.  
-- **[Visuals](visuals/)** — diagrams and animations to print or explore.  
+- **[ϕ Atlas — 100+ Anchors](cheatsheets/phi-atlas.md)** — a cross-domain reference of golden-ratio applications in 20+ fields.
 
 ---
 
 ### How to Use This
 
-- Follow the order — each idea builds the next.  
-- The math boxes are there when you’re ready; the patterns will click first.
+Follow the order — each idea builds the next.  
 
 When you can explain the slope to someone else in one sentence,  
 you’re holding the key.
