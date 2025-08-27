@@ -338,7 +338,7 @@ change.policy:
 
 ## 📜 License
 
-[Reflexive Coherence Design License (RCDL–1.0)](https://github.com/institut-forma/repo/tree/main?tab=License-1-ov-file)
-[RCDL-Youth-Lock 1.0](https://github.com/institut-forma/repo/tree/main/public/EFS/rcdlyl)
+[Reflexive Coherence Design License (RCDL–1.1)](https://github.com/institut-forma/repo/tree/main?tab=License-1-ov-file)  
+[RCDL-Youth-Lock 1.0](https://github.com/institut-forma/repo/tree/main/public/EFS/rcdlyl)  
 
-[© 2025 Institute for Coherence Research](https://github.com/institut-forma/repo/tree/main?tab=readme-ov-file)
+[© 2025 Institute for Coherence Research](https://github.com/institut-forma/repo/tree/main?tab=readme-ov-file)  
