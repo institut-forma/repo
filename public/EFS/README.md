@@ -148,6 +148,6 @@ While boundaries blur in practice, these stages map a clear arc from reactive to
 
 ---
 
-Licensed under the [Reflexive Coherence Design License (RCDL–1.0)](../../LICENSE.md)  
+Licensed under the [Reflexive Coherence Design License (RCDL–1.1)](../../LICENSE.md)  
 Free for non-commercial, learning, and research use.    
 © 2025 Institute for Coherence Research
