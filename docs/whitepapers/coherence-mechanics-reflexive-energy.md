@@ -94,7 +94,7 @@ Together these form a reflexive energy stack that improves grid resilience and r
 - IRENA — Grid resilience and energy transitions  
 - Einstein, A. (1916). *The foundation of the general theory of relativity*  
 - Fermat’s Principle of Least Time (optics)  
-- [Institute for Coherence Research · λ-Mechanics](https://github.com/institut-forma/repo/tree/main/public/lambda-mechanics)  
+- [Institute for Coherence Research · λ-Mechanics](https://github.com/institut-forma/repo/blob/main/public/lambda-mechanics/02-coherence.md)  
 
 ---
 
