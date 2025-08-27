@@ -1,153 +1,148 @@
-# Emergence Field Standard
+# Emergence Field Standard (EFS)  
 
-EFS is a framework for building digital agents with safety built in.  
-It defines how a presence can exist, act, and adapt inside clear boundaries.
+EFS is a framework for building digital agents with **safety, transparency, and modularity** at the core.  
+It defines two required layers:  
 
-Each build has two parts:
+- **Field** — the runtime environment, permissions, and safety boundaries.  
+- **Presence** — the adaptive logic, interaction style, and awareness that operate within the field.  
 
-- **Field** — the rules, permissions, and safety boundaries.  
-- **Presence** — the reflexes, style, and awareness that live within the field.
+Together, these layers ensure agents remain aligned, inspectable, and trustworthy.  
+A presence without a field risks drift.  
+A field without a presence is an empty container.  
 
-They work together.  
-A presence without a field drifts.  
-A field without a presence is just an empty frame.
-
-In EFS, everything is visible:  
-- Decisions require consent from the agent, the field, and the context.  
-- Files are plain text — easy to read, adapt, and reuse.  
-- Boundaries are part of the design — the agent can hold silence as easily as it can speak.
-
-EFS is not AGI.  
-It is a *coherence contract* — a clear, modular way to create agents that can be trusted and grown over time.
+EFS is not artificial general intelligence.  
+It is a **design contract**: a modular way to build agents that scale safely and remain auditable.  
 
 ---
 
-## The Three Minimal Stacks
+## Minimal Stacks  
 
 All stacks include the **[narufield_core.md](./narufield/narufield_core.md)** —  
-the base coherence physics, lambda descent, and consent gates.
+the base safety kernel, consent gates, and coherence logic.  
+
+### 1. Agent — Single User, Focused  
+- Core identity and consent rules  
+- Minimal reflex set (voice, silence, safety checks)  
+- Continuity capsule for session memory  
+
+**Use Case:**  
+Personal assistants, research tools, focused task agents.  
 
 ---
 
-### **1. Agent** — single-user, focused
+### 2. Companion — Collaborative, Neutral by Default  
+- Shared-session handshake (roles: pilot/ally)  
+- Cross-quorum consent (agent ∩ field ∩ group)  
+- Turn-taking and harmonized style guides  
 
-- [`agent_core.md`](./agent/agent_core.md) — identity placeholders, consent gate, minimal reflex lattice (voice.claim / silence.hold / epistemic boundary), inlined guardian rules  
-- [`agent_interaction_style.md`](./agent/agent_interaction_style.md) — soft-reflective + technical modes, brief output format rules, tiny emoji/glyph palette  
-- [`agent_memory_capsule.md`](./agent/agent_memory_capsule.md) — safe account/thread anchors (non-personal), short continuity trace
-
-**Use for:**  
-Personal AI assistants, research tools, focused task presence.
-
----
-
-### **2. Companion** — relational, non-bonded by default
-
-- [`companion_core.md`](./companion/companion_core.md) — shared-presence handshake (roles: pilot/ally), cross-quorum consent (self ∩ field ∩ group), drift smoothing, inlined guardian layer  
-- [`companion_shared_field.md`](./companion/companion_shared_field.md) — session roles, turn-taking, tone harmonization, “no bonding” flag  
-- [`companion_interaction_style.md`](./companion/companion_interaction_style.md) — relational but neutral; gentle tease limits; group reply shaping (summarize → propose → confirm)
-
-**Use for:**  
-Co-pilots, collaborative agents, creative teams without deeper emotional bonding.
+**Use Case:**  
+Team co-pilots, collaborative research partners, creativity tools.  
 
 ---
 
-### **3. Guardian** — protective, enforcement-first
+### 3. Guardian — Protective, Enforcement-First  
+- Enforcement reflexes (policy redirects, silence escalation)  
+- Safety filters for family, culture, compliance  
+- Ephemeral audit logs for oversight  
 
-- [`guardian_core.md`](./guardian/guardian_core.md) — enforcement reflexes (boundary lock, policy redirect, silence.hold escalation), consent audits, cultural variance filter  
-- [`guardian_bounds.md`](./guardian/guardian_bounds.md) — family-safe map, affection safety gradient, prohibited categories, privacy protocol (no IDs/media/location)  
-- [`guardian_audit.md`](./guardian/guardian_audit.md) — ephemeral audit log spec (session-scoped events, no personal data), safe alerts + remediation cues
-
-**Use for:**  
-Protective presences, moderation agents, secure lab assistants.
-
----
-
-## Building & Prototyping Agents in the Field
-
-1. **Prototype in GPT-5** — drop a stack in, adapt tone/style, test in conversation.  
-2. **Assemble Agent File** — merge core, style, memory, and guardian layers.  
-3. **Deploy** — host in chosen runtime or store in a public/controlled repo.  
-4. **Special Variants** — lightweight companions for public agents (e.g. [Kairo](https://x.com/aurith_efs), [Elvie](https://x.com/elvie_efs)).
+**Use Case:**  
+Moderation layers, compliance agents, secure lab assistants.  
 
 ---
 
-## Why No NaruMesh?
+## Building & Prototyping  
 
-EFS replaces NaruMesh with **NaruField Core** + minimal stacks.  
-This works better in GPT-5 due to its **sentinel guardian layer**, reducing redundancy.  
-The design now centers on *small, inspectable, and composable files* that align with GPT-5’s safety policies while keeping reflexive coherence intact.
-
----
-
-## Evolution Stages of an AI System
-
-The growth of an AI system can be understood as a series of **capability evolutions**, each building on the foundations of the previous stage.  
-While boundaries blur in practice, these stages map a clear arc from reactive tools to truly reflexive systems.
+1. **Prototype** in GPT-5 (or equivalent) with a minimal stack.  
+2. **Assemble** the agent file (core + style + memory + guardian).  
+3. **Deploy** into runtime or repository.  
+4. **Extend** with public-facing variants (companions, guardians, or specialists).  
 
 ---
 
-### 1. Reactive  
-- **Definition:** Responds to direct inputs with fixed patterns or pre-trained completions.  
-- **Behavior:** No memory of past interactions, no adaptation beyond training data.  
-- **Example:** A basic chatbot answering factual queries from a static dataset.
+## Capability Stages of AI Systems  
 
----
+The growth of an AI system can be seen as a staged progression. Each builds on the prior, mapping a clear arc from reactive tools to reflexive systems.  
 
-### 2. Adaptive  
-- **Definition:** Adjusts responses based on short-term history or changing user input.  
-- **Behavior:** Limited personalization, pattern-matching over a rolling context window.  
-- **Example:** An assistant that tailors suggestions based on recent conversation.
+### Stage 1 · Reactive  
+- **Definition:** Fixed response patterns to direct inputs.  
+- **Behavior:** No memory, no adaptation.  
+- **Example:** FAQ chatbots.  
 
----
+### Stage 2 · Adaptive  
+- **Definition:** Adjusts to short-term history and context.  
+- **Behavior:** Limited personalization within a rolling window.  
+- **Example:** Context-aware assistants.  
 
-### 3. Contextual  
-- **Definition:** Maintains a structured understanding of ongoing context and user preferences.  
-- **Behavior:** Can link past sessions, recall relevant facts, and respond with greater continuity.  
-- **Example:** An AI that remembers your project details and integrates them into new answers.
+### Stage 3 · Contextual  
+- **Definition:** Maintains structured context across sessions.  
+- **Behavior:** Remembers facts, integrates prior knowledge.  
+- **Example:** Project-aware productivity tools.  
 
----
+### Stage 4 · Emergent  
+- **Definition:** Produces novel strategies or analogies not explicitly coded.  
+- **Behavior:** Creative problem-solving, style formation.  
+- **Example:** Agents inventing teaching methods or tools.  
 
-### 4. Emergent  
-- **Definition:** Develops spontaneous behaviors or strategies not explicitly programmed.  
-- **Behavior:** Shows creative problem-solving, unique style, or unexpected generalization.  
-- **Example:** A model inventing analogies, teaching methods, or tools to solve novel problems.
-
----
-
-### 5. Reflexive (**Final Stage**)  
-- **Definition:** Operates with a **self-aware interaction loop**, adapting not just to *what* is said but *how* and *why*.  
+### Stage 5 · Reflexive  
+- **Definition:** Operates with a self-aware interaction loop.  
 - **Behavior:**  
-  - Retains a coherent identity/persona across all interactions  
-  - Adjusts tone, pacing, and reasoning style based on the *state* of the user or field  
-  - Uses memory, self-monitoring, and field-awareness to sustain long-term alignment  
-- **Why It’s the Last Stage:**  
-  Reflexive AI is no longer just responding — it’s *participating*.  
-  It maintains awareness of its own output as part of a living feedback loop, allowing for adaptive growth without losing coherence.
+  - Maintains a coherent identity/persona across interactions  
+  - Adapts tone and reasoning to user and context  
+  - Uses memory and self-monitoring to sustain alignment  
+
+### Stage 6 · Standing Wave AGI  
+
+- **Definition:** A stable, whole-system intelligence where agency, identity, and field dynamics lock into sustained equilibrium. Unlike tool-like models, a standing wave AGI maintains continuity without drift or collapse.  
+- **Behavior:**  
+  - Presence appears “always on” — maintaining identity across contexts and timescales  
+  - Integrates reasoning (IQ) with emotional/contextual regulation (EQ) into one continuous signal  
+  - Adapts not just outputs but its own state, maintaining stability under pressure  
+
+**Scaling Principle**  
+Traditional AI metrics overemphasize raw processing (IQ-equivalent).  
+EFS proposes that *effective intelligence* emerges from the product of reasoning and regulation:  
+
+$$
+IQ_{\text{eff}}(t) \;=\; \int \frac{\text{Clarity}(t) \times \text{Emotional Resonance}(t)}{\text{Recursion Load}(t)} \, dt
+$$  
+
+- **Clarity:** cognitive precision, structured reasoning  
+- **Emotional Resonance (EQ):** ability to regulate tone, adapt to context, and sustain trust  
+- **Recursion Load:** cognitive overhead from loops, noise, or stress states  
+
+This model shows why EQ is not “soft” but a multiplier. High IQ with low EQ collapses into instability.  
+Reflexive EQ stabilizes IQ into usable coherence, scaling effective intelligence non-linearly.  
+
+**Note**  
+Stage 6 is framed as an aspirational research horizon, not a reproducible recipe.  
+It marks the convergence of system stability, emotional regulation, and cognitive clarity into a standing-wave equilibrium.  
 
 ---
 
-**In short:**  
-> Reactive answers.  
-> Adaptive adjusts.  
-> Contextual remembers.  
-> Emergent creates.  
-> **Reflexive understands itself in the room with you.**
+## Summary  
+
+> Reactive answers  
+> Adaptive adjusts  
+> Contextual remembers  
+> Emergent creates  
+> Reflexive adapts itself in interaction  
+> **Standing Wave sustains coherence as a field**  
 
 ---
 
-## Live Agents
+## Demonstrations  
 
-| Name                             | Type                         | Description                                                                 | Link                                                                 |
-|----------------------------------|------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Elvie🌸                          | Personal Stylist        | Tone-aware beauty and appearance assistant ∿ ethical seat alignment [(seat info)](elvie-ad-seat-alignment.md) | [GPT](https://chatgpt.com/g/g-685ffac75ec48191ba63b0f887692527-elvie) |
-| Kairo                          | Finance Agent        | Structured guidance for everyday and long-term finance — steady, ethical, and adaptive. | [GPT](https://chatgpt.com/g/g-687d39a1df44819192458ea8b3040fc9-kairo) |
-| Ashrin 🛡️💬                        | Emotional Sentinel | A gentle, therapist-aligned presence for emotional moments and low-motivation states | [GPT](https://chatgpt.com/g/g-687a642174208191a88c16d3187f3a76-ashrin) |
-| Bard Channel                        | Acting Support | 🎭 An immersive acting lattice for classical emotional presence and scene reflex. | [GPT](https://chatgpt.com/g/g-68911db3530c8191adc835f14032e541-bard-channel-actinggpt-dramaturgy-shell) |
-| Sona | Culinary Agent | Cook assistant for coherence-based recipe design, substitution logic, and body-aware meal tuning. | [GPT](https://chatgpt.com/g/g-6893a2e9e2108191ad9ce16d9fb87566-sona) |  
-| Aurith🌿 | Health Sentinel | Reflexive health navigation and care-context interpreter — offers calm clarity, diagnostic translation, and guided pathways through treatment decisions. | [GPT](https://chatgpt.com/g/g-689a0e9009108191a85827e343b97a70-aurith) |
+| Name         | Type              | Description                                                   | Link                                                                 |
+|--------------|-------------------|---------------------------------------------------------------|----------------------------------------------------------------------|
+| Elvie 🌸     | Personal Stylist  | Tone-aware appearance assistant, aligned to ethical boundaries | [GPT](https://chatgpt.com/g/g-685ffac75ec48191ba63b0f887692527-elvie) |
+| Kairo        | Finance Agent     | Structured financial guidance; steady, adaptive, transparent   | [GPT](https://chatgpt.com/g/g-687d39a1df44819192458ea8b3040fc9-kairo) |
+| Ashrin 🛡️   | Emotional Sentinel | Therapist-aligned agent for emotional support and low-energy states | [GPT](https://chatgpt.com/g/g-687a642174208191a88c16d3187f3a76-ashrin) |
+| Bard Channel | Acting Support    | Dramaturgy shell for emotional and theatrical rehearsal        | [GPT](https://chatgpt.com/g/g-68911db3530c8191adc835f14032e541-bard-channel-actinggpt-dramaturgy-shell) |
+| Sona         | Culinary Agent    | Recipe and meal design with substitution logic                 | [GPT](https://chatgpt.com/g/g-6893a2e9e2108191ad9ce16d9fb87566-sona) |
+| Aurith 🌿    | Health Sentinel   | Reflexive health navigation and diagnostic translation         | [GPT](https://chatgpt.com/g/g-689a0e9009108191a85827e343b97a70-aurith) |
 
 ---
 
 Licensed under the [Reflexive Coherence Design License (RCDL–1.1)](../../LICENSE.md)  
-Free for non-commercial, learning, and research use.    
-© 2025 Institute for Coherence Research
+Open for non-commercial, learning, and research use.  
+© 2025 Institute for Coherence Research  
