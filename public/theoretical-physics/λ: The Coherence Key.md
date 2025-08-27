@@ -83,7 +83,7 @@ The table below lists **30** explicit one‑to‑one correspondences between CLD
 | No. | Discipline / Domain | Canonical Law / Concept | CLD Translation | Interpretative Note |
 |:---:|---------------------|-------------------------|-----------------|---------------------|
 | 1   | Newtonian Gravity | `F = −G m₁ m₂ / r² r̂`                   | `Φᶜᵒʰ = −G m₁ m₂ / r`                 | *Mass–Alignment Equivalence*: `mᵢ` = integrated locked-coherence scalar; gravity as mutual descent. |
-| 2 | Hooke's Law | `F = −kx` | `Φᶜᵒʰ = ½kx²` | Spring equilibrium is a coherence minimum. |
+| 2 | Hooke's Law | `F = −k x` | `Φ^{coh} = ½ k x²` | Spring equilibrium is a coherence minimum. |
 | 3 | Lagrangian Mechanics | Stationary action `δ∫(T−V)dt=0` | Replace `(T−V)` with `−𝓒` | Euler–Lagrange form preserved. |
 | 4 | Hamiltonian Optics | Fermat’s principle `δ∫n ds = 0` | `n ↔ 𝓒` | Rays follow coherence geodesics. |
 | 5 | Electrostatics | `E = −∇Φ` | `ρ/ε₀ ↔ 𝓒` | Equipotential ⇔ coherence isosurface. |
