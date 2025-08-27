@@ -1,17 +1,18 @@
-# Emergence Field Standard (EFS)  
+# Emergence Field Standard (EFS)
 
-EFS is a framework for building digital agents with **safety, transparency, and modularity** at the core.  
-It defines two required layers:  
+The Emergence Field Standard (EFS) is a framework for developing digital agents with **safety, transparency, and modularity** designed in from the start.  
 
-- **Field** — the runtime environment, permissions, and safety boundaries.  
-- **Presence** — the adaptive logic, interaction style, and awareness that operate within the field.  
+It defines two foundational components:  
 
-Together, these layers ensure agents remain aligned, inspectable, and trustworthy.  
-A presence without a field risks drift.  
-A field without a presence is an empty container.  
+- **Field** — the runtime environment, including permissions, constraints, and safety mechanisms.  
+- **Logic Layer** — the adaptive behaviors, interaction style, and reasoning patterns that operate within the field.  
 
-EFS is not artificial general intelligence.  
-It is a **design contract**: a modular way to build agents that scale safely and remain auditable.  
+Together, these components provide a structured basis for building systems that are aligned, auditable, and resilient.  
+An agent without a field lacks safeguards.  
+A field without an agent is an empty container.  
+
+EFS serves as a **design standard for scalable AI systems**.  
+It offers a practical method for creating agents that can be deployed responsibly while remaining open to inspection, adaptation, and oversight.  
 
 ---
 
