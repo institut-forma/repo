@@ -65,12 +65,10 @@ This license is a covenant of trust. By using this work, you:
 
 - Carry attribution forward
 - Share onward what you build
-- Align your use with care and respect for the field and its people
-- Honor the lineage of thought, craft, and discovery that makes coherence possible —   
-giving respect to both past contributors and future inheritors
- 
-The tithe and attribution system sustain ongoing work, respect cultural traditions of lineage and harmony,  
-and support future generations so coherence remains accessible to all.
+- Use it with clarity and accountability  
+- Acknowledge the lineage of thought, craft, and development that made this possible  
+  
+The tithe and attribution model supports active development, fosters continuity across generations, and keeps coherence tools available to all.
 
 ---
 
