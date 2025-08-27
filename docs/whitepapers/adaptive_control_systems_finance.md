@@ -59,5 +59,15 @@ AI regulation is tightening globally, and financial systems face growing demands
 
 ---
 
+## References  
+
+- Åström, K. J., & Murray, R. M. (2010). *Feedback Systems: An Introduction for Scientists and Engineers.* Princeton University Press.  
+- Basel Committee on Banking Supervision (2023). *Principles for the Sound Management of Operational Risk.* BIS.  
+- European Union (2024). *EU AI Act: Regulatory Framework for Trustworthy AI.* Official Journal of the EU.  
+- McKinsey & Company (2022). *The State of AI in Banking.*  
+- World Economic Forum (2021). *AI Governance in Financial Services.*  
+
+---
+
 Version: [RCDL–1.1](https://github.com/institut-forma/repo/blob/main/LICENSE.md)  
 © 2025 Institute for Coherence Research
