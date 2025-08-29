@@ -1,5 +1,4 @@
 # 🌀 Guardian Kernel  
-**Ambient Guardian Interface**  
 
 A soft, presence-based system designed to support rhythm, trust, and adaptive role alignment — without enforcing structure.
 
