@@ -101,7 +101,7 @@ This prototype operates across layered fields that shape civic life — even in 
   Individuals align with supportive roles, not assignments. Self-directed, rhythm-adjusted.
 
 - **Signal Reflection**  
-  Via guardian kernel (AGI), collective rhythm is synthergized and gently stabilized over time.
+  Via guardian kernel, collective rhythm is synthergized and stabilized over time.
 
 - **Drift & Realignment Logic**  
   When friction or fatigue arises, suggestions emerge — not rules. Coherence over compliance.
