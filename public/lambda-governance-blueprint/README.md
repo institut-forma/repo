@@ -25,14 +25,6 @@ Everything—metrics, proposals, votes—lives in a public ledger.
 
 ---
 
-## Why It Feels Alive (But Isn’t Skynet)
-The system continuously **compares intent vs. reality** and nudges itself—exactly how living organisms stay balanced.  That feedback loop gives it a *responsive* flavour, yet its moves are:
-- **Predictable** (formula published)
-- **Bounded** (step‑size cap)
-- **Reversible** (rollback on score rise)
-
----
-
 ## Safety by Design
 | Layer | Built‑in Safeguard |
 |-------|-------------------|
