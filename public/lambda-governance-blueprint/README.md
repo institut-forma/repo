@@ -1,78 +1,92 @@
-# λ Lambda Governance — Blueprint 
-*A gentle, data‑guided way to keep policy and public goals in sync*
+# λ Lambda Governance Framework
+
+*A structured, data-guided approach to align policy decisions with public goals*
 
 ---
 
-## What Is It?
-Think of a city—or any organisation—as a car on a long trip.
-- **Destination** = the community’s shared goals (fairness, trust, sustainability…).
-- **Dashboard number** = one live score that shows how far we are from those goals.
-- **Navigation nudges** = small policy tweaks that always push the score down.
+## Core Idea
 
-> **Rule of thumb:** no law, budget, or program should make the score go up.
+The framework establishes a single, transparent score that reflects how well current policies align with agreed community goals such as fairness, trust, and sustainability. Each policy action is assessed for its effect on this score. The principle is simple: measures that lower misalignment are advanced, measures that increase it are rolled back.
+
+> **Rule of thumb:** no law, budget, or program should worsen the score.
 
 ---
 
-## The Four‑Step Loop
-| Step | What Happens | Everyday Example |
-|------|--------------|------------------|
-| **1. Sense** | Live data streams update the score. | Sensors show buses are late in one district. |
-| **2. Plan** | System finds the gentlest fix that lowers mismatch. | Suggest a bus‑only lane + schedule app. |
-| **3. Act** | Council & citizens approve trial; change is logged. | Pilot runs for 3 months. |
-| **4. Check** | Score recalculates. If it drops, policy stays; if it rises, roll back. | Travel times improve → score drops → lane stays. |
+## The Four-Step Loop
 
-Everything—metrics, proposals, votes—lives in a public ledger.
+| Step         | What Happens                                                            | Example                                                      |
+| ------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **1. Sense** | Data streams update the score in real time.                             | Metrics show travel times are worsening in one district.     |
+| **2. Plan**  | Identify the smallest effective adjustment.                             | A bus-only lane is proposed.                                 |
+| **3. Act**   | Council and citizens approve a limited trial.                           | Lane runs for 3 months.                                      |
+| **4. Check** | Score recalculates. If it drops, the change stays. If it rises, revert. | Travel times improve → score drops → lane becomes permanent. |
+
+All metrics, proposals, and approvals are recorded in a public ledger for accountability.
 
 ---
 
 ## Safety by Design
-| Layer | Built‑in Safeguard |
-|-------|-------------------|
-| **Metrics** | Public, editable weightings—no hidden objectives. |
-| **Step Size** | Hard speed‑limit on policy change per cycle. |
-| **Guardian Brake** | Auto‑halt if the score spikes. |
-| **Human Veto** | Citizens or elected reps approve each nudge. |
+
+| Layer              | Safeguard                                                     |
+| ------------------ | ------------------------------------------------------------- |
+| **Metrics**        | Public, editable weightings with no hidden objectives.        |
+| **Step Size**      | Hard limit on the scale of change per cycle.                  |
+| **Guardian Brake** | Automatic halt if the score rises sharply.                    |
+| **Human Veto**     | Citizens or elected representatives must approve each action. |
 
 ---
 
-## φ‑Layer — Ethics & Privacy as Hard Alignment Terms  
+## φ-Layer: Ethics and Privacy as Non-Negotiable Terms
 
-The *φ‑layer* embeds dignity, autonomy, fairness, and privacy **into the same coherence score** that guides every policy nudge.  No step is allowed to trade these away invisibly.
+The φ-layer embeds dignity, autonomy, fairness, and privacy directly into the score. No decision can override these safeguards.
 
-### 1 · Ethics–Privacy Potential
-```
-Φ^{gov}(s) = w_core Φ^{core}(s)  +  w_φ Φ^{φ}(s)
-```
-- `Φ^{core}` — existing economic / resilience / sustainability terms.  
-- `Φ^{φ}`   — scalar mis‑alignment in ethics & privacy space.  
-- `w_φ`     — non‑zero, publicly set weight (default ≥ 0.25).
+### 1 · Alignment Function
 
-### 2 · Indicators Feeding Φ^{φ}
-| Metric | Meaning | Threshold (hard cap) |
-|--------|---------|----------------------|
-| **Privacy‑loss ε** | Cumulative differential‑privacy budget consumed | ε ≤ 0.1 |
-| **Bias divergence δ** | Demographic parity gap (stat fairness) | δ ≤ 0.05 |
-| **Consent latency τ** | Median time for individuals to approve/deny data use | τ ≤ 48 h |
-| **Autonomy ratio α** | Human veto events / total AI‑suggested actions | α ≥ 0.10 |
+$$
+Φ^{gov}(s) = w_{core} Φ^{core}(s) + w_{φ} Φ^{φ}(s)
+$$
 
-### 3 · φ‑Gradient & Step
-```
-λ_φ(s) = −∇ Φ^{φ}(s)       ;       Δs_φ = η_φ λ_φ(s)
-```
-`λ_φ` is combined with the core gradient before any policy update:  
-`Δs_total = η ( w_core λ_core + w_φ λ_φ )`
+* \$Φ^{core}\$ = economic, resilience, and sustainability terms
+* \$Φ^{φ}\$ = misalignment in ethics and privacy
+* \$w\_{φ}\$ = non-zero, publicly set weight (default ≥ 0.25)
 
-### 4 · Guardian “φ‑Gate”
-If any proposed Δ‑step causes a metric to cross its cap (ε, δ, τ, α):
+### 2 · Indicators Feeding \$Φ^{φ}\$
+
+| Metric                | Meaning                                                 | Threshold (hard cap) |
+| --------------------- | ------------------------------------------------------- | -------------------- |
+| **Privacy-loss ε**    | Differential-privacy budget consumed                    | ε ≤ 0.1              |
+| **Bias divergence δ** | Demographic parity gap                                  | δ ≤ 0.05             |
+| **Consent latency τ** | Median time for individuals to approve or deny data use | τ ≤ 48 h             |
+| **Autonomy ratio α**  | Human veto events / total suggested actions             | α ≥ 0.10             |
+
+### 3 · Gradient Update Rule
+
+$$
+λ_φ(s) = -∇ Φ^{φ}(s) \quad ; \quad Δs_φ = η_φ λ_φ(s)
+$$
+
+Combined update rule:
+
+$$
+Δs_{total} = η ( w_{core} λ_{core} + w_{φ} λ_{φ} )
+$$
+
+### 4 · Guardian φ-Gate
+
+If any proposed Δ-step causes a metric to cross its cap (ε, δ, τ, α):
+
 ```
-auto‑halt → review cycle
+auto-halt → review cycle
 ```
-No override path; ethics and privacy are *non‑exchangeable goods*.
+
+No override permitted. Ethics and privacy are treated as non-exchangeable goods.
 
 ### 5 · Transparency Clause
-> **All edits** to `w_φ`, indicator formulas, or raw ethics‑privacy data streams **must** undergo a two‑step public review: technical audit + citizen panel.
+
+> All edits to \$w\_{φ}\$, indicator formulas, or ethics-privacy data streams must undergo a two-step public review: technical audit + citizen panel.
 
 ### 6 · YAML Snippet (repo/indicators.yaml)
+
 ```yaml
 privacy_loss:
   weight: 0.25
@@ -87,21 +101,25 @@ autonomy_ratio:
   weight: 0.20
   threshold: 0.10       # minimum human veto share
 ```
+
 ---
 
-## Get Started in Five Moves
-1. **Pick a pilot zone** (campus, district, online DAO).  
-2. **Publish the first score** (how it’s calculated + live dashboard).  
-3. **Run monthly cycles** on one issue (e.g., public transport).  
-4. **Log every action & score change** in an open repo or ledger.  
-5. **Iterate**—adjust metrics and step limits with community feedback.
+## Implementation Path
+
+1. **Select a pilot zone** (campus, district, online assembly)
+2. **Publish the first score** with full metric definitions and a live dashboard
+3. **Run monthly cycles** on one issue (e.g., public transport)
+4. **Log every action and score change** in an open repository or ledger
+5. **Iterate** by adjusting metrics and limits with community feedback
 
 ---
 
 ### Quick FAQ
-- **Is this AI taking over?**  No. It’s a *speedometer + gentle steering suggestion*; people hold the wheel.
-- **Can the score be gamed?**  It’s transparent. If you see a loophole, you flag it; metrics get patched.
-- **What if data is wrong?**  Bad data raises the score unpredictably—triggers an investigation cycle.
 
+* **Is this replacing human decision-making?**  No. It is a score and feedback method; people retain decision authority.
+* **Can the score be gamed?**  It is transparent. If a loophole is found, it is flagged and metrics are patched.
+* **What if data is wrong?**  Faulty data raises the score unpredictably and triggers an investigation cycle.
 
-> *© 2025 Institute for Coherence Research · RCDL-1*
+---
+
+© 2025 Institute for Coherence Research · RCDL-1
