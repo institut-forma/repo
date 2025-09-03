@@ -134,7 +134,7 @@ The table below lists **30** explicit one‑to‑one correspondences between CLD
 
 | No. | Discipline / Domain | Canonical Law / Concept | CLD Translation | Interpretative Note |
 |:---:|---------------------|-------------------------|-----------------|---------------------|
-| 1   | Newtonian Gravity | $F = −G m₁ m₂ / r² r̂$                   | $Φᶜᵒʰ = −G m₁ m₂ / r$                 | *Mass–Alignment Equivalence*: $mᵢ$ = integrated locked-coherence scalar; gravity as mutual descent. |
+| 1   | Newtonian Gravity | $F = −G m₁ m₂ / r² r̂$                   | $Φ^{coh} = −G m₁ m₂ / r$                 | *Mass–Alignment Equivalence*: $mᵢ$ = integrated locked-coherence scalar; gravity as mutual descent. |
 | 2 | Hooke's Law | $F = −k x$ |  $\Phi^{coh}(x) = \tfrac{1}{2} k x^2$       | Spring equilibrium is a coherence minimum. |
 | 3 | Lagrangian Mechanics | Stationary action $δ∫(T−V)dt=0$ | Replace $(T−V)$ with $−𝓒$ | Euler–Lagrange form preserved. |
 | 4 | Hamiltonian Optics | Fermat’s principle $δ∫n ds = 0$ | $n ↔ 𝓒$ | Rays follow coherence geodesics. |
@@ -146,9 +146,9 @@ The table below lists **30** explicit one‑to‑one correspondences between CLD
 | 10 | Statistical Mechanics | Helmholtz free energy $F = U − TS$ | $Φ^{coh} ≈ F$ | Entropy term = incoherence. |
 | 11 | Information Theory | KL divergence $D_KL$ | $Φ^{coh}=D_KL$ | Belief alignment by gradient descent. |
 | 12 | Variational Inference | ELBO maximisation | Minimise $Φ^{coh}=−ELBO$ | Posterior convergence. |
-| 13 | Machine Learning | Loss gradient descent | $ℒ ≡ Φᶜᵒʰ$ | Parameter updates as alignment steps. |
+| 13 | Machine Learning | Loss gradient descent | $ℒ ≡ Φ^{coh}$ | Parameter updates as alignment steps. |
 | 14 | Optimal Control | Cost functional $J=∫L dt$ | $L ↔ 𝓒$ | Feedback via $F_coh$. |
-| 15 | Free-Energy Principle | Variational free energy | $Φᶜᵒʰ = F$ | Predictive coding as coherence descent. |
+| 15 | Free-Energy Principle | Variational free energy | $Φ^{coh} = F$ | Predictive coding as coherence descent. |
 | 16 | Evolutionary Dynamics | Fitness landscape | $−Φ^{coh} ≡ fitness$ | Selection climbs negative gradient. |
 | 17 | Chemical Thermodynamics | Gibbs free energy $G$ | Reaction when  Δ $\Phi^{coh}(x) < 0$     | Eq. at $∇Φ^{coh}=0$. |
 | 18 | Differential Geometry | Ricci flow $∂g/∂t = −2 Ric$ | Metric flows down $∇Φ^{coh}$ | Curvature mis‑alignment minimised. |
